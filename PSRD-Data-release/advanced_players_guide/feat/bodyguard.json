@@ -1,0 +1,30 @@
+{
+    "name": "Bodyguard", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Bodyguard", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Combat Reflexes."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally's AC. You may not use the aid another action to improve your ally's attack roll with this attack.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Aid another is a standard action.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "Your swift strikes ward off enemies attacking nearby allies."
+}

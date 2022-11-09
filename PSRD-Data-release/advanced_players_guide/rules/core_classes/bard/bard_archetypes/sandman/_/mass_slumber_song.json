@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"mass-slumber-song\">At 18th level, a sandman can use slumber song to affect any number of fascinated creatures within 30 feet. Otherwise, this ability functions like <i>mass suggestion</i>. This performance replaces <i>mass suggestion</i>.</p>", 
+    "name": "Mass Slumber Song", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Bard/Bard Archetypes/Sandman/Bardic Performance/Mass Slumber Song", 
+    "ability_types": {
+        "ability_type": "Spell-Like"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

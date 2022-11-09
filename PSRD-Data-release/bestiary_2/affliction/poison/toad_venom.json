@@ -1,0 +1,12 @@
+{
+    "name": "Toad Venom", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Toad/Giant/Special Abilities/Poison Skin/Toad Venom", 
+    "contracted": "contact", 
+    "effect": "1d2 Wisdom damage", 
+    "subtype": "poison", 
+    "cure": "1 save", 
+    "frequency": "1/round for 4 rounds", 
+    "save": "Fortitude DC 14", 
+    "type": "affliction"
+}

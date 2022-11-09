@@ -1,0 +1,24 @@
+{
+    "body": "<p class=\"stat-block-1\">You have an even greater knack than most halflings for adaptable luck.</p>", 
+    "name": "Fortunate One", 
+    "url": "pfsrd://Advanced Race Guide/Races/Halflings/New Racial Rules/Halfling Feats/Fortunate One", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Adaptable luck racial trait, halfling.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">The number of times per day you can use the adaptable luck racial trait increases by 1.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

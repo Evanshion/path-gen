@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"agile\">A daredevil adds half her class level (minimum 1) on Acrobatics, Bluff, Climb, and Escape Artist checks. This ability replaces bardic knowledge.</p>", 
+    "name": "Agile", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Bard/Bard Archetypes/Daredevil/Agile", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

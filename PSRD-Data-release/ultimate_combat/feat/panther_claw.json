@@ -1,0 +1,24 @@
+{
+    "name": "Panther Claw", 
+    "url": "pfsrd://Ultimate Combat/Feats/Panther Claw", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style."
+        }, 
+        {
+            "body": "<p>While using Panther Style, you can spend a free action, instead of spending a swift action, to make a retaliatory unarmed strike. You can make a number of retaliatory unarmed strikes on your turn equal to your Wisdom modifier.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You unleash a rapid series of blows on foes that attempt to attack you when you move."
+}

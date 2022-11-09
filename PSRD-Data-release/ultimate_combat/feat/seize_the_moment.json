@@ -1,0 +1,24 @@
+{
+    "name": "Seize the Moment", 
+    "url": "pfsrd://Ultimate Combat/Feats/Seize the Moment", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Combat Reflexes, Improved Critical."
+        }, 
+        {
+            "body": "<p>When an ally who also has this feat confirms a critical hit against an opponent that you also threaten, you can make an attack of opportunity against that opponent.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Teamwork"
+    }, 
+    "type": "feat", 
+    "description": "You and your allies are poised to pounce whenever one of you scores a telling blow. "
+}

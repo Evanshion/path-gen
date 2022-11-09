@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"unholy-resilience\">At 2nd level, an antipaladin gains a bonus equal to his Charisma bonus (if any) on all saving throws.</p>", 
+    "name": "Unholy Resilience", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Paladin/Antipaladin/Class Features/Unholy Resilience", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

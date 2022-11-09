@@ -1,0 +1,30 @@
+{
+    "name": "Extra Discovery", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Extra Discovery", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Discovery class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You gain one additional discovery. You must meet all of the prerequisites for this discovery.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can gain Extra Discovery multiple times. </p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You have made a new alchemical discovery."
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Extra Bane", 
+    "url": "pfsrd://Ultimate Combat/Feats/Extra Bane", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Bane class feature."
+        }, 
+        {
+            "body": "<p>You can use your bane ability for 3 additional rounds per day.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You can use your bane ability more often than normal."
+}

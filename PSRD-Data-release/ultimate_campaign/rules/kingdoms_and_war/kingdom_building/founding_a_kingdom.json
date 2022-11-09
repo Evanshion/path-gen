@@ -1,0 +1,37 @@
+{
+    "body": "<p>Once you have your first settlement, you have the start of a kingdom. You'll need to make some initial decisions that affect your kingdom's statistics, and record them.</p>", 
+    "name": "Founding a Kingdom", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Building/Founding a Kingdom", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>. Your kingdom's alignment helps determine how loyal, prosperous, and stable your kingdom is. Your kingdom may be a lawful good bastion against a nearby land of devil worshipers, or a chaotic neutral territory of cutthroat traders whose government does very little to interfere with the rights of its citizens.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Building/Founding a Kingdom/Choose Your Kingdoms Alignment", 
+            "type": "section", 
+            "name": "Choose Your Kingdom's Alignment", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>. Assign the leadership roles for all PCs and NPCs involved in running the kingdom, such as Ruler, General, and High Priest. The leadership roles provide bonuses on checks made to collect taxes, deal with rioting citizens, and resolve similar issues.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Building/Founding a Kingdom/Choose Leadership Roles", 
+            "type": "section", 
+            "name": "Choose Leadership Roles", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>. The build points you have left over from starting your first settlement make up your initial Treasury.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Building/Founding a Kingdom/Start Your Treasury", 
+            "type": "section", 
+            "name": "Start Your Treasury", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>. Your initial Economy, Loyalty, and Stability scores are based on the kingdom's alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)</p><p>Once you've completed these steps, move on to Kingdom Turn Sequence.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Building/Founding a Kingdom/Determine Your Kingdoms Attributes", 
+            "type": "section", 
+            "name": "Determine Your Kingdom's Attributes", 
+            "source": "Ultimate Campaign"
+        }
+    ]
+}

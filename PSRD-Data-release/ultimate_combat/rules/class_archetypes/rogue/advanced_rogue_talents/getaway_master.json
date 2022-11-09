@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"getaway-master\" class=\"stat-block-2\">A rogue with this talent gains a +10 bonus on all drive checks. The rogue must have the getaway artist rogue talent before choosing this talent. </p>", 
+    "name": "Getaway Master", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Rogue/Advanced Rogue Talents/Getaway Master", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

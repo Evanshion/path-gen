@@ -1,0 +1,7 @@
+{
+    "body": "<table><thead><tr><th>Type</th><th>Price</th><th>Weight</th></tr></thead><tr class=\"odd\"><td>Common</td><td>15 gp</td><td>25 lbs.</td></tr><tr class=\"even\"><td>Deluxe</td><td>130 gp</td><td>15 lbs.</td></tr></table>", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Gear/Adventuring Gear/Dungeoneering Kit/Type", 
+    "type": "table", 
+    "name": "Type", 
+    "source": "Ultimate Equipment"
+}

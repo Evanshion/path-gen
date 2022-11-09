@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"servant-of-balance\">Whenever a critical hit is confirmed against you, the attack deals normal damage instead of critical damage. Other effects that trigger on a successful critical hit (such as the Blinding Critical feat, the fire damage from a critical hit with a <i>flaming burst</i> weapon, or the effects of a <i>vorpal</i> weapon) all affect you normally.</p>", 
+    "name": "Servant of Balance", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Hierophant/Hierophant Features/6th-Tier Hierophant Path Abilities/Servant of Balance", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

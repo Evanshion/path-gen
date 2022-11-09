@@ -1,0 +1,66 @@
+{
+    "body": "<p>Undines are defined by class levels&mdash;they do not possess racial Hit Dice. Undines have the following racial traits.</p>", 
+    "name": "Undine", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Undine/Undine", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p id=\"+2-dexterity,-+2-wisdom,--2-strength\">Undines are both perceptive and agile, but tend to adapt rather than match force with force. </p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Wisdom, -2 Strength"
+        }, 
+        {
+            "body": "<p id=\"speed\">Undines have a swim speed of 30 feet.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Undine/Undine/Speed", 
+            "type": "section", 
+            "name": "Speed", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"darkvision\">Undines can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p id=\"spell-like-abilities\"><i>Hydraulic push</i> 1/day. (Caster level equals the undine's total Hit Dice.)</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Spell-Like Abilities"
+        }, 
+        {
+            "body": "<p id=\"elemental-resistance\">Undines have cold resistance 5.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Undine/Undine/Energy Resistance", 
+            "type": "section", 
+            "name": "Energy Resistance", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "See Undine/Special Abilities/Elemental Affinity", 
+            "source": "Bestiary 2", 
+            "type": "link", 
+            "name": "Water Affinity"
+        }, 
+        {
+            "body": "<p id=\"languages\">Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose any of the following bonus languages: Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Undine Monster Entry", 
+                    "source": "Bestiary 2", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 2"
+        }
+    ]
+}

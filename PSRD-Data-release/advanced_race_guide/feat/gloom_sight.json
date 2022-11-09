@@ -1,0 +1,24 @@
+{
+    "body": "<p>With a combination of strange shadow magic and chirurgery, your eyes are permanently modified to see farther in darkness.</p>", 
+    "name": "Gloom Sight", 
+    "url": "pfsrd://Advanced Race Guide/Races/Fetchlings/New Racial Rules/Fetchling Feats/Gloom Sight", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Fetchling.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain darkvision 90 ft., but gain the light sensitivity weakness. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

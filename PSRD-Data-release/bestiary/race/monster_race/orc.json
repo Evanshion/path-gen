@@ -1,0 +1,57 @@
+{
+    "body": "<p>Orcs are defined by their class levels&mdash;they do not possess racial Hit Dice. All orcs have the following racial traits.</p>", 
+    "name": "Orc", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Orc/Orc", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Orcs are brutal and savage.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "+4 Strength, -2 Intelligence, -2 Wisdom, -2 Charisma"
+        }, 
+        {
+            "body": "<p>Orcs can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "source": "Bestiary", 
+            "type": "link", 
+            "name": "Ferocity"
+        }, 
+        {
+            "source": "Bestiary", 
+            "type": "link", 
+            "name": "Light Sensitivity"
+        }, 
+        {
+            "body": "<p>Orcs are always proficient with greataxes and falchions, and treat any weapon with the word &ldquo;orc&rdquo; in its name as a martial weapon.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Orc/Orc/Weapon Familiarity", 
+            "type": "section", 
+            "name": "Weapon Familiarity", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Orcs begin play speaking Common and Orc. Orcs with high Intelligence scores can choose from among the following bonus languages: Dwarven, Giant, Gnoll, Goblin, Undercommon.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Orc Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "body": "<p>Your ties to nature have more to do with creatures than with capriciousness.</p>", 
+    "name": "Sylvan", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Sylvan", 
+    "type": "section", 
+    "source": "Ultimate Magic", 
+    "sections": [
+        {
+            "body": "<p id=\"associated-bloodline\">Fey.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Associated Bloodline"
+        }, 
+        {
+            "body": "<p id=\"bloodline-arcana\">See bloodline powers.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Bloodline Arcana"
+        }, 
+        {
+            "body": "<p id=\"bloodline-powers\">Your magic shows a kinship to that of the beast-talkers and shapechanger fey.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"animal-companion\">You gain an animal companion. Your effective druid level for this ability is equal to your sorcerer level &ndash; 3 (minimum 1st). This bloodline power counts as your bloodline arcana and also replaces laughing touch.</p>", 
+                    "name": "Animal Companion", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Sylvan/Bloodline Powers/Animal Companion", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "<p id=\"fey-wings\">At 15th level, you can grow insectlike wings from your back and become one size category smaller (as if you had used <i>reduce person</i>), gaining a fly speed of 60 feet with average maneuverability. You can maintain this form for 1 minute per level. This duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces fey magic.</p>", 
+                    "name": "Fey Wings", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Sylvan/Bloodline Powers/Fey Wings", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Bloodline Powers", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

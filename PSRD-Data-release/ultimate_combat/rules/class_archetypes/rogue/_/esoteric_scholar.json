@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"esoteric-scholar\" class=\"stat-block-2\">Once a day, a rogue with this talent may attempt a Knowledge check, even when she is not trained in that Knowledge skill. </p>", 
+    "name": "Esoteric Scholar", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Rogue/Rogue Talents/Esoteric Scholar", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

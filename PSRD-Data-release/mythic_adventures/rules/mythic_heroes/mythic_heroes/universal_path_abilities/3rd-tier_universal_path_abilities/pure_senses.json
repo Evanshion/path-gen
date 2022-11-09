@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"pure-senses\">Your senses are extraordinarily keen. You're immune to blindness and deafness caused by non-mythic sources. Such effects from mythic sources count as mythic for the purposes of this ability.</p>", 
+    "name": "Pure Senses", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Mythic Heroes/Universal Path Abilities/3rd-Tier Universal Path Abilities/Pure Senses", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

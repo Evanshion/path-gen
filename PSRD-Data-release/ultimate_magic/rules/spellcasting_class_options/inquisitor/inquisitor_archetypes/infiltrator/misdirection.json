@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"misdirection\">At 1st level, each day when the infiltrator prepares spells, she may choose an alignment. She detects as that alignment as if she had used <i>misdirection</i> on a creature with that alignment (this does not change any divination results about her other than her alignment). This power replaces stern gaze.</p>", 
+    "name": "Misdirection", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitor Archetypes/Infiltrator/Misdirection", 
+    "ability_types": {
+        "ability_type": "Spell-Like"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

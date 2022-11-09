@@ -1,0 +1,324 @@
+{
+    "body": "<p>Gripplis stand just over 2 feet tall and have mottled green-and-brown skin. Most gripplis are primitive hunter gatherers, living on large insects and fish found near their treetop homes, and are unconcerned about events outside their swamps. The rare grippli who leaves the safety of the swamp tends to be a ranger or alchemist seeking to trade for metals and gems.</p>", 
+    "name": "Gripplis", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Gripplis", 
+    "type": "race", 
+    "subtype": "uncommon_race", 
+    "sections": [
+        {
+            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Racial Traits", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Gripplis are nimble and alert, but spindly.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Racial Traits/+2 Dexterity/+2 Wisdom/-2 Strength", 
+                    "type": "section", 
+                    "name": "+2 Dexterity, +2 Wisdom, -2 Strength", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p>Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a &ndash;1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Small"
+                }, 
+                {
+                    "body": "<p>Gripplis are humanoids with the grippli subtype.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Racial Traits/Grippli", 
+                    "type": "section", 
+                    "name": "Grippli", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p>Gripplis have a base speed of 30 feet and a climb speed of 20 feet.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Normal Speed"
+                }, 
+                {
+                    "body": "<p>Gripplis can see in the dark up to 60 feet.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Darkvision"
+                }, 
+                {
+                    "body": "<p>Gripplis receive a +4 racial bonus on Stealth checks in marshes and forested areas.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Racial Traits/Camouflage", 
+                    "type": "section", 
+                    "name": "Camouflage", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p>A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Racial Traits/Swamp Stride (Ex)", 
+                    "type": "section", 
+                    "name": "Swamp Stride (Ex)", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p>Gripplis are proficient with nets.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Weapon Familiarity"
+                }, 
+                {
+                    "body": "<p>Gripplis begin play speaking Common and Grippli. Gripplis with high Intelligence scores can choose from the following: Boggard, Draconic, Elven, Gnome, Goblin, and Sylvan.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Languages"
+                }
+            ], 
+            "name": "Grippli Racial Traits", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following racial traits may be selected instead of existing grippli racial traits. Consult your GM before selecting any of these new options.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Gripplis' aerodynamic bodies and thick webbing between the toes enable a falling grippli to treat the distance fallen as half the actual distance. The grippli can steer himself while falling, moving horizontally up to a number of feet equal to half the vertical distance fallen. The grippli cannot use this trait if it is wearing heavy armor, is carrying a heavy load, or is unable to react to the fall (such as being helpless). This racial trait replaces swamp stride.</p>", 
+                    "name": "Glider", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Alternate Racial Traits/Glider", 
+                    "subtype": "grippli", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p>Gripplis with this trait are always considered to have a running start when making Acrobatics checks to jump. This racial trait replaces camouflage.</p>", 
+                    "name": "Jumper", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Alternate Racial Traits/Jumper", 
+                    "subtype": "grippli", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p>The grippli gains proficiency with rapiers and a +2 racial bonus on Diplomacy and Intimidate checks. This racial trait replaces swamp stride and weapon familiarity. </p>", 
+                    "name": "Princely", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Alternate Racial Traits/Princely", 
+                    "subtype": "grippli", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p>Once per day as a swift action, a grippli can create a poison that can be applied to a weapon or delivered as a touch attack. Alternatively, the grippli can smear the poison on its own body as a standard action, affecting the first creature to hit it with an unarmed strike or natural weapon. The poison loses its potency after 1 hour. The grippli is immune to its own poison. This racial trait replaces swamp stride and camouflage.</p><blockquote><p><i>Grippli Poison</i>: Skin or weapon&mdash;contact or injury; save Fort DC 10 + 1/2 the grippli's Hit Dice plus its Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save.</p></blockquote>", 
+                    "name": "Toxic Skin (Ex)", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Alternate Racial Traits/Toxic Skin (Ex)", 
+                    "subtype": "grippli", 
+                    "type": "racial_trait"
+                }
+            ], 
+            "name": "Alternate Racial Traits", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following options are available to all gripplis who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Add +1/4 to the number of toxic skin uses per day.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Alchemist"
+                }, 
+                {
+                    "body": "<p>Add a +1/2 bonus on concentration checks. This bonus doubles in a forest or swamp terrain.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Druid"
+                }, 
+                {
+                    "body": "<p>Add a +1/4 bonus on attack rolls when making a utility shot or a dead shot.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Gunslinger"
+                }, 
+                {
+                    "body": "<p>Add a +1/2 bonus on Perception checks while in a forest or swamp.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Rogue"
+                }, 
+                {
+                    "body": "<p>Add a +1 racial bonus on Swim skill checks. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Swim checks).</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Ranger"
+                }
+            ], 
+            "name": "Favored Class Options", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following racial archetype is available to gripplis.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Some grippli alchemists are particularly attuned to the swamps and the dangerous creatures that inhabit them; these serve as their laboratories and research subjects, respectively. These bogborn alchemists have the following class features.</p>", 
+                    "name": "Bogborn Alchemist (Alchemist)", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Racial Archetypes/Bogborn Alchemist (Alchemist)", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p id=\"class-skills\">A bogborn alchemist adds Swim to his list of class skills.</p>", 
+                            "source": "Advanced Race Guide", 
+                            "type": "section", 
+                            "name": "Class Skills"
+                        }, 
+                        {
+                            "body": "<p>At 1st level, when a bogborn alchemist uses a mutagen, he may choose to have his mutagen form enhanced for aquatic movement. This gives him the amphibious special quality, his feet elongate, and the webbing between his fingers and toes expands, granting a swim speed of 15 feet. This replaces throw anything.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Racial Archetypes/Bogborn Alchemist (Alchemist)/Amphibious Mutagen (Ex)", 
+                            "type": "section", 
+                            "name": "Amphibious Mutagen (Ex)", 
+                            "source": "Advanced Race Guide"
+                        }, 
+                        {
+                            "body": "<p id=\"discovery-options\">A bogborn alchemist can select the toxic skin grippli racial trait in place of an alchemical discovery.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Racial Archetypes/Bogborn Alchemist (Alchemist)/Discovery Options", 
+                            "type": "section", 
+                            "name": "Discovery Options", 
+                            "source": "Advanced Race Guide"
+                        }, 
+                        {
+                            "body": "<p id=\"discoveries\">The following discoveries complement the bogborn alchemist archetype: chameleon; concentrate poison, sticky poison ; nauseating flesh, poison conversion; bottled ooze, tanglefoot bomb, tentacle .</p>", 
+                            "source": "Advanced Race Guide", 
+                            "type": "section", 
+                            "name": "Discoveries"
+                        }
+                    ]
+                }
+            ], 
+            "name": "Racial Archetypes", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following new discoveries can be taken by any alchemist who meets the prerequisites, but are more common among gripplis.</p>", 
+            "name": "Grippli Discoveries", 
+            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Discoveries", 
+            "type": "section", 
+            "source": "Advanced Race Guide", 
+            "sections": [
+                {
+                    "body": "<p>An alchemist with this discovery can shift the colors of his skin and equipment to blend in with the surrounding terrain. He gains a +4 enhancement bonus on Stealth checks. At 10th level, the bonus on Stealth checks increases to +8.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Discoveries/Chameleon (Su)", 
+                    "type": "section", 
+                    "name": "Chameleon (Su)", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p>When using his toxic skin ability, the alchemist can choose to excrete a Constitution poison instead of a Dexterity poison. This poison works the same as the normal grippli toxic skin poison except that a failed save deals 1 point of Constitution damage. The alchemist must be at least 8th level and must have the toxic skin racial trait before selecting this discovery.</p><blockquote><p id=\"underwater-demolition\"><i>Underwater Demolition (Ex)</i>The alchemist gains the ability to throw bombs underwater (normally, thrown weapons cannot be used underwater), including throwing from the air into the water. If the bomb travels through water, the range increment is reduced to 5 feet.</p></blockquote>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/Grippli Discoveries/Deadly Excretions (Ex)", 
+                    "type": "section", 
+                    "name": "Deadly Excretions (Ex)", 
+                    "source": "Advanced Race Guide"
+                }
+            ]
+        }, 
+        {
+            "body": "<p>The following options are available to gripplis. At the GM's discretion, other appropriate races may also make use of some of these.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Gripplis have access to the following equipment.</p>", 
+                    "name": "Grippli Equipment", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Equipment", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p id=\"black-marsh-spider-venom\">This potent spider venom causes victims to become disoriented and lose muscle control until eventually they collapse.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Equipment/Black Marsh Spider Venom", 
+                            "type": "section", 
+                            "name": "Black Marsh Spider Venom", 
+                            "source": "Advanced Race Guide"
+                        }, 
+                        {
+                            "body": "<table><caption>Grippli Poison</caption><thead><tr><th>Name</th><th>Type</th><th>Fort DC</th><th>Onset</th><th>Frequency</th><th>Effect</th><th>Cure</th><th>Cost</th></tr></thead><tr class=\"odd\"><td>Black spider marsh poison</td><td>injury</td><td>14</td><td>&mdash;</td><td>1/rd. for 6 rds.</td><td>1d4 Dex and confused for 1 rd.</td><td>2 consecutive saves</td><td>800 gp</td></tr></table>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Equipment/Grippli Poison", 
+                            "type": "table", 
+                            "name": "Grippli Poison", 
+                            "source": "Advanced Race Guide"
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p>Gripplis have access to the following feat.</p>", 
+                    "name": "Grippli Feats", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Feats", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p>Your long pink tongue is capable of manipulating small items and even stealing objects.</p>", 
+                            "name": "Agile Tongue", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Feats/Agile Tongue", 
+                            "type": "feat", 
+                            "source": "Advanced Race Guide", 
+                            "feat_types": {
+                                "feat_type": "General"
+                            }, 
+                            "sections": [
+                                {
+                                    "body": "<p class=\"stat-block-1\">Grippli.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Prerequisite"
+                                }, 
+                                {
+                                    "body": "<p class=\"stat-block-1\">You have a prehensile tongue with a range of 10 feet. You can pick up items weighing no more than 5 pounds, make Sleight of Hand checks, perform the steal or disarm combat maneuvers, or make melee touch attacks with your tongue.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Benefit"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p>Gripplis have access to the following magic item.</p>", 
+                    "name": "Grippli Magic Items", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Magic Items", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "slot": "none", 
+                            "name": "Bubble Vault", 
+                            "weight": "&mdash", 
+                            "cl": "5th", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Gripplis/New Racial Rules/Grippli Magic Items/Bubble Vault", 
+                            "type": "item", 
+                            "price": "1,500 gp", 
+                            "misc": {
+                                "Construction": {
+                                    "Cost": "750 gp", 
+                                    "Requirements": "Craft Wondrous Item, shrink item, unseen servant"
+                                }
+                            }, 
+                            "source": "Advanced Race Guide", 
+                            "aura": "faint transmutation", 
+                            "sections": [
+                                {
+                                    "body": "<p>This tiny pearl swells to form a 1-foot-diameter soap-like bubble when placed in water. Up to 5 cubic feet of goods can be placed inside the <i>bubble vault</i>. On command, the bubble sinks to the bottom of the water, automatically burying itself 1 foot deep in the bottom ground if there is mud or other loose material present. If the command word is spoken three times within 30 feet of the bubble, it rises to the surface of the water, at which time it can be opened and the items within it retrieved. Once opened, the bubble reverts to its pearl form for 24 hours. The bubble is watertight but does not otherwise magically protect or preserve its contents. If forced open, it has hardness 1 and 5 hit points.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Description"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p class=\"stat-block-1\">You have a prehensile tongue with a range of 10 feet. You can pick up items weighing no more than 5 pounds, make Sleight of Hand checks, perform the steal or disarm combat maneuvers, or make melee touch attacks with your tongue.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Benefit"
+                }
+            ], 
+            "name": "New Racial Rules", 
+            "source": "Advanced Race Guide"
+        }
+    ]
+}

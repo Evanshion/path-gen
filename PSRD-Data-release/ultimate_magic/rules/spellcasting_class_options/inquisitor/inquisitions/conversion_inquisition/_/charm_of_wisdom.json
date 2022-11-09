@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"charm-of-wisdom\">You use your Wisdom modifier instead of your Charisma modifier when making Bluff, Diplomacy, and Intimidate checks.</p>", 
+    "name": "Charm of Wisdom", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Conversion Inquisition/Granted Powers/Charm of Wisdom", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

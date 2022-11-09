@@ -1,0 +1,69 @@
+{
+    "body": "<p>Nagaji are defined by class levels&mdash;they do not possess racial Hit Dice. Nagaji have the following racial traits.</p>", 
+    "name": "Nagaji", 
+    "source": "Bestiary 4", 
+    "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Nagaji have strong bodies and personalities, but disdain intellectualism.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji/+2 Strength/+2 Charisma/\u20132 Intelligence", 
+            "type": "section", 
+            "name": "+2 Strength, +2 Charisma, \u20132 Intelligence", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Nagaji are Medium creatures and have no bonuses or penalties due to their size.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji/Medium", 
+            "type": "section", 
+            "name": "Medium", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Nagaji have a base speed of 30 feet.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Normal Speed"
+        }, 
+        {
+            "body": "<p>Nagaji can see twice as far as humans in conditions of dim light.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Low-Light Vision"
+        }, 
+        {
+            "body": "<p>Nagaji have a +1 natural armor bonus due to their scaly flesh.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji/Armored Scales", 
+            "type": "section", 
+            "name": "Armored Scales", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison.</p>", 
+            "name": "Resistant", 
+            "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji/Resistant", 
+            "ability_types": {
+                "ability_type": "Extraordinary"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>Nagaji receive a +2 racial bonus on Handle Animal checks against reptiles, and a +2 racial bonus on Perception checks.</p>", 
+            "name": "Serpent's Sense", 
+            "url": "pfsrd://Bestiary 4/Monsters/Nagaji/Nagaji/Serpents Sense", 
+            "ability_types": {
+                "ability_type": "Extraordinary"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>:<b> </b>Nagaji begin play speaking Common and Draconic. Nagaji with high Intelligence scores can choose from the following: any human language, Abyssal, Aklo, Celestial, Draconic, Giant, Infernal, and Sylvan.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Languages"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"enhanced-ability\">You gain a permanent +2 bonus to one ability score of your choice. You can select this path ability up to six times. Each time you do, it must apply to a different ability score.</p>", 
+    "name": "Enhanced Ability", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Mythic Heroes/Universal Path Abilities/3rd-Tier Universal Path Abilities/Enhanced Ability", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

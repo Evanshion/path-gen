@@ -1,0 +1,30 @@
+{
+    "name": "Multiattack", 
+    "url": "pfsrd://Bestiary/Feats/Multiattack", 
+    "sections": [
+        {
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Three or more natural attacks."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">The creature's secondary attacks with natural weapons take only a &ndash;2 penalty.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Without this feat, the creature's secondary attacks with natural weapons take a &ndash;5 penalty.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Bestiary", 
+    "feat_types": {
+        "feat_type": "Monster"
+    }, 
+    "type": "feat", 
+    "description": "This creature is particularly skilled at making attacks with its natural weapons."
+}

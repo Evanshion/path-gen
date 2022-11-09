@@ -1,0 +1,30 @@
+{
+    "body": "<p class=\"stat-block-1\">Your blood burns with the passion and unyielding quest for self-improvement displayed so prominently by your human relatives.</p>", 
+    "name": "Human Spirit", 
+    "url": "pfsrd://Advanced Race Guide/Races/Half-Elves/New Racial Rules/Half-Elven Feats/Human Spirit", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Half-elf.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You receive 1 bonus skill rank. Whenever you gain another Hit Die, you gain an additional skill rank. You cannot gain more than four skill ranks in this way.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You can only take this feat at 1st level. If you take this feat, you cannot take the Elven Spirit feat.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Magical Streetlamps", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Turn Sequence/Building Descriptions/Magical Streetlamps", 
+    "type": "kingdom_resource", 
+    "source": "Ultimate Campaign", 
+    "bp": "5", 
+    "special": "Can share a lot with any building or improvement", 
+    "settlement": "Crime -1", 
+    "sections": [
+        {
+            "body": "<p> lamps that illuminate the lot.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Turn Sequence/Building Descriptions/Magical Streetlamps/Continual flame", 
+            "type": "section", 
+            "name": "Continual flame", 
+            "source": "Ultimate Campaign"
+        }
+    ], 
+    "resource_limit": "Settlement must have a Cathedral, Magic Shop, Magical Academy, or Temple"
+}

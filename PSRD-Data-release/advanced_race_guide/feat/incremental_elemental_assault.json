@@ -1,0 +1,31 @@
+{
+    "body": "<p>You may activate and quench your elemental assault ability multiple times per day.</p>", 
+    "name": "Incremental Elemental Assault", 
+    "url": "pfsrd://Advanced Race Guide/Races/Sulis/New Racial Rules/Suli Feats/Incremental Elemental Assault", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Suli.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p id=\"benefits\">You may use your elemental assault ability in 1-round increments, up to a maximum number of rounds per day equal to your character level. These rounds do not have to be consecutive. Activating the ability is a swift action; ending it is a free action.</p>", 
+            "url": "pfsrd://Advanced Race Guide/Races/Sulis/New Racial Rules/Suli Feats/Incremental Elemental Assault/Benefits", 
+            "type": "section", 
+            "name": "Benefits", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p id=\"normal\">You can use elemental assault once per day. It lasts a number of rounds equal to your class level.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ]
+}

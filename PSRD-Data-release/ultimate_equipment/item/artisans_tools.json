@@ -1,0 +1,39 @@
+{
+    "name": "Artisan's Tools", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Artisans Tools", 
+    "sections": [
+        {
+            "body": "<table><thead><th>Type</th><th>Price</th><th>Weight</th></thead><tr class=\"odd\"><td>Common</td><td>5 gp</td><td>5 lbs.</td></tr><tr class=\"even\"><td>Masterwork</td><td>55 gp</td><td>5 lbs.</td></tr></table>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Artisans Tools/Type", 
+            "type": "table", 
+            "name": "Type", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">These special tools include the items needed to pursue any single craft. Without them, you have to use improvised tools (&ndash;2 penalty on Craft checks), if you can do the job at all. </p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">These tools serve the same purpose as artisan's tools, but masterwork artisan's tools are the perfect tools for the job, so you get a +2 circumstance bonus on Craft checks made with them.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Artisans Tools/Masterwork Artisans Tools", 
+            "type": "section", 
+            "name": "Masterwork Artisan's Tools", 
+            "source": "Ultimate Equipment"
+        }
+    ], 
+    "misc": {
+        "null": {
+            "Gear Type": "Item", 
+            "Weight": "5 lbs."
+        }, 
+        "Masterwork": {
+            "Price": "55 gp"
+        }, 
+        "Common": {
+            "Price": "5 gp"
+        }
+    }, 
+    "source": "Ultimate Equipment", 
+    "type": "item"
+}

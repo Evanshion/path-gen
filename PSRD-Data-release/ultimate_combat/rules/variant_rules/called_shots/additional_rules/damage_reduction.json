@@ -1,0 +1,7 @@
+{
+    "body": "<p id=\"damage-reduction\">If damage reduction completely negates the damage from a called shot, the called shot has no effect. If hit point damage does get through, the called shot has normal effects. Damage reduction does not reduce any ability damage, ability drain, penalties, or bleed damage caused by the called shot.</p>", 
+    "url": "pfsrd://Ultimate Combat/Rules/Variant Rules/Called Shots/Additional Rules/Damage Reduction", 
+    "type": "section", 
+    "name": "Damage Reduction", 
+    "source": "Ultimate Combat"
+}

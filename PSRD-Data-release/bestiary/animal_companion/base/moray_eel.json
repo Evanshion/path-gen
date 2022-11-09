@@ -1,0 +1,28 @@
+{
+    "ac": "+5 natural armor", 
+    "name": "Moray Eel", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Eel/Giant Moray/Moray Eel", 
+    "speed": "swim 30 ft.", 
+    "subtype": "base", 
+    "attack": "bite (1d8)", 
+    "type": "animal_companion", 
+    "ability_scores": "Str 14, Dex 16, Con 12, Int 1, Wis 12, Cha 8", 
+    "sections": [
+        {
+            "ac": "+3 natural armor", 
+            "name": "7th-Level Advancement", 
+            "level": "7th", 
+            "url": "pfsrd://Bestiary/Monsters/Eel/Giant Moray/Moray Eel/7th-Level Advancement", 
+            "subtype": "advancement", 
+            "attack": "bite (2d6)", 
+            "source": "Bestiary", 
+            "ability_scores": "Str +8, Dex -2, Con +4", 
+            "type": "animal_companion", 
+            "special_qualities": "gnaw.", 
+            "size": "Large"
+        }
+    ], 
+    "special_qualities": "low-light vision, grab.", 
+    "size": "Medium"
+}

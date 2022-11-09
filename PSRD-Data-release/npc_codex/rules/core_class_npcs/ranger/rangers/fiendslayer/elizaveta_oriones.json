@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Ranger/Rangers/Fiendslayer/Elizaveta Oriones", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Trained by a church, Elizaveta sees killing demons and devils as a sacred duty. In villages plagued by fiends, she questions locals to determine what kind of threat she faces. If foolish dabblers called the fiends, she turns them in. If the summoning was deliberate, she kills those who were responsible.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Eliza might confront the PCs if she hears rumors that one is a conjurer or summoner.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Eliza volunteers her help only if PCs are hunting demons, devils, or fiendish cults.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Elizaveta Oriones", 
+    "source": "NPC Codex"
+}

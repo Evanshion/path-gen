@@ -1,0 +1,47 @@
+{
+    "body": "<p>Hobgoblins are defined by their class levels&mdash;they do not possess racial Hit Dice. All hobgoblins have the following racial traits.</p>", 
+    "name": "Hobgoblin", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Hobgoblin/Hobgoblin", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Hobgoblins are fast and hearty.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Constitution"
+        }, 
+        {
+            "body": "<p>Hobgoblins can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p>Hobgoblins gain a +4 racial bonus on Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Hobgoblin/Hobgoblin/Sneaky", 
+            "type": "section", 
+            "name": "Sneaky", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>All hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose any of the following bonus languages: Draconic, Dwarven, Infernal, Giant, Orc.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Hobgoblin Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

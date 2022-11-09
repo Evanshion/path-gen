@@ -1,0 +1,28 @@
+{
+    "ac": "+4 natural", 
+    "name": "Rhinoceros", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Rhinoceros/Rhinoceros/Rhinoceros", 
+    "speed": "40 ft.", 
+    "subtype": "base", 
+    "attack": "gore (1d8)", 
+    "type": "animal_companion", 
+    "ability_scores": "Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 5", 
+    "sections": [
+        {
+            "ac": "+3 natural armor", 
+            "name": "7th-Level Advancement", 
+            "level": "7th", 
+            "url": "pfsrd://Bestiary/Monsters/Rhinoceros/Rhinoceros/Rhinoceros/7th-Level Advancement", 
+            "subtype": "advancement", 
+            "attack": "gore (2d6)", 
+            "source": "Bestiary", 
+            "ability_scores": "Str +8, Dex -2, Con +4", 
+            "type": "animal_companion", 
+            "special_qualities": "powerful charge.", 
+            "size": "Large"
+        }
+    ], 
+    "special_qualities": "scent.", 
+    "size": "Medium"
+}

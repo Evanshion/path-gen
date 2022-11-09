@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"pounce\">At 6th level, you may use the pounce special attack once per day. You may pounce one additional time per day for every 3 levels after 6th.</p>", 
+    "name": "Pounce", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Druid/Animal and Terrain Domains/Plains Domain/Pounce", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

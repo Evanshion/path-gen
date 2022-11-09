@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"verdict-of-anathema\">At 20th level, an inquisitor using judgment can unleash the verdict of anathema on her enemies. When she does, her judgment ends, and all enemy creatures within 10 feet are affected by her verdict of exorcism. This ability replaces true judgement.</p>", 
+    "name": "Verdict of Anathema", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitor Archetypes/Exorcist/Verdict of Anathema", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

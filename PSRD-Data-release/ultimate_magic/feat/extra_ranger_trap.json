@@ -1,0 +1,24 @@
+{
+    "name": "Extra Ranger Trap", 
+    "url": "pfsrd://Ultimate Magic/Feats/Extra Ranger Trap", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Trap class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can set ranger traps two additional times per day.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You can use ranger traps more often."
+}

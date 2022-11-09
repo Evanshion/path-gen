@@ -1,0 +1,24 @@
+{
+    "name": "Improved Stonecunning, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Improved Stonecunning/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Improved Stonecunning."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain <i>stone tell</i> as a spell-like ability usable once per day with a caster level equal to twice your tier.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "If you listen close, you can hear the secrets of stone."
+}

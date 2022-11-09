@@ -1,0 +1,55 @@
+{
+    "danger": "-5", 
+    "minor_items": "1d6", 
+    "medium_items": "-", 
+    "society": "-8", 
+    "alignment": "NE", 
+    "base_value": "200 gp", 
+    "disadvantages": "cursed", 
+    "crime": "-5", 
+    "source": "Game Mastery Guide", 
+    "lore": "-1", 
+    "purchase_limit": "1,000 gp", 
+    "sections": [
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"patriarch-father-humms\"> (CE male human ranger 3)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Creepy Backwoods Hamlet/Demographics/Patriarch Father Humms", 
+                    "type": "section", 
+                    "name": "Patriarch Father Humms", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"village-idiot-junior-humms\"> (CN male human barbarian 1)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Creepy Backwoods Hamlet/Demographics/Village Idiot Junior Humms", 
+                    "type": "section", 
+                    "name": "Village Idiot Junior Humms", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"witch-mother-twixt\"> (NE female human adept 4)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Creepy Backwoods Hamlet/Demographics/Witch Mother Twixt", 
+                    "type": "section", 
+                    "name": "Witch Mother Twixt", 
+                    "source": "Game Mastery Guide"
+                }
+            ], 
+            "name": "Demographics", 
+            "source": "Game Mastery Guide"
+        }
+    ], 
+    "corruption": "+1", 
+    "economy": "-2", 
+    "government": "overlord", 
+    "settlement_type": "hamlet", 
+    "law": "+1", 
+    "population": "23 (23 humans)", 
+    "spellcasting": "2nd", 
+    "name": "Creepy Backwoods Hamlet", 
+    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Creepy Backwoods Hamlet", 
+    "type": "settlement", 
+    "major_items": "&mdash", 
+    "qualities": "insular"
+}

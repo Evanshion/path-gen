@@ -1,0 +1,107 @@
+{
+    "body": "<p>Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes (and corresponding new abilities) listed below are all included in this chapter. Characters may take more than one archetype if they meet the requirements.</p>", 
+    "name": "Spellcaster Class Archetypes", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes", 
+    "type": "section", 
+    "source": "Ultimate Magic", 
+    "sections": [
+        {
+            "body": "<p id=\"alchemist\">This section includes the chirurgeon, clone master, internal alchemist, mindchemist, preservationist, psychonaut, reanimator, and vivisectionist archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Alchemist", 
+            "type": "section", 
+            "name": "Alchemist", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"bard\">This section introduces masterpieces&mdash;unusual bardic performances with special requirements&mdash;and includes the animal speaker, celebrity, demagogue, dirge bard, geisha, songhealer, and sound striker archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Bard", 
+            "type": "section", 
+            "name": "Bard", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"cleric\">This section introduces variant abilities for channeled energy, as well as the cloistered cleric, separatist, theologian, and undead lord cleric archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Cleric", 
+            "type": "section", 
+            "name": "Cleric", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"druid\">This section introduces new animal and terrain domains, and rules and base statistics for vermin companions. It also includes the dragon shaman, menhir savant, mooncaller, pack lord, reincarnated druid, saurian shaman, shark shaman, and storm druid archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Druid", 
+            "type": "section", 
+            "name": "Druid", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"inquisitor\">This section introduces domainlike inquisitions, and includes the exorcist, heretic, infiltrator, preacher, and sin eater archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Inquisitor", 
+            "type": "section", 
+            "name": "Inquisitor", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"magus\">This section includes the bladebound, hexcrafter, spellblade, and staff magus archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Magus", 
+            "type": "section", 
+            "name": "Magus", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"monk\">This section features monk vows and the high-fantasy qinggong monk archetype.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Monk", 
+            "type": "section", 
+            "name": "Monk", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"oracle\">In addition to new mysteries, this section also includes the dual-cursed oracle, enlightened philosopher, planar oracle, possessed oracle, seer, and stargazer archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Oracle", 
+            "type": "section", 
+            "name": "Oracle", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"paladin\">This section presents the oathbound paladin archetype, along with many oaths that customize the archetype's abilities.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Paladin", 
+            "type": "section", 
+            "name": "Paladin", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"ranger\">This section presents a category of simple magical traps that characters can easily build, as well as the trapper archetype.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Ranger", 
+            "type": "section", 
+            "name": "Ranger", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"sorcerer\">In addition to new bloodlines, this section also includes the crossblooded and wildblooded archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Sorcerer", 
+            "type": "section", 
+            "name": "Sorcerer", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"summoner\">This section presents the aquatic eidolon base form, eidolon models to quickly build thematic creatures, and new evolutions. It also includes the broodmaster, evolutionist, master summoner, and synthesist archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Summoner", 
+            "type": "section", 
+            "name": "Summoner", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"witch\">This section presents new hexes and new patron themes, as well as the beast-bonded, gravewalker, hedge witch, and sea witch archetypes.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Witch", 
+            "type": "section", 
+            "name": "Witch", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"wizard\">This section introduces arcane discoveries&mdash;special magical abilities wizards can discover&mdash;as well as the metal elementalist and wood elementalist wizard schools and the scrollmaster wizard archetype.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Spellcasting Class Options/Spellcaster Class Archetypes/Wizard", 
+            "type": "section", 
+            "name": "Wizard", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

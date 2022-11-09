@@ -1,0 +1,24 @@
+{
+    "body": "<p>Your nails are large and strong.</p>", 
+    "name": "Sharpclaw", 
+    "url": "pfsrd://Advanced Race Guide/Races/Ratfolk/New Racial Rules/Ratfolk Feats/Sharpclaw", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Ratfolk.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain two claw attacks. These are primary natural attacks that deal 1d4 points of damage.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

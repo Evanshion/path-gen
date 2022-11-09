@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"weapon-mastery\">This ability applies to unarmed strikes only. </p>", 
+    "name": "Weapon Mastery", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Fighter/Fighter Archetypes/Unarmed Fighter/Weapon Mastery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

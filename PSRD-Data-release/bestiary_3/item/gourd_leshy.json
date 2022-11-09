@@ -1,0 +1,17 @@
+{
+    "name": "Gourd Leshy", 
+    "cl": "6th", 
+    "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Gourd Leshy/Gourd Leshy", 
+    "sections": [
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>Knowledge (nature) 5 ranks, entangle, plant growth, summon nature's ally I</p><p class='stat-block-1'><b>Skill </b>Knowledge (nature) DC 13</p><p class='stat-block-1'><b>Cost </b>750 gp</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Gourd Leshy/Gourd Leshy/Ritual", 
+            "type": "section", 
+            "name": "Ritual", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "price": "1,500 gp", 
+    "source": "Bestiary 3", 
+    "type": "item"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"evasion\">At 9th level, the monk gains evasion. This ability replaces improved evasion.</p>", 
+    "name": "Evasion", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Monk/Monk Archetypes/Weapon Adept/Evasion", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

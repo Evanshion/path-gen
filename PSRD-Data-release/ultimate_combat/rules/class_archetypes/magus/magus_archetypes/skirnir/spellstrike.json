@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"spellstrike\">At 1st level, a skirnir may use this ability with a weapon or shield bash attack.</p>", 
+    "name": "Spellstrike", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Skirnir/Spellstrike", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

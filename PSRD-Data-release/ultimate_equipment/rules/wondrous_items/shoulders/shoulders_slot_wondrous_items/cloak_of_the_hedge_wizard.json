@@ -1,0 +1,122 @@
+{
+    "body": "<p class=\"stat-block\">This cloak comes in eight varieties&mdash;one for each school of magic. The cloak grants its wearer the ability to use a certain number of spells on command (caster level 1st) based on its school of magic. It also grants the wearer the ability to use <i>prestidigitation</i> on command and at will.</p>", 
+    "name": "Cloak of the Hedge Wizard", 
+    "weight": "1 lb.", 
+    "cl": "1st", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard", 
+    "type": "item", 
+    "price": "2,500 gp", 
+    "misc": {
+        "Construction Requirements": {
+            "Cost": "1,125 gp"
+        }
+    }, 
+    "source": "Ultimate Equipment", 
+    "aura": "faint, school based on cloak type", 
+    "sections": [
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Abjuration", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>resistance</i>; 1/day&mdash;<i>endure elements</i>, <i>shield</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Abjuration", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Conjuration", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>acid splash</i>; 1/day&mdash;<i>mage armor</i>, <i>unseen servant</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Conjuration", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Divination", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>detect magic</i>; 1/day&mdash;<i>detect secret doors</i>, <i>true strike</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Divination", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Enchantment", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>daze</i>; 1/day&mdash;<i>charm person</i>, <i>sleep</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Enchantment", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Evocation", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>light</i>; 1/day&mdash;<i>floating disk</i>, <i>magic missile</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Evocation", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Illusion", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>ghost sound</i>; 1/day&mdash;<i>color spray</i>, <i>silent image</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Illusion", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Necromancy", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>touch of fatigue</i>; 1/day&mdash;<i>cause fear</i>, <i>ray of enfeeblement</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Necromancy", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Shoulders/Shoulders Slot Wondrous Items/Cloak of the Hedge Wizard/Transmutation", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">at will&mdash;<i>mage hand</i>; 1/day&mdash;<i>enlarge person</i>, <i>expeditious retreat</i></p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Transmutation", 
+            "source": "Ultimate Equipment"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/8th Level", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p id=\"clone\">This spell is the key to arcane immortality&mdash;it acts like <i>contingency</i> plus <i>raise dead</i> but costs fewer gp, and it can save characters even if all of them die unexpectedly.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/8th Level/Clone", 
+            "type": "section", 
+            "name": "Clone", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"irresistible-dance\">While this spell can't kill its target outright, it does prevent the target from taking actions and give the target huge penalties, and (in a way) it does so without allowing a saving throw (while the spell does technically allow a save, even a successful save applies these effects for 1 round).</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/8th Level/Irresistible Dance", 
+            "type": "section", 
+            "name": "Irresistible Dance", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"mind-blank\">This spell is an example of a very narrowly focused defensive spell that is able to block even higher-level spells from affecting the target.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/8th Level/Mind Blank", 
+            "type": "section", 
+            "name": "Mind Blank", 
+            "source": "Ultimate Magic"
+        }
+    ], 
+    "name": "8th Level", 
+    "source": "Ultimate Magic"
+}

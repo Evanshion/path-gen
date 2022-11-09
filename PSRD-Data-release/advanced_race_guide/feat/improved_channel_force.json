@@ -1,0 +1,24 @@
+{
+    "body": "<p>You move your enemies within a beam of righteous energy. </p>", 
+    "name": "Improved Channel Force", 
+    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Improved Channel Force", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Channel Force, aasimar, channel energy 4d6.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When using Channel Force, you can affect all creatures in a 60-foot line or a 30-foot cone-shaped burst. You must choose to either push or pull all creatures within the affected area that fail their saves. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

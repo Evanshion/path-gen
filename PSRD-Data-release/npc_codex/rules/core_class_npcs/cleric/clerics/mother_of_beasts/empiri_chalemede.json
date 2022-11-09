@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Cleric/Clerics/Mother of Beasts/Empiri Chalemede", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Empiri raises and nurtures hybrid monsters and aberrant mutations. Though she lacks the magic to create these oddities, she values anyone skilled at such things. </p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Empiri is most effective when she has monsters to protect her. Without allies, she uses summon monster spells to conjure guardians.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Empiri might ask the PCs to help her catch a predatory beast&mdash;though not to destroy it.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Empiri Chalemede", 
+    "source": "NPC Codex"
+}

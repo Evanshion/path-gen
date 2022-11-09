@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Elixir of Dragon Breath/Silver or white dragon", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block\">15-foot cone of cold.</p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Silver or white dragon", 
+    "source": "Ultimate Equipment"
+}

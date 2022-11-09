@@ -1,0 +1,31 @@
+{
+    "body": "<p>Despite casting spells, you dabble in the art of wordcasting.</p>", 
+    "name": "Experimental Spellcaster", 
+    "url": "pfsrd://Ultimate Magic/Rules/Words of Power/Experimental Spellcaster", 
+    "type": "feat", 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "Optional"
+    }, 
+    "sections": [
+        {
+            "body": "<p>Ability to cast spells.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p>Select one class that grants you the ability to cast spells. You can now use the slots from that class to cast a limited number of words of power spells. Add all of the target words to your spell list and your spellbook, familiar, or list of spells known. In addition, add the <i>boost</i> meta word and one effect word of any level you can cast in the chosen class. </p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Words of Power/Experimental Spellcaster/Benefit", 
+            "type": "section", 
+            "name": "Benefit", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p>You can take this feat multiple times. Each additional time you select this feat, add two effect or meta words to your spellbook, familiar, or list of spells known.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ]
+}

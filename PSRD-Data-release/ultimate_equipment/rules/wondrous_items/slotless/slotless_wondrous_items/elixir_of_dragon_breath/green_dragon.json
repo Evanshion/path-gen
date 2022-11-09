@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Elixir of Dragon Breath/Green dragon", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block\">15-foot cone of acid.</p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Green dragon", 
+    "source": "Ultimate Equipment"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Shield Focus, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Shield Focus/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Shield Focus."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Add your shield bonus and your shield's enhancement bonus to your touch AC. As an immediate action, you can expend one use of mythic power to add your shield bonus and your shield's enhancement bonus on a Fortitude or Reflex save just before you roll it.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You're a master of using your shield for protection."
+}

@@ -1,0 +1,76 @@
+{
+    "body": "<p>You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. Unlike with most polymorph effects, your basic form does not change, so you keep all extraordinary and supernatural abilities of your half-elven form as well as all of your gear. </p><p>For the duration of the spell, you receive a +2 enhancement bonus to Dexterity and Intelligence and are treated as if you possessed any one feat for which you meet the prerequisites, chosen when you cast this spell. </p>", 
+    "school": "transmutation", 
+    "description": "You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone.", 
+    "url": "pfsrd://Advanced Race Guide/Races/Half-Elves/New Racial Rules/Half-Elven Spells/Paragon Surge", 
+    "casting_time": "1 standard action", 
+    "level_text": "Alchemist: 3; Arcanist: 3; Bloodrager: 3; Cleric: 3; Investigator: 3; Magus: 4; Oracle: 3; Paladin: 4; Sorcerer: 3; Warpriest: 3; Witch: 3; Wizard: 3", 
+    "source": "Advanced Race Guide", 
+    "range": "personal (half-elf only)", 
+    "levels": [
+        {
+            "class": "Alchemist", 
+            "level": 3
+        }, 
+        {
+            "class": "Arcanist", 
+            "level": 3
+        }, 
+        {
+            "class": "Bloodrager", 
+            "level": 3
+        }, 
+        {
+            "class": "Cleric", 
+            "level": 3
+        }, 
+        {
+            "class": "Investigator", 
+            "level": 3
+        }, 
+        {
+            "class": "Magus", 
+            "level": 4
+        }, 
+        {
+            "class": "Oracle", 
+            "level": 3
+        }, 
+        {
+            "class": "Paladin", 
+            "level": 4
+        }, 
+        {
+            "class": "Sorcerer", 
+            "level": 3
+        }, 
+        {
+            "class": "Warpriest", 
+            "level": 3
+        }, 
+        {
+            "class": "Witch", 
+            "level": 3
+        }, 
+        {
+            "class": "Wizard", 
+            "level": 3
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }
+    ], 
+    "duration": "1 minute/level", 
+    "subschool_text": "polymorph", 
+    "subschool": [
+        "polymorph"
+    ], 
+    "type": "spell", 
+    "component_text": "V, S", 
+    "name": "Paragon Surge"
+}

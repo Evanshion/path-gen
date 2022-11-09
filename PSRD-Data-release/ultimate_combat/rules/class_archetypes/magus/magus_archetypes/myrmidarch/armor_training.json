@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"armor-training\">At 8th level, a myrmidarch gains armor training, as the fighter ability. At 14th level, he gains armor training 2. This ability replaces improved spell combat and greater spell combat.</p>", 
+    "name": "Armor Training", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Myrmidarch/Armor Training", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

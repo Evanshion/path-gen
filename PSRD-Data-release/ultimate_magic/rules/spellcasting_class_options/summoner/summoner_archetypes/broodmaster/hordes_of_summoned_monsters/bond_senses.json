@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"bond-senses\">The broodmaster can only share the senses of one eidolon in his brood at a time.</p>", 
+    "name": "Bond Senses", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Summoner/Summoner Archetypes/Broodmaster/Hordes of Summoned Monsters/Bond Senses", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

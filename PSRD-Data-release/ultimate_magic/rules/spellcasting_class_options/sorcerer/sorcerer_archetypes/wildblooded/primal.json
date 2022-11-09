@@ -1,0 +1,39 @@
+{
+    "body": "<p>Your powers are attuned to the concentrated core of the elemental plane.</p>", 
+    "name": "Primal", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Primal", 
+    "type": "section", 
+    "source": "Ultimate Magic", 
+    "sections": [
+        {
+            "body": "<p id=\"associated-bloodline\">Elemental.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Associated Bloodline"
+        }, 
+        {
+            "body": "<p id=\"bloodline-arcana\">Whenever you cast a spell with an energy descriptor that matches your elemental bloodline's energy type, that spell deals +1 point of damage per die rolled.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Bloodline Arcana"
+        }, 
+        {
+            "body": "<p id=\"bloodline-powers\">You can infuse raw energy into your summoned minions.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"elementalist-summoning\">At 9th level, whenever you summon a creature, it gains energy resistance 10 against the energy type that matches your elemental bloodline (if it already has such resistance, its resistance increases by +5), and its natural attacks deal an additional 1d6 points of damage of the same energy type. This bloodline power replaces elemental blast.</p>", 
+                    "name": "Elementalist Summoning", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Primal/Bloodline Powers/Elementalist Summoning", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Bloodline Powers", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

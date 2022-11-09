@@ -1,0 +1,61 @@
+{
+    "school": "transmutation", 
+    "description": "Triggered rune slows creatures.", 
+    "url": "pfsrd://Ultimate Magic/Spells/Symbol Of Slowing", 
+    "type": "spell", 
+    "component_text": "V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)", 
+    "level_text": "Cleric: 4; Oracle: 4; Warpriest: 4; Sorcerer: 4; Wizard: 4; Arcanist: 4; Witch: 4", 
+    "source": "Ultimate Magic", 
+    "levels": [
+        {
+            "class": "Arcanist", 
+            "level": 4
+        }, 
+        {
+            "class": "Cleric", 
+            "level": 4
+        }, 
+        {
+            "class": "Oracle", 
+            "level": 4
+        }, 
+        {
+            "class": "Sorcerer", 
+            "level": 4
+        }, 
+        {
+            "class": "Warpriest", 
+            "level": 4
+        }, 
+        {
+            "class": "Witch", 
+            "level": 4
+        }, 
+        {
+            "class": "Wizard", 
+            "level": 4
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }, 
+        {
+            "text": "mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp", 
+            "type": "M"
+        }
+    ], 
+    "sections": [
+        {
+            "body": "<p class=\"stat-description-1\"> Will negates; <b>Spell Resistance</b> yes</p><p>This spell functions as <i>symbol of death</i>, except all creatures within 60 feet of a <i>symbol of slowing</i> are slowed (as the <i>slow</i> spell) for 1 round per caster level.</p><p><i>Symbol of slowing</i> can be made permanent with a <i>permanency</i> spell by a caster of 11th level or higher for the cost of 10,000 gp.</p>", 
+            "url": "pfsrd://Ultimate Magic/Spells/Symbol Of Slowing/Saving Throw", 
+            "type": "section", 
+            "name": "Saving Throw", 
+            "source": "Ultimate Magic"
+        }
+    ], 
+    "name": "Symbol Of Slowing"
+}

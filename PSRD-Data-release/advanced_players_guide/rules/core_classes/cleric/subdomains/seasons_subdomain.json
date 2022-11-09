@@ -1,0 +1,39 @@
+{
+    "name": "Seasons Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Seasons Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Weather.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the storm burst power of the Weather domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"untouched-by-the-seasons\">By touching a creature, you can grant it the benefits of <i>endure elements</i>, which last for 1 hour per cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>", 
+                    "name": "Untouched by the Seasons", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Seasons Subdomain/Replacement Power/Untouched by the Seasons", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>1st&mdash;<i>goodberry</i>, 4th&mdash;<i>blight</i>, 8th&mdash;<i>sunburst</i>.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

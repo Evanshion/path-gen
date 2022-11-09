@@ -1,0 +1,30 @@
+{
+    "name": "Improved Natural Armor", 
+    "url": "pfsrd://Bestiary/Feats/Improved Natural Armor", 
+    "sections": [
+        {
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Natural armor, Con 13."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">The creature's natural armor bonus increases by +1.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">A creature can gain this feat multiple times. Each time the creature takes the feat, its natural armor bonus increases by another point.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ], 
+    "source": "Bestiary", 
+    "feat_types": {
+        "feat_type": "Monster"
+    }, 
+    "type": "feat", 
+    "description": "This creature's hide is tougher than most."
+}

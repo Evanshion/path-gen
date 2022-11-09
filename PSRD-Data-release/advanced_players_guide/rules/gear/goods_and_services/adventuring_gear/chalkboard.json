@@ -1,0 +1,14 @@
+{
+    "body": "<p id=\"chalkboard:\"> A wooden frame approximately the same size as a large book surrounds this thinly sliced piece of polished black stone. Rubbing a simple damp cloth over the slate erases anything scribed with chalk on its surface.</p>", 
+    "name": "Chalkboard", 
+    "weight": "2 lbs.", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Gear/Goods and Services/Adventuring Gear/Chalkboard", 
+    "price": "1 gp", 
+    "misc": {
+        "null": {
+            "Gear Type": "Adventuring Gear"
+        }
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "item"
+}

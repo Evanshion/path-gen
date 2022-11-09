@@ -1,0 +1,24 @@
+{
+    "name": "Dimensional Maneuvers", 
+    "url": "pfsrd://Ultimate Combat/Feats/Dimensional Maneuvers", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Ability to use the abundant step class feature or cast dimension door, Dimensional Agility, Dimensional Assault, Dimensional Dervish, base attack bonus +9."
+        }, 
+        {
+            "body": "<p>While using the Dimensional Dervish feat, you gain a +4 bonus on combat maneuver checks to bull rush, disarm, reposition, or trip an opponent.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your rapid teleportation makes your combat maneuvers more difficult to avoid."
+}

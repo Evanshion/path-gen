@@ -1,0 +1,24 @@
+{
+    "name": "Far Shot, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Far Shot/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Far Shot."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You make long-ranged attacks with remarkable accuracy."
+}

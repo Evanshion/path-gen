@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Wizard/Wizards/Puppet Master/Radillo", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Radillo has always been able to manipulate people with sweet words and subtle promises. Having learned to enforce this with magic, she plays with thoughts for pleasure or power, and has contacts in many cities whose minds belong fully to her.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }
+    ], 
+    "name": "Radillo", 
+    "source": "NPC Codex"
+}

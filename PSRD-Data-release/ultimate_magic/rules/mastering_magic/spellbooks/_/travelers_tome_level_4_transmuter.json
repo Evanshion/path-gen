@@ -1,0 +1,34 @@
+{
+    "body": "This small book, no larger than a pocket notebook, is bound between wooden covers, and is clearly a copy meant to withstand the rigors of adventuring. The arrowhead lodged in the cover can't be removed without magic.<p></p>", 
+    "name": "Traveler's Tome (Level 4 Transmuter)", 
+    "source": "Ultimate Magic", 
+    "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Spellbooks/Spellbooks/Travelers Tome (Level 4 Transmuter)", 
+    "type": "section", 
+    "subtype": "spellbook", 
+    "sections": [
+        {
+            "body": "<p>2nd&mdash;<i>glide</i><sup>S, </sup>, <i>knock</i><sup>S</sup>, <i>levitate</i><sup>S</sup>, <i>rope trick</i><sup>S</sup></p><p>1st&mdash;<i>ant haul</i><sup>S, </sup>, <i>enlarge person</i><sup>S</sup>, <i>erase</i><sup>S</sup>, <i>expeditious retreat</i><sup>S</sup>, <i>gravity bow</i><sup>S, </sup>, <i>hold portal</i>, <i>jump</i><sup>S</sup>, <i>magic weapon</i><sup>S</sup>, <i>shield</i></p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Spells"
+        }, 
+        {
+            "body": "365 gp", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Value"
+        }, 
+        {
+            "body": "Conjuration, enchantment", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Opposition Schools"
+        }, 
+        {
+            "body": "Simple lock (DC 20)", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Protection"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Iron Golem", 
+    "cl": "16th", 
+    "url": "pfsrd://Bestiary/Monsters/Golem/Iron/Construction/Iron Golem", 
+    "price": "150,000 gp", 
+    "misc": {
+        "Construction": {
+            "Skill": "Craft (armor) or Craft (weapons) DC 21", 
+            "Cost": "80,000 gp", 
+            "Requirements": "Craft Construct, cloudkill, geas/quest, limited wish, polymorph any object, creator must be caster level 16th"
+        }
+    }, 
+    "source": "Bestiary", 
+    "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+    "body": "<p>Tengus are defined by their class levels&mdash;they do not possess racial Hit Dice. All tengus have the following racial traits.</p>", 
+    "name": "Tengu", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Tengu/Tengu", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Tengus are fast and observant, but relatively fragile and delicate.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "+2 Dexterity, -2 Constitution, +2 Wisdom"
+        }, 
+        {
+            "body": "<p>Tengus have low-light vision.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Tengu/Tengu/Senses", 
+            "type": "section", 
+            "name": "Senses", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Tengus gain a +2 racial bonus on Perception and Stealth.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Tengu/Tengu/Sneaky", 
+            "type": "section", 
+            "name": "Sneaky", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "See Tengu/Special Abilities/Gifted Linguist", 
+            "source": "Bestiary", 
+            "type": "link", 
+            "name": "Gifted Linguist"
+        }, 
+        {
+            "body": "See Tengu/Special Abilities/Swordtrained", 
+            "source": "Bestiary", 
+            "type": "link", 
+            "name": "Swordtrained"
+        }, 
+        {
+            "body": "<p>Tengus possess a bite natural attack that inflicts 1d3 points of damage on a hit. This is a primary attack, or a secondary attack if the tengu wields a manufactured weapon.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Tengu/Tengu/Natural Weapon", 
+            "type": "section", 
+            "name": "Natural Weapon", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Tengus begin play speaking Common and their own dialect of Tengu. Tengus with high Intelligence scores can choose any language as a bonus language.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Tengu Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

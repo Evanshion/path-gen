@@ -1,0 +1,83 @@
+{
+    "body": "<p>Kitsune are defined by class levels&mdash;they do not possess racial Hit Dice. Kitsune have the following racial traits.</p>", 
+    "name": "Kitsune", 
+    "source": "Bestiary 4", 
+    "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Kitsune are agile and companionable, but tend to be physically weak.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/+2 Dexterity/+2 Charisma/\u20132 Strength", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Charisma, \u20132 Strength", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Kitsune are Medium creatures and have no bonuses or penalties due to their size.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Medium", 
+            "type": "section", 
+            "name": "Medium", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Kitsune have a base speed of 30 feet.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Normal Speed"
+        }, 
+        {
+            "body": "<p>Kitsune can see twice as far as humans in dim light.</p>", 
+            "name": "Low-Light Vision", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Low-Light Vision", 
+            "ability_types": {
+                "ability_type": "Extraordinary"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>Kitsune receive a +2 racial bonus on Acrobatics checks.</p>", 
+            "name": "Agile", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Agile", 
+            "ability_types": {
+                "ability_type": "Extraordinary"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>See the stat block above.</p>", 
+            "name": "Change Shape", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Change Shape", 
+            "ability_types": {
+                "ability_type": "Supernatural"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>See the stat block above.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Kitsune Magic (Ex_Sp)", 
+            "type": "section", 
+            "name": "Kitsune Magic (Ex/Sp)", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>In her natural form, a kitsune has a bite attack that deals 1d4 points of damage.</p>", 
+            "name": "Natural Weapons", 
+            "url": "pfsrd://Bestiary 4/Monsters/Kitsune/Kitsune/Natural Weapons", 
+            "ability_types": {
+                "ability_type": "Extraordinary"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>Kitsune begin play speaking Common and Sylvan. Kitsune with high Intelligence scores can choose from the following: any human language, Aklo, Celestial, Elven, Gnome, and Tengu.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Languages"
+        }
+    ]
+}

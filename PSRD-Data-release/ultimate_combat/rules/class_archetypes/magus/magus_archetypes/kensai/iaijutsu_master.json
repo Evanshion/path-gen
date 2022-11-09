@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"iaijutsu-master\">At 19th level, a kensai's initiative roll is automatically a natural 20 and he is never surprised. This ability replaces greater spell access.</p>", 
+    "name": "Iaijutsu Master", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Kensai/Iaijutsu Master", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

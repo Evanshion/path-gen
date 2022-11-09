@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Wizard/Wizards/Thunder Wizard/Zuket Amaral", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Zuket is an unexceptional adventuring wizard with a loud, outgoing personality. She loves visiting new places and exploring, and isn't embarrassed to stare open-mouthed at wondrous cities or landmarks. She likes things that are big and loud, from thunderstorms to parades to monsters.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Zuket attacks the PCs to drive them away from a halfling village or a cache of noisy magic items she wants.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Zuket doesn't like bullies, and she might intervene on behalf of a PC, even without being asked, if she sees that the PC is in trouble and thinks he needs help.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Zuket Amaral", 
+    "source": "NPC Codex"
+}

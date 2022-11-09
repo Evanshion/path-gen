@@ -1,0 +1,24 @@
+{
+    "name": "Detect Expertise, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Detect Expertise/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Detect Expertise."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain the benefit of Detect Expertise immediately (without needing to observe a creature for 3 rounds) when using the divinations listed in Detect Expertise. Non-mythic creatures cannot attempt a Will save to resist this effect.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You can sense a creature's magical abilities with just a mere glance."
+}

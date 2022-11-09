@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Ranger/Rangers/Mounted Archer/Zarishen", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>This bandit leader spares merchants and porters if they surrender so they may return again later with more cargo.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }
+    ], 
+    "name": "Zarishen", 
+    "source": "NPC Codex"
+}

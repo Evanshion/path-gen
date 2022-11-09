@@ -1,0 +1,24 @@
+{
+    "name": "Crane Riposte", 
+    "url": "pfsrd://Ultimate Combat/Feats/Crane Riposte", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Crane Style, Crane Wing, Dodge, Improved Unarmed Strike, base attack bonus +8 or monk level 7th."
+        }, 
+        {
+            "body": "<p> You take only a \u00d01 penalty on attack rolls for fighting defensively. Whenever you use Crane Wing to deflect an opponent's attack, you can make an attack of opportunity against that opponent after the attack is deflected.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You use your defensive abilities to make overpowering counterattacks."
+}

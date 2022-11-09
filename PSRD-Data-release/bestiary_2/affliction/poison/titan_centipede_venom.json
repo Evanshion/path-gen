@@ -1,0 +1,12 @@
+{
+    "name": "Titan Centipede Venom", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Centipede/Titan/Special Abilities/Poison/Titan Centipede Venom", 
+    "contracted": "injury", 
+    "effect": "1d6 Dexterity", 
+    "subtype": "poison", 
+    "cure": "2 consecutive saves", 
+    "frequency": "1/round for 6 rounds", 
+    "save": "Fortitude DC 24", 
+    "type": "affliction"
+}

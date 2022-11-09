@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"improved-deadshot\">At 7th level, when a crossbowman attacks with a crossbow as a readied action, his target is denied its Dexterity bonus to its AC. This ability replaces armor training 2.</p>", 
+    "name": "Improved Deadshot", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Crossbowman/Improved Deadshot", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

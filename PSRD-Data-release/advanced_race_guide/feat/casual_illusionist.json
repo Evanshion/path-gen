@@ -1,0 +1,30 @@
+{
+    "body": "<p class=\"stat-block-1\">You can use your innate magic to create minor illusions that augment your efforts at trickery and deceit.</p>", 
+    "name": "Casual Illusionist", 
+    "url": "pfsrd://Advanced Race Guide/Races/Gnomes/New Racial Rules/Gnome Feats/Casual Illusionist", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Gnome, gnome magic racial trait.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">As long as you have at least one spell-like ability unused from your gnome magic racial trait, you gain a +2 racial bonus on all Bluff, Disguise, and Sleight of Hand checks you make. At 10th level, these bonuses increase to +4.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">This feat counts as the Deceitful feat for the purposes of all prerequisites.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Conversion Inquisition", 
+    "source": "Ultimate Magic", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Conversion Inquisition", 
+    "type": "section", 
+    "subtype": "inquisitor_inquisition", 
+    "sections": [
+        {
+            "body": "<p>You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"charm-of-wisdom\">You use your Wisdom modifier instead of your Charisma modifier when making Bluff, Diplomacy, and Intimidate checks.</p>", 
+                    "name": "Charm of Wisdom", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Conversion Inquisition/Granted Powers/Charm of Wisdom", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "<p id=\"swaying-word\">At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by <i>dominate person</i>, except the duration is only 1 minute.</p>", 
+                    "name": "Swaying Word", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Conversion Inquisition/Granted Powers/Swaying Word", 
+                    "ability_types": {
+                        "ability_type": "Spell-Like"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Granted Powers", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

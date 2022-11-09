@@ -1,0 +1,55 @@
+{
+    "body": "<p>Merfolk are defined by their class levels&mdash;they do not possess racial Hit Dice. All merfolk have the following racial traits.</p>", 
+    "name": "Merfolk", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Merfolk/Merfolk", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Merfolk are graceful, hale, and beautiful.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Constitution, +2 Charisma"
+        }, 
+        {
+            "body": "<p>Merfolk are aquatic and can breathe water. Their land speed is 5 feet, but their swim speed is 50 feet. They are amphibious, but prefer not to spend long periods out of the water.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Merfolk/Merfolk/Aquatic", 
+            "type": "section", 
+            "name": "Aquatic", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>All merfolk have low-light vision.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Merfolk/Merfolk/Low-Light Vision", 
+            "type": "section", 
+            "name": "Low-Light Vision", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p> Merfolk have a +2 natural armor bonus.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Merfolk/Merfolk/Armor", 
+            "type": "section", 
+            "name": "Armor", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Merfolk begin play speaking Common and Aquan. Merfolk with high Intelligence scores can choose any of the following bonus languages: Aboleth, Aklo, Draconic, Elven, Sahuagin, and Sylvan.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Merfolk Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

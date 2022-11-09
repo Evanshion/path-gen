@@ -1,0 +1,24 @@
+{
+    "name": "Cartwheel Dodge", 
+    "url": "pfsrd://Ultimate Combat/Feats/Cartwheel Dodge", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Evasion class feature, improved evasion class feature, acrobatics 12 ranks."
+        }, 
+        {
+            "body": "<p>When you successfully use improved evasion to avoid taking damage, you can move up to half your speed as an immediate action. This movement provokes attacks of opportunity as normal. </p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You use your knack for avoiding damage to reposition yourself in combat."
+}

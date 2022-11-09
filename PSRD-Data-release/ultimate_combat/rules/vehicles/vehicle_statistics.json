@@ -1,0 +1,143 @@
+{
+    "body": "<p>Below are explanations of some of the traits noted in vehicle statistics. If information for a given category is not listed in a given stat block, it is not applicable.</p>", 
+    "name": "Vehicle Statistics", 
+    "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics", 
+    "type": "section", 
+    "source": "Ultimate Combat", 
+    "sections": [
+        {
+            "body": "<p id=\"name\">The name of the vehicle.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Name", 
+            "type": "section", 
+            "name": "Name", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"size-and-type\">Divided into land, sea, and air.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Size and Type", 
+            "type": "section", 
+            "name": "Size and Type", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"squares\">The typical size of the vehicle is measured in a number of squares, followed by the standard configuration of those squares. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Squares", 
+            "type": "section", 
+            "name": "Squares", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"cost\">The vehicle's cost in gp. Sometimes the description or the weapons section provides possible modifications for the vehicles. These are not included in the cost of the vehicle, nor are additions like rams or siege engines.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Cost", 
+            "type": "section", 
+            "name": "Cost", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"ac-and-hardness\">This is the AC and harness of the vehicle. The AC assumes the vehicle is in motion and the driver has not modified the AC with his driving skill. If the vehicle is not in motion, it has an effective Dexterity of 0 (&ndash;5 penalty to AC), and an additional &ndash;2 penalty to its AC. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/AC and Hardness", 
+            "type": "section", 
+            "name": "AC and Hardness", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"hp\">While a vehicle can be attacked in combat, it is often hard to significantly damage large vehicles. When a vehicle reaches the hit point total in the parentheses, it is broken. A vehicle's hit points not factor in its method of propulsion or the driving device. They have their own statistics.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/hp", 
+            "type": "section", 
+            "name": "hp", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"base-save\">Each vehicle has a base save modifier. All of the vehicle's saving throws (Fortitude, Reflex, and Will) have the same value.  This is the vehicle's save before the  driver modifies it with his driving check. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Base Save", 
+            "type": "section", 
+            "name": "Base Save", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"maximum-speed\">This is the fastest that a vehicle can move. When a vehicle has more than one method of propulsion, it may also have more than one maximum speed. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Maximum Speed", 
+            "type": "section", 
+            "name": "Maximum Speed", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"cmb-and-cmd\">The CMB an CMD before the driver modifies it with his driving check modifier.</p>", 
+            "name": "CMB and CMD", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/CMB and CMD", 
+            "type": "section", 
+            "source": "Ultimate Combat", 
+            "sections": [
+                {
+                    "body": "<table><caption>Table: Vehicle AC and CMB Modifier by Size</caption><thead><tr><th>Number of Vehicle Squares</th><th>AC</th><th>CMB Modifier</th></tr></thead><tr class=\"odd\"><td>Large vehicle</td><td>9</td><td>+1</td></tr><tr class=\"even\"><td>Huge vehicle</td><td>8</td><td>+2</td></tr><tr class=\"odd\"><td>Gargantuan vehicle</td><td>6</td><td>+4</td></tr><tr class=\"even\"><td>Colossal vehicle</td><td>2</td><td>+8</td></tr></table>", 
+                    "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/CMB and CMD/Table Vehicle AC and CMB Modifier by Size", 
+                    "type": "table", 
+                    "name": "Table: Vehicle AC and CMB Modifier by Size", 
+                    "source": "Ultimate Combat"
+                }
+            ]
+        }, 
+        {
+            "body": "<p id=\"acceleration\">This is how fast a vehicle can increase its speed each round. It also determines the maximum amount a vehicle can safely decelerate each round. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Acceleration", 
+            "type": "section", 
+            "name": "Acceleration", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"propulsion\">The type and amount of propulsion required.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Propulsion", 
+            "type": "section", 
+            "name": "Propulsion", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"driving-check:\"> The skills typically used to make a vehicle driving check with this vehicle.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Driving Check", 
+            "type": "section", 
+            "name": "Driving Check", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"forward-facing\">The direction of the vehicle's forward facing.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Forward Facing", 
+            "type": "section", 
+            "name": "Forward Facing", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"driving-device\">The typical driving device the driver manipulates when driving the vehicle. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Driving Device", 
+            "type": "section", 
+            "name": "Driving Device", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"driving-space\">The size and the location of the vehicle's driving space.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Driving Space", 
+            "type": "section", 
+            "name": "Driving Space", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"crew\">This is the number of crew members, in addition to the driver, needed to move the vehicle.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Crew", 
+            "type": "section", 
+            "name": "Crew", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"decks\">The number of decks and any important information about those decks is given in this section.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Vehicle Statistics/Decks", 
+            "type": "section", 
+            "name": "Decks", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"weapons\">Some vehicles can be equipped with siege weapons. This is the number of siege or vehicle weapons that a vehicle can have.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Weapons"
+        }
+    ]
+}

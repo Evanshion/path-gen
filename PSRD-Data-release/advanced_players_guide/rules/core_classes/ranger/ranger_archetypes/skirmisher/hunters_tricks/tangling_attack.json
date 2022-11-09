@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"tangling-attack\">The ranger can use this attack as a free action when he makes an attack. If the attack hits, the target is entangled for 1 round.</p>", 
+    "name": "Tangling Attack", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Ranger/Ranger Archetypes/Skirmisher/Hunters Tricks/Tangling Attack", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

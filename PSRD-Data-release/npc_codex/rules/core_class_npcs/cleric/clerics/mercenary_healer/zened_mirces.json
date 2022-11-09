@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Cleric/Clerics/Mercenary Healer/Zened Mirces", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Zened adventures to gain seed money to start a business.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Zened works best with several bodyguards or in a low-level adventuring party.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Zened does nothing for free (including healing allies) and often attempts to renegotiate contracts precisely when his \"comrades\" need him most.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Zened Mirces", 
+    "source": "NPC Codex"
+}

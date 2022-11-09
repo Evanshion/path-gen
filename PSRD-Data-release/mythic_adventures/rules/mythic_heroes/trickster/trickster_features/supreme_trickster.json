@@ -1,0 +1,10 @@
+{
+    "body": "<p>At 10th tier, whenever you make an attack roll against a non-mythic foe, that foe is treated as flat-footed, even if it has abilities that prevent it from being flat-footed. Once per round when you roll a natural 20 on an opposed skill check against a mythic foe, you regain one use of mythic power.</p>", 
+    "name": "Supreme Trickster", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Trickster/Trickster Features/Supreme Trickster", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

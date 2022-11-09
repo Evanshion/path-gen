@@ -1,0 +1,12 @@
+{
+    "body": "<p>A large building to house armies, train guards, and recruit militia.</p>", 
+    "kingdom": "Loyalty +2, Stability +2, Unrest -2", 
+    "name": "Garrison", 
+    "upgrade_from": "Barracks", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Turn Sequence/Building Descriptions/Garrison", 
+    "source": "Ultimate Campaign", 
+    "bp": "28", 
+    "lot": "2", 
+    "discount": "City Wall, Granary, Jail", 
+    "type": "kingdom_resource"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"grant-the-initiative\">At 8th level, you and all allies within 30 feet may add your Wisdom bonus to your initiative checks.</p>", 
+    "name": "Grant the Initiative", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Tactics Inquisition/Granted Powers/Grant the Initiative", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

@@ -1,0 +1,48 @@
+{
+    "body": "<p>You can cast this spell as part of the action to begin an inspire competence bardic performance. The benefit of inspire competence persists for as long as is necessary to complete the target's next skill check using the chosen skill (up to a maximum of 1 hour per caster level), even if you cease your bardic performance. </p>", 
+    "school": "enchantment", 
+    "saving_throw": "Will negates (harmless)", 
+    "description": "This spell can be cast as part of the action to begin an inspire competence bardic performance.", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Dwarves/New Racial Rules/Dwarven Spells/Toilsome Chant", 
+    "spell_resistance": "yes (harmless)", 
+    "casting_time": "see text", 
+    "level_text": "bard: 1; skald: 1", 
+    "descriptor": [
+        "mind-affecting"
+    ], 
+    "range": "close (25 ft. + 5 ft./2 levels)", 
+    "levels": [
+        {
+            "class": "Bard", 
+            "level": 1
+        }, 
+        {
+            "class": "Skald", 
+            "level": 1
+        }
+    ], 
+    "descriptor_text": "mind-affecting", 
+    "effects": [
+        {
+            "text": "one living creature", 
+            "name": "Target"
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }
+    ], 
+    "duration": "see text", 
+    "subschool_text": "compulsion", 
+    "subschool": [
+        "compulsion"
+    ], 
+    "type": "spell", 
+    "component_text": "V, S", 
+    "name": "Toilsome Chant"
+}

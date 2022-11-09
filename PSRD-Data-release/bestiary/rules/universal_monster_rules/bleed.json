@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"bleed\"> A creature with this ability causes wounds that continue to bleed, dealing the listed damage each round at the start of the affected creature's turn. This bleeding can be stopped by a successful DC 15 Heal skill check or through the application of any magical healing. The amount of damage each round is determined in the creature's entry.</p>", 
+    "name": "Bleed", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Bleed", 
+    "sections": [
+        {
+            "body": "<p>bleed (2d6); <i>Location</i>: Special Attacks and individual attacks.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary", 
+    "type": "ability"
+}

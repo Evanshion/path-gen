@@ -1,0 +1,64 @@
+{
+    "body": "<p class=\"stat-block\">This narrow cloth flag is made to attach to the end a knight's lance, though it can be flown from a spear, polearm, or even a staff. It has no effect if not mounted appropriately. A <i>knight's pennon</i> grants different benefits depending on its color and design.</p>", 
+    "name": "Knight's Pennon", 
+    "weight": "1 lb.", 
+    "cl": "6th", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Knights Pennon", 
+    "type": "item", 
+    "price": "varies", 
+    "misc": {
+        "Construction Requirements": {
+            "Battle": "2,250 gp", 
+            "Honor": "1,100 gp", 
+            "Parley": "2,250 gp"
+        }, 
+        "Knight's Pennon": {
+            "Battle": "4,500 gp", 
+            "Honor": "2,200 gp", 
+            "Parley": "4,500 gp"
+        }
+    }, 
+    "source": "Ultimate Equipment", 
+    "aura": "moderate abjuration or transmutation", 
+    "sections": [
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Knights Pennon/Battle", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">The red <i>knight's pennon of battle</i> allows its bearer to benefit from <i>heroism</i> once per day.</p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Battle", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Knights Pennon/Honor", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">The gold <i>knight's pennon of honor</i> bestows <i>protection from evil</i> upon the bearer once per day.</p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Honor", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Knights Pennon/Parley", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block\">The white <i>knight's pennon of parley</i>, when displayed approaching a negotiation, grants the bearer a +4 enhancement bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks for 1 hour, so long as the bearer does not initiate any hostile action.</p>", 
+                    "source": "Ultimate Equipment", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Parley", 
+            "source": "Ultimate Equipment"
+        }
+    ]
+}

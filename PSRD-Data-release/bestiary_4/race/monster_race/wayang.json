@@ -1,0 +1,75 @@
+{
+    "body": "<p>Wayangs are defined by class levels&mdash;they don't have racial Hit Dice. Wayangs have the following racial traits.</p>", 
+    "name": "Wayang", 
+    "source": "Bestiary 4", 
+    "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Wayangs are nimble and cagey, but their worldview is strange.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/+2 Dexterity/+2 Intelligence/\u20132 Wisdom", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Intelligence, \u20132 Wisdom", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs are Small creatures and gain a +1 size bonus to AC, a +1 size bonus on attack rolls, a -1 penalty on combat maneuver checks and to CMD, and a +4 size bonus on Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Small", 
+            "type": "section", 
+            "name": "Small", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs have a base speed of 20 feet.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Slow Speed", 
+            "type": "section", 
+            "name": "Slow Speed", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs can see in the dark up to 60 feet.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Darkvision", 
+            "type": "section", 
+            "name": "Darkvision", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>See stat block above.</p>", 
+            "name": "Light and Dark", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Light and Dark", 
+            "ability_types": {
+                "ability_type": "Supernatural"
+            }, 
+            "source": "Bestiary 4", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p>Wayangs gain a +2 racial bonus on Perception and Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Lurker", 
+            "type": "section", 
+            "name": "Lurker", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs add +1 to the save DC of shadow subschool spells they cast. Wayangs with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day&mdash;<i>ghost sound</i>, <i>pass without trace</i>, <i>ventriloquism</i> (caster level equals the wayang's level, saves are Charisma-based).</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Shadow Magic", 
+            "type": "section", 
+            "name": "Shadow Magic", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs get a +2 racial bonus on saves against spells of the shadow subschool.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Wayang/Wayang/Shadow Resistance", 
+            "type": "section", 
+            "name": "Shadow Resistance", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Wayangs begin play speaking Common and Wayang. Those with high Intelligence scores can choose from the following: any human language, Abyssal, Aklo, Draconic, Goblin, and Infernal.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Languages"
+        }
+    ]
+}

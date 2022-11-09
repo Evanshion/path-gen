@@ -1,0 +1,39 @@
+{
+    "body": "<p>Some plant magic is more green, while some is more brown, like hardwood.</p>", 
+    "name": "Groveborn", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Groveborn", 
+    "type": "section", 
+    "source": "Ultimate Magic", 
+    "sections": [
+        {
+            "body": "<p id=\"associated-bloodline\">Verdant.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Associated Bloodline"
+        }, 
+        {
+            "body": "<p id=\"bloodline-arcana\">Your powers of compulsion can affect even plant creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects creatures of the plant type as if they were humanoids that understood your language.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Bloodline Arcana"
+        }, 
+        {
+            "body": "<p id=\"bloodline-powers\">Your nature powers create tough, resilient minions.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"lush-summoning\">At 3rd level, whenever you summon creatures with a conjuration (summoning) spell, you can decide that they appear green and leafy. The natural armor bonus of such creatures is increased by +2, and they gain a +4 bonus on saves against paralysis, poison, polymorph, sleep, and stunning. This bloodline power replaces photosynthesis.</p>", 
+                    "name": "Lush Summoning", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Groveborn/Bloodline Powers/Lush Summoning", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Bloodline Powers", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

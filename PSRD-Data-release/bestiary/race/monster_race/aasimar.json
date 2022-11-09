@@ -1,0 +1,67 @@
+{
+    "body": "<p>Aasimars are defined by class levels&mdash;they do not possess racial Hit Dice. Aasimars have the following racial traits.</p>", 
+    "name": "Aasimar", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Aasimar/Aasimar", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Aasimars are insightful, confident, and personable.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "+2 Charisma, +2 Wisdom"
+        }, 
+        {
+            "body": "<p>Aasimars have a base speed of 30 feet.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Normal Speed"
+        }, 
+        {
+            "body": "<p>Aasimars can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p>Aasimars have a +2 racial bonus on Diplomacy and Perception checks.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Aasimar/Aasimar/Skilled", 
+            "type": "section", 
+            "name": "Skilled", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Aasimars can use <i>daylight</i> once per day as a spell-like ability (caster level equals the aasimar's class level).</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Aasimar/Aasimar/Spell-Like Ability", 
+            "type": "section", 
+            "name": "Spell-Like Ability", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Aasimar/Aasimar/Celestial Resistance", 
+            "type": "section", 
+            "name": "Celestial Resistance", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Aasimars begin play speaking Common and Celestial. Aasimars with high Intelligence scores can choose any of the following bonus languages: Draconic, Dwarven, Elven, Gnome, Halfling, and Sylvan.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Aasimar Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

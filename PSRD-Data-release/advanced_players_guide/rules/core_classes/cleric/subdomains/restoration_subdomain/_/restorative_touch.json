@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"restorative-touch\">You can touch a creature, letting the healing power of your deity flow through you to relieve the creature of a minor condition. Your touch can remove the dazed, fatigued, shaken, sickened, or staggered condition. You choose which condition is removed. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>", 
+    "name": "Restorative Touch", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Restoration Subdomain/Replacement Power/Restorative Touch", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

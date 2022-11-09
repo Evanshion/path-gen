@@ -1,0 +1,24 @@
+{
+    "name": "Combat Expertise, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Combat Expertise/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Combat Expertise."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Whenever you use Combat Expertise, you gain an additional +2 dodge bonus to your Armor Class. You can expend one use of mythic power to negate the penalties on melee attack rolls and combat maneuver checks caused by using Combat Expertise for 1 minute.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You can dart out of the way of attacks with skill and defiance."
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"holy-slinger\">This ability function like the holy champion paladin class feature, but the <i>banishment</i> occurs when she hits an evil outsider with the smiting shot deed.</p>", 
+    "name": "Holy Slinger", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Paladin/Paladin Archetypes/Holy Gun/Holy Slinger", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

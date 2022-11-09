@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Prestige Class NPCs/Duelist/Duelists/Iron Duelist/Unthal Rumblegut", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Born into a family of miners, Unthal learned at an early age that when wielded properly, the pick could become an effective weapon. When his clan's mines dug too deep into the Darklands, he was forced to defend his family mines against duergar and drow incursions, working with shielded defenders to lunge out from protective shield walls, using his mobility to take down dangerous foes before moving back behind the moveable walls of iron and dwarven muscle. His unorthodox tactics were mocked at first, with some seeing him as cowardly for not standing and fighting with feet planted like a normal dwarven warrior, but as the corpses of the clan's enemies mounted into piles, then great mounds, the whispers and jokes died. Now he enjoys high status within his clan, and teaches his ways to a new generation of dwarves, occasionally making pilgrimages out onto the surface to take his tactics to other holds.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Unthal's tactics work best when used in conjunction with more traditional dwarven defense strategies, and he often works in concert with other dwarven warriors. PCs intruding on dwarven territory&mdash;whether intentionally or not&mdash;may find themselves facing his pick.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Family and clan mean everything to Unthal. He is friendly to those who respect that, and hostile to those who do not. </p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Unthal Rumblegut", 
+    "source": "NPC Codex"
+}

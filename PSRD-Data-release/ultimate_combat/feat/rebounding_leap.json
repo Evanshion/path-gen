@@ -1,0 +1,24 @@
+{
+    "name": "Rebounding Leap", 
+    "url": "pfsrd://Ultimate Combat/Feats/Rebounding Leap", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Leaping lance class feature, Acrobatics 5 ranks, Ride 11 ranks."
+        }, 
+        {
+            "body": "<p>When you succeed at the Acrobatics check to jump as part of your leaping lance class feature, you can remount your steed as a swift action.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "Your riding and lancing expertise allows you to enter and leave the saddle with great speed."
+}

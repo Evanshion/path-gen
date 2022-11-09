@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"water-breathing-(ex)-\">A creature with this special ability can breathe underwater indefinitely. It can freely use any breath weapon, spells, or other abilities while submerged.</p>", 
+    "name": "Water Breathing", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Water Breathing", 
+    "sections": [
+        {
+            "body": "<p>water breathing; <i>Location</i>: SQ.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary 3", 
+    "type": "ability"
+}

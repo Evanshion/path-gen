@@ -1,0 +1,27 @@
+{
+    "body": "<p>A Farm helps feed your kingdom.</p>", 
+    "name": "Farm*", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Turn Sequence/Terrain Improvements/Farm*", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>Desert (requires canal, coastline, or river), hill, or plain.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Terrain"
+        }, 
+        {
+            "body": "<p>Consumption decreases by 2 BP.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Effect"
+        }, 
+        {
+            "body": "<p>See the Terrain and Terrain Improvements table.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Cost"
+        }
+    ]
+}

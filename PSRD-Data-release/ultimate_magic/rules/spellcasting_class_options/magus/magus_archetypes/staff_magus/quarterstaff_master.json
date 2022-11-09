@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"quarterstaff-master\">At 1st level, the staff magus gains the Quarterstaff Master feat  as a bonus feat, even if he does not meet the normal prerequisites. He only gains the benefit of this feat when wearing no armor or light armor.</p>", 
+    "name": "Quarterstaff Master", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Magus/Magus Archetypes/Staff Magus/Quarterstaff Master", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

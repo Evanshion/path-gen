@@ -1,0 +1,39 @@
+{
+    "name": "Thought Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Thought Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Knowledge.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the remote viewing power of the Knowledge domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"read-minds\">At 8th level, you can broaden your mental spectrum to encompass those around you. Doing so allows you to read the mind of every creature within 30 feet as if you had cast <i>detect thoughts</i>. This ability allows you to read the surface thoughts of any creature that you are aware of after only 1 round of concentration. Creatures in this area are allowed a Will save to negate the effect. The DC of this Will save is 10 + 1/2 your cleric level + your Wisdom modifier. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.</p>", 
+                    "name": "Read Minds", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Thought Subdomain/Replacement Power/Read Minds", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>3rd&mdash;<i>seek thoughts*</i>, 5th&mdash;<i>telepathic bond</i>, 8th&mdash;<i>mind blank</i>.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

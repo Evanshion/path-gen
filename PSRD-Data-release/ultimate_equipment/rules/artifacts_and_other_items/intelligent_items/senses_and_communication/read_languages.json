@@ -1,0 +1,10 @@
+{
+    "body": "<p>The item can read script in any language, regardless of its known languages.</p>", 
+    "name": "Read Languages", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Artifacts and Other Items/Intelligent Items/Senses and Communication/Read Languages", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Equipment", 
+    "type": "ability"
+}

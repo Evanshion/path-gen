@@ -1,0 +1,40 @@
+{
+    "name": "Thieves' Tools", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Thieves Tools", 
+    "sections": [
+        {
+            "body": "<table><thead><th>Type</th><th>Price</th><th>Weight</th></thead><tr class=\"odd\"><td>Common</td><td>30 gp</td><td>1 lb.</td></tr><tr class=\"even\"><td>Masterwork</td><td>100 gp</td><td>2 lbs.</td></tr></table>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Thieves Tools/Type", 
+            "type": "table", 
+            "name": "Type", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">This kit contains lockpicks and other tools you need to use the Disable Device skill. Without these tools, you must use improvised tools, and you take a &ndash;2 circumstance penalty on Disable Device checks. </p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">This kit contains extra tools and tools of better make, which grant a +2 circumstance bonus on Disable Device checks.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Tools and Skill Kits/Thieves Tools/Masterwork Thieves Tools", 
+            "type": "section", 
+            "name": "Masterwork Thieves' Tools", 
+            "source": "Ultimate Equipment"
+        }
+    ], 
+    "misc": {
+        "null": {
+            "Gear Type": "Item"
+        }, 
+        "Masterwork": {
+            "Price": "100 gp", 
+            "Weight": "2 lbs."
+        }, 
+        "Common": {
+            "Price": "30 gp", 
+            "Weight": "1 lb."
+        }
+    }, 
+    "source": "Ultimate Equipment", 
+    "type": "item"
+}

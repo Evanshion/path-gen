@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"natural-weapon-mastery\">At 20th level, a savage warrior must choose one natural weapon. This ability replaces weapon mastery.</p>", 
+    "name": "Natural Weapon Mastery", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Savage Warrior/Natural Weapon Mastery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

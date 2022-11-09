@@ -1,0 +1,24 @@
+{
+    "name": "Breadth of Experience", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Breadth of Experience", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Dwarf, elf, or gnome; 100+ years old."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You get a +2 bonus on all Knowledge and Profession skill checks, and can make checks with those skills untrained.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Although still young for your kind, you have a lifetime of knowledge and training."
+}

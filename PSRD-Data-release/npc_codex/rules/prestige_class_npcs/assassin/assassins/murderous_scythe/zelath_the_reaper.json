@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Prestige Class NPCs/Assassin/Assassins/Murderous Scythe/Zelath the Reaper", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Knowing that death is just part of the cycle of life, Zelath truly believes his murderous ways enforces the will of nature. Like a deadly gardener, he prunes those who dare thwart death's call or despoil nature.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Zelath aids other druids in the protection of their homes, bringing his unorthodox talents for mutual defense and strategic offense.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Zelath often offers his expert knowledge of poisons to friends of the natural order.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Zelath the Reaper", 
+    "source": "NPC Codex"
+}

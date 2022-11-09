@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"skilled-rider\">At 1st level, a dragoon gains both the Mounted Combat and Skill Focus (Ride) feats as bonus feats. This ability replaces the 1st-level fighter bonus combat feat. </p>", 
+    "name": "Skilled Rider", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Fighter/Fighter Archetypes/Dragoon/Skilled Rider", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

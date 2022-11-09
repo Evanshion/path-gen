@@ -1,0 +1,30 @@
+{
+    "name": "Improved Snap Shot", 
+    "url": "pfsrd://Ultimate Combat/Feats/Improved Snap Shot", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Dex 15, Point-Blank Shot, Rapid Shot, Snap Shot, Weapon Focus, base attack bonus +9."
+        }, 
+        {
+            "body": "<p>You threaten an additional 10 feet with Snap Shot. </p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p>Making a ranged attack provokes attacks of opportunity.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You can take advantage of your opponent's vulnerabilities from a greater distance, and without exposing yourself."
+}

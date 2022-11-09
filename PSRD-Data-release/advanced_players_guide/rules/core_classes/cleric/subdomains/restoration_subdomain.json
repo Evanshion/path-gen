@@ -1,0 +1,39 @@
+{
+    "name": "Restoration Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Restoration Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Healing.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the rebuke death power of the Healing domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"restorative-touch\">You can touch a creature, letting the healing power of your deity flow through you to relieve the creature of a minor condition. Your touch can remove the dazed, fatigued, shaken, sickened, or staggered condition. You choose which condition is removed. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>", 
+                    "name": "Restorative Touch", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Restoration Subdomain/Replacement Power/Restorative Touch", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>2nd&mdash;<i>remove disease</i>, 4th&mdash;<i>neutralize poison</i>, 5th&mdash;<i>break enchantment</i>. </p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

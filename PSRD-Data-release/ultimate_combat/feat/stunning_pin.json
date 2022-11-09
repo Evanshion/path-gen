@@ -1,0 +1,24 @@
+{
+    "name": "Stunning Pin", 
+    "url": "pfsrd://Ultimate Combat/Feats/Stunning Pin", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Improved Grapple, Improved Unarmed Strike, Stunning Fist."
+        }, 
+        {
+            "body": "<p>Whenever you pin an opponent, you can spend a swift action to make a Stunning Fist attempt against that opponent.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You can render a pinned foe temporarily incapacitated."
+}

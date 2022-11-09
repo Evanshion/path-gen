@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Prestige Class NPCs/Shadowdancer/Shadowdancers/Darkstar/Filagan Umbraflame", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>A thief and a liar, Filagan is more interested in filling his coin purse and enjoying the good life than he is in carnage or murder. Though deadly in combat, he avoids it whenever possible. He employs dirty tricks when cornered, knowing his small size is a disadvantage in a straight physical fight. Once he gets the best of his opponent, he escapes to a nearby tavern or gambling hall to lose himself in the crowd and relax.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>A daring thief, Filagan knows adventurers are typically lucrative marks. This often causes him to take too big of risks and get himself into trouble stealing from them. Filagan rarely travels with allies, but might jump into a larger battle if doing so means there's less risk to him personally.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Jovial and fun-loving, Filagan is the life of the party, buying drinks and telling good-natured and self-deprecating jokes. He doesn't let on that he's an experienced killer&mdash;at least not until someone threatens one of his drinking buddies.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Filagan Umbraflame", 
+    "source": "NPC Codex"
+}

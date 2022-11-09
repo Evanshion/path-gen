@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"smite-evil\">This functions as the paladin ability of the same name, but the undead scourge does not deal 2 points of damage per level on the first successful attack against evil dragons and evil outsiders. She does deal 2 points of damage per level on all smite attacks made against evil undead creatures.</p>", 
+    "name": "Smite Evil", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Paladin/Paladin Archetypes/Undead Scourge/Smite Evil", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

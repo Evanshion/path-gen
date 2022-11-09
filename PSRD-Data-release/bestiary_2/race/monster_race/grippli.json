@@ -1,0 +1,74 @@
+{
+    "body": "<p>Gripplis are defined by their class levels&mdash;they do not possess racial Hit Dice. They have the following racial traits.</p>", 
+    "name": "Grippli", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Grippli/Grippli", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p id=\"+2-dexterity,-+2-wisdom,--2-strength\">Gripplis are nimble and alert, but spindly.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Wisdom, -2 Strength"
+        }, 
+        {
+            "body": "<p id=\"small\">Gripplis are Small sized.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Grippli/Grippli/Small", 
+            "type": "section", 
+            "name": "Small", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"fast-speed\">Gripplis have a base speed of 30 feet and a base climb speed of 20 feet.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Grippli/Grippli/Fast Speed", 
+            "type": "section", 
+            "name": "Fast Speed", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"darkvision\">Gripplis can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p id=\"camouflage\">+4 Stealth in marshes or forested areas.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Grippli/Grippli/Camouflage", 
+            "type": "section", 
+            "name": "Camouflage", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "See Grippli/Special Abilities/Swamp Stride", 
+            "source": "Bestiary 2", 
+            "type": "link", 
+            "name": "Swamp Stride"
+        }, 
+        {
+            "body": "<p id=\"weapon-familiarity\">Gripplis are proficient with nets.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Grippli/Grippli/Weapon Familiarity", 
+            "type": "section", 
+            "name": "Weapon Familiarity", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"languages\">Gripplis speak Common and Grippli. Gripplis with high Int scores can choose from the following: Boggard, Draconic, Elven, Gnome, Goblin, Sylvan.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Grippli Monster Entry", 
+                    "source": "Bestiary 2", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 2"
+        }
+    ]
+}

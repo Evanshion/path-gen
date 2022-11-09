@@ -1,0 +1,30 @@
+{
+    "name": "Siege Engineer", 
+    "url": "pfsrd://Ultimate Combat/Feats/Siege Engineer", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Knowledge (engineering) 5 ranks or Profession (siege engineer) 5 ranks, proficiency with one siege engine. "
+        }, 
+        {
+            "body": "<p>You are considered to be proficient with all siege weapons. Also, when you are crew lead for a siege engine, you do not generate mishaps on the roll of a natural 1.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p>Each siege engine is an exotic weapon.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You are proficient with all siege weaponry."
+}

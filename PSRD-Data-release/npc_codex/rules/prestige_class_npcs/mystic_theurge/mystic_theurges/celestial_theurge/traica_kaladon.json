@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Prestige Class NPCs/Mystic Theurge/Mystic Theurges/Celestial Theurge/Traica Kaladon", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>The survivor of a zombie plague that ravaged her small town, Traica now quests to destroy any undead threat.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Allying with paladins, inquisitors, and clerics, Traica works to make the world safe for good people everywhere.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Gracious and kind, Traica is always willing to help the downtrodden.<span class=\"char-style-override-14\"></span></p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Traica Kaladon", 
+    "source": "NPC Codex"
+}

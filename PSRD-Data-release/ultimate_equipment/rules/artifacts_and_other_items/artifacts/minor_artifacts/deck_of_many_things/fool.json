@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Artifacts and Other Items/Artifacts/Minor Artifacts/Deck of Many Things/Fool", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block\">The payment of XP and the redraw are mandatory. This card is always discarded when drawn, unlike all others except the Jester.</p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Fool", 
+    "source": "Ultimate Equipment"
+}

@@ -1,0 +1,45 @@
+{
+    "body": "<p>Beastmorphs study the anatomy of monsters, learning how they achieve their strange powers. They use their knowledge to duplicate these abilities, but at the cost of taking on inhuman shapes when they use mutagens.</p>", 
+    "name": "Beastmorph", 
+    "source": "Ultimate Combat", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph", 
+    "type": "class_archetype", 
+    "subtype": "alchemist", 
+    "sections": [
+        {
+            "body": "<p id=\"beastform-mutagen\">At 3rd level, a beastmorph's mutagen causes him to take on animalistic features&mdash;whether those of an animal, a magical beast, an animal-like humanoid (such as a lizardfolk), or a monstrous humanoid. For example, when the beastmorph uses his mutagen, he may gain a furry muzzle and pointed ears like a werewolf, scaly skin like a lizardfolk or sahuagin, or compound eyes and mandibles like a giant insect. The beastmorph also gains his choice of one of the abilities listed in the <i>alter self</i> spell, which persists as long as the mutagen. He may select a different ability each time he creates a mutagen. This ability replaces swift alchemy.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph/Beastform Mutagen", 
+            "type": "section", 
+            "name": "Beastform Mutagen", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"improved-beastform-mutagen\">At 6th level, a beastmorph's mutagen grants him additional abilities and options. The alchemist gains his choice of two of the abilities listed in the <i>beast shape I</i> spell, which persist as long as the mutagen. He may select two different abilities each time he creates a mutagen. This ability replaces swift poisoning.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph/Improved Beastform Mutagen", 
+            "type": "section", 
+            "name": "Improved Beastform Mutagen", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"greater-beastform-mutagen\">At 10th level, a beastmorph's mutagen grants him three of the abilities listed in the <i>beast shape II</i> spell, which persist as long as the mutagen. He may select three different abilities each time he creates a mutagen. This ability replaces poison resistance +2, +4, and +6, as well as poison immunity.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph/Greater Beastform Mutagen", 
+            "type": "section", 
+            "name": "Greater Beastform Mutagen", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"grand-beastform-mutagen\">At 14th level, a beastmorph's mutagen grants him four of the abilities listed in the <i>beast shape III</i> spell, which persist as long as the mutagen. He may select four different abilities each time he creates a mutagen. This ability replaces persistent mutagen.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph/Grand Beastform Mutagen", 
+            "type": "section", 
+            "name": "Grand Beastform Mutagen", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"discoveries\">The following discoveries complement the beastmorph archetype: feral mutagen, grand mutagen, greater mutagen, infuse mutagen, mummification, spontaneous healing, tentacle, and wings.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Alchemist/Alchemist Archetypes/Beastmorph/Discoveries", 
+            "type": "section", 
+            "name": "Discoveries", 
+            "source": "Ultimate Combat"
+        }
+    ]
+}

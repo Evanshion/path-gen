@@ -1,0 +1,55 @@
+{
+    "danger": "+0", 
+    "minor_items": "1d4", 
+    "medium_items": "1d2", 
+    "society": "+0", 
+    "alignment": "LN", 
+    "base_value": "250 gp", 
+    "disadvantages": "impoverished", 
+    "crime": "-4", 
+    "source": "Game Mastery Guide", 
+    "lore": "+1", 
+    "purchase_limit": "1,250 gp", 
+    "sections": [
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"mayor-tanner-basken\"> (LG male human expert 3)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Failing Fishing Village/Demographics/Mayor Tanner Basken", 
+                    "type": "section", 
+                    "name": "Mayor Tanner Basken", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"sheriff-ira-skeen\"> (LN female human fighter 1/ranger 3)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Failing Fishing Village/Demographics/Sheriff Ira Skeen", 
+                    "type": "section", 
+                    "name": "Sheriff Ira Skeen", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"soothsayer-the-beachcomber\"> (N male human druid 2)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Failing Fishing Village/Demographics/Soothsayer the Beachcomber", 
+                    "type": "section", 
+                    "name": "Soothsayer the Beachcomber", 
+                    "source": "Game Mastery Guide"
+                }
+            ], 
+            "name": "Demographics", 
+            "source": "Game Mastery Guide"
+        }
+    ], 
+    "corruption": "+0", 
+    "economy": "-1", 
+    "government": "autocracy", 
+    "settlement_type": "village", 
+    "law": "+2", 
+    "population": "70 (63 humans, 6 halflings, 1 half-elf)", 
+    "spellcasting": "1st", 
+    "name": "Failing Fishing Village", 
+    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/Failing Fishing Village", 
+    "type": "settlement", 
+    "major_items": "&mdash", 
+    "qualities": "rumormongering citizens, superstitious"
+}

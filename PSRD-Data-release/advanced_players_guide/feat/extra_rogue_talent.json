@@ -1,0 +1,30 @@
+{
+    "name": "Extra Rogue Talent", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Extra Rogue Talent", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Rogue talent class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can gain Extra Rogue Talent multiple times.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Through constant practice, you have learned how to perform a special trick."
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"slippery\">At 13th level, a swamp druid gains continuous <i>freedom of movement</i>. This ability replaces a thousand faces.</p>", 
+    "name": "Slippery", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Druid/Druid Archetypes/Swamp Druid/Slippery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

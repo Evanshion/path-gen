@@ -1,0 +1,24 @@
+{
+    "name": "Channeling Scourge", 
+    "url": "pfsrd://Ultimate Combat/Feats/Channeling Scourge", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Channel energy class feature, inquisitor level 1st."
+        }, 
+        {
+            "body": "<p>When you use channel energy to deal damage, your inquisitor levels count as cleric levels for determining the number of damage dice and the saving throw DC.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your zeal for hunting your faith's enemies empowers your ability to channel divine energy, as long as you channel that energy for harm."
+}

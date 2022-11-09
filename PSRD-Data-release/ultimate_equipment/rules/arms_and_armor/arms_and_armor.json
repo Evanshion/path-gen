@@ -1,0 +1,29 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Arms And Armor/Arms and Armor", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p> Start off by girding yourself for battle with this extensive selection of armors and shields, from familiar favorites like leather armor and plate mail to exotic kikko armor and the horned madu shield. Also presented for your convenience are rules for getting into and out of armor, masterwork armor, armor for unusual creatures, and more.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Arms And Armor/Arms and Armor/Armor", 
+            "type": "section", 
+            "name": "Armor", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "body": "<p> Next, choose your weapon with a plethora of weapon tables and descriptions. Swords and bows, polearms and firearms-they're all here, as well as rules for expanded fighter weapon groups, weapon qualities, and damage for weapons of unusual sizes.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Arms And Armor/Arms and Armor/Weapons", 
+            "type": "section", 
+            "name": "Weapons", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "body": "<p> Lastly, special materials ensure that your weapons and armor have mechanics as unique as their appearances. Will your armor be made from dragonhide or adamantine? Angelskin or blood crystal? Perhaps your primitive character carries only stone weapons, or bronze? The choice is yours.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Arms And Armor/Arms and Armor/Special Materials", 
+            "type": "section", 
+            "name": "Special Materials", 
+            "source": "Ultimate Equipment"
+        }
+    ], 
+    "name": "Arms and Armor", 
+    "source": "Ultimate Equipment"
+}

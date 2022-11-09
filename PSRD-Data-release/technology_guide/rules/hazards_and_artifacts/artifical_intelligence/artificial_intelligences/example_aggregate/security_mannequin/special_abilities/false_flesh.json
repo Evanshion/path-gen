@@ -1,0 +1,10 @@
+{
+    "body": "The synthetic flesh and hair of a security mannequin give it a +8 bonus on Disguise checks to appear human (but not to impersonate a specific human).", 
+    "name": "False Flesh", 
+    "url": "pfsrd://Technology Guide/Rules/Hazards and Artifacts/Artifical Intelligence/Artificial Intelligences/Example Aggregate/Security Mannequin/Special Abilities/False Flesh", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Technology Guide", 
+    "type": "ability"
+}

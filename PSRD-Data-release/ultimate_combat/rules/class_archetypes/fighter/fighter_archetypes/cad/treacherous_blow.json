@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"treacherous-blow\">At 15th level, when a cad confirms a critical hit, he can attempt a dirty trick combat maneuver as part of that attack as an immediate action. This ability replaces armor training 4. </p>", 
+    "name": "Treacherous Blow", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Fighter/Fighter Archetypes/Cad/Treacherous Blow", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

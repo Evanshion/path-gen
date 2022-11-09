@@ -1,0 +1,12 @@
+{
+    "name": "Dark Naga Venom", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Naga/Dark/Special Abilities/Poison/Dark Naga Venom", 
+    "contracted": "injury", 
+    "effect": "sleep for 2d4 minutes", 
+    "subtype": "poison", 
+    "cure": "1 save", 
+    "frequency": "1 round", 
+    "save": "Fortitude DC 19", 
+    "type": "affliction"
+}

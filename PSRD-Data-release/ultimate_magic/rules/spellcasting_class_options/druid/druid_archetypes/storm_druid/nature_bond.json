@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"nature-bond\">A storm druid may not choose an animal companion. A storm druid must choose the Air or Weather domain, or the Cloud, Storm, or Wind subdomain.</p>", 
+    "name": "Nature Bond", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Druid/Druid Archetypes/Storm Druid/Nature Bond", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

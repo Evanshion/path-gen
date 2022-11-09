@@ -1,0 +1,30 @@
+{
+    "body": "<p>You can move between the Shadow Plane and the Material Plane more often. </p>", 
+    "name": "Shadow Ghost", 
+    "url": "pfsrd://Advanced Race Guide/Races/Fetchlings/New Racial Rules/Fetchling Feats/Shadow Ghost", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Fetchling, <i>shadow walk</i> spell-like ability.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain the ability to use <i>shadow walk</i> an additional time each day.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You may select this feat multiple times. Its effects stack.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ]
+}

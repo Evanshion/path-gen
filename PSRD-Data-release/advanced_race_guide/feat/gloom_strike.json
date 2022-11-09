@@ -1,0 +1,24 @@
+{
+    "body": "<p>Few creatures are as accustomed to fighting in the shadows as you. </p>", 
+    "name": "Gloom Strike", 
+    "url": "pfsrd://Advanced Race Guide/Races/Fetchlings/New Racial Rules/Fetchling Feats/Gloom Strike", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Blind-Fight, fetchling.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When you are within an area of dim light or darkness, you gain a +1 bonus on attack rolls against enemies that are also within dim light or darkness.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"extra-mythic-feat\">You gain an extra mythic feat. You can take this ability a number of times equal to half your mythic tier (minimum 1). Each time you do, you gain another mythic feat.</p>", 
+    "name": "Extra Mythic Feat", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Mythic Heroes/Universal Path Abilities/1st-Tier Universal Path Abilities/Extra Mythic Feat", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

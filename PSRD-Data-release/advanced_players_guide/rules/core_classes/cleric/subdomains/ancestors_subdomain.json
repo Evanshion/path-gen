@@ -1,0 +1,39 @@
+{
+    "name": "Ancestors Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Ancestors Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Repose.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the ward against death power of the Repose domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"speak-with-dead\">At 8th level, as a standard action, you can ask one question of a dead creature as if using <i>speak with dead</i>. The dead creature you are questioning does not gain a Will saving throw if your alignments are different. You can use this ability a number of times per day equal to your cleric level.</p>", 
+                    "name": "Speak With Dead", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Ancestors Subdomain/Replacement Power/Speak With Dead", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>4th&mdash;<i>rest eternal</i>*, 6th&mdash;<i>geas/quest</i>.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

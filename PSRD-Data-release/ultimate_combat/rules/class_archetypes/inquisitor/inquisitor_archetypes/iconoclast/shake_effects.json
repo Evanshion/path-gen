@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"shake-effects\">At 1st level, an iconoclast gains a +2 bonus on all saving throws against effects that come from a magic item. This ability replaces monster lore.</p>", 
+    "name": "Shake Effects", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Inquisitor/Inquisitor Archetypes/Iconoclast/Shake Effects", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

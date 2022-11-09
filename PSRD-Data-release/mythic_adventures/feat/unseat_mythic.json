@@ -1,0 +1,24 @@
+{
+    "name": "Unseat, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Unseat/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Unseat."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess. Items or abilities that reduce falling damage, such as a successful Acrobatics check, can reduce the damage dealt by the impact.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You knock your opponents down from their mounts with frightening concussive force."
+}

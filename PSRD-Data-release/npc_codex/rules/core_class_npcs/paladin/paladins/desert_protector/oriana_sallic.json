@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Paladin/Paladins/Desert Protector/Oriana Sallic", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Oriana is one of the most effective god-speakers in her tribe, leading her people on a constant crusade against horrible desert monsters and cruel raiders.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }
+    ], 
+    "name": "Oriana Sallic", 
+    "source": "NPC Codex"
+}

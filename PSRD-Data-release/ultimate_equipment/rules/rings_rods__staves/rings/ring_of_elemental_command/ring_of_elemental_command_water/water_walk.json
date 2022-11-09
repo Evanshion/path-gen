@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Rings/Rods and Staves/Rings/Ring of Elemental Command/Ring of Elemental Command (Water)/Water walk", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<li> (unlimited use) </li>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Water walk", 
+    "source": "Ultimate Equipment"
+}

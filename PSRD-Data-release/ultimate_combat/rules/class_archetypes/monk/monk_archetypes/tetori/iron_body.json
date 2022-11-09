@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"iron-body\">At 19th level, as a move action, a tetori can make his tissues ultra-dense for 1 minute as the <i>iron body</i> spell by spending 3 points from his <i>ki </i>pool. This ability replaces empty body.</p>", 
+    "name": "Iron Body", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Monk/Monk Archetypes/Tetori/Iron Body", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

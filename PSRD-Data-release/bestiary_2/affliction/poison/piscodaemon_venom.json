@@ -1,0 +1,12 @@
+{
+    "name": "Piscodaemon Venom", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Daemon/Piscodaemon/Special Abilities/Poison/Piscodaemon Venom", 
+    "contracted": "injury", 
+    "effect": "1d2 Constitution plus staggered for 1 round", 
+    "subtype": "poison", 
+    "cure": "2 consecutive saves", 
+    "frequency": "1/round for 6 rounds", 
+    "save": "Fortitude DC 22", 
+    "type": "affliction"
+}

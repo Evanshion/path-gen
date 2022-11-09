@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"hawkeye\">As a swift action, you may add a bonus equal to half your druid level (minimum +1) on one ranged attack or on one Perception check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>", 
+    "name": "Hawkeye", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Druid/Animal and Terrain Domains/Eagle Domain/Hawkeye", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

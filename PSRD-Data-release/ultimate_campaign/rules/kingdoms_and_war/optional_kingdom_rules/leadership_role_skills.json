@@ -1,0 +1,113 @@
+{
+    "body": "<p>Each leadership role provides bonuses to kingdom statistics based on one of the leader's ability scores. The GM may want to allow a leader's ranks in a relevant skill (such as Diplomacy or Intimidate) to also affect the kingdom statistics. For every 5 full ranks in a relevant skill, the leader may increase the leadership modifier by an additional 1. These skill-based additional bonuses modify the standard leadership role bonuses in the same way that the Leadership feat grants additional bonuses.</p><p>The relevant skills for each leadership role are as follows.</p>", 
+    "name": "Leadership Role Skills", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>Diplomacy</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Ambassador", 
+            "type": "section", 
+            "name": "Ambassador", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (nobility)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Consort", 
+            "type": "section", 
+            "name": "Consort", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (local)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Councilor", 
+            "type": "section", 
+            "name": "Councilor", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Profession (soldier)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/General", 
+            "type": "section", 
+            "name": "General", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Diplomacy</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Grand Diplomat", 
+            "type": "section", 
+            "name": "Grand Diplomat", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (nobility)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Heir", 
+            "type": "section", 
+            "name": "Heir", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (religion)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/High Priest", 
+            "type": "section", 
+            "name": "High Priest", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (arcana)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Magister", 
+            "type": "section", 
+            "name": "Magister", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Survival</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Marshal", 
+            "type": "section", 
+            "name": "Marshal", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Intimidate</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Royal Enforcer", 
+            "type": "section", 
+            "name": "Royal Enforcer", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (nobility)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Ruler", 
+            "type": "section", 
+            "name": "Ruler", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Sense Motive</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Spymaster", 
+            "type": "section", 
+            "name": "Spymaster", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Profession (merchant)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Treasurer", 
+            "type": "section", 
+            "name": "Treasurer", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (geography)</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Optional Kingdom Rules/Leadership Role Skills/Viceroy", 
+            "type": "section", 
+            "name": "Viceroy", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Knowledge (engineering)</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Warden"
+        }
+    ]
+}

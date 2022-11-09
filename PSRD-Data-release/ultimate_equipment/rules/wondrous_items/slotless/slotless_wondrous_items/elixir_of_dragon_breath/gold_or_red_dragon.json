@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Wondrous Items/Slotless/Slotless Wondrous Items/Elixir of Dragon Breath/Gold or red dragon", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block\">15-foot cone of fire.</p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Gold or red dragon", 
+    "source": "Ultimate Equipment"
+}

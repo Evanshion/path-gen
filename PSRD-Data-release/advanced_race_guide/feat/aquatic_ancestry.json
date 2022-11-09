@@ -1,0 +1,24 @@
+{
+    "body": "<p>You favor your outsider ancestry and are better adapted to life in the water.</p>", 
+    "name": "Aquatic Ancestry", 
+    "url": "pfsrd://Advanced Race Guide/Races/Undines/New Racial Rules/Undine Feats/Aquatic Ancestry", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Undine.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain the amphibious special quality. Your swim speed increases by +10 feet.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

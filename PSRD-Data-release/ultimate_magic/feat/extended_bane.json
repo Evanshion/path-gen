@@ -1,0 +1,24 @@
+{
+    "name": "Extended Bane", 
+    "url": "pfsrd://Ultimate Magic/Feats/Extended Bane", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Bane class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Add your Wisdom bonus to the number of rounds per day that you can use your bane ability.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your dedication knows no limit. Your wrath dies hard."
+}

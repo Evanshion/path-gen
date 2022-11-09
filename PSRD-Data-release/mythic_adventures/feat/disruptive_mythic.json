@@ -1,0 +1,24 @@
+{
+    "name": "Disruptive, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Disruptive/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Disruptive."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">The DC to cast spells defensively within your threatened area increases by half your tier. This stacks with the increase granted by Disruptive. In addition, even if you can't make attacks of opportunity, non-mythic spellcasters are still wary of you and continue to suffer from the effects of Disruptive.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You're a master at disrupting nearby spellcasters."
+}

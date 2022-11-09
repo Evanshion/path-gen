@@ -1,0 +1,24 @@
+{
+    "name": "Light Step", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Light Step", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Acrobatic Steps, Nimble Moves, elf."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can ignore the effects of difficult terrain in natural environments, as if it were normal terrain.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You pick your way nimbly through even the most dangerous and uneven terrain."
+}

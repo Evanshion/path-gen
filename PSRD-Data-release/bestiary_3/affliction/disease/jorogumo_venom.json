@@ -1,0 +1,12 @@
+{
+    "name": "Jorogumo Venom", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Jorogumo/Special Abilities/Poison/Jorogumo Venom", 
+    "contracted": "injury", 
+    "effect": "1d6 Wisdom damage", 
+    "subtype": "disease", 
+    "cure": "3 saves", 
+    "frequency": "1/round fo 6 rounds", 
+    "save": "Fortitude DC 23", 
+    "type": "affliction"
+}

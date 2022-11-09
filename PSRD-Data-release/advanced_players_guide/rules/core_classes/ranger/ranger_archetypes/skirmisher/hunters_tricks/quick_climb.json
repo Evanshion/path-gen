@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"quick-climb\">The ranger can climb at his full speed as a move action without penalty.</p>", 
+    "name": "Quick Climb", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Ranger/Ranger Archetypes/Skirmisher/Hunters Tricks/Quick Climb", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

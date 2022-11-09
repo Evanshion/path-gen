@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"fearsome-survival\">At 20th level, your hag-blood gives you considerable resilience. You gain DR 10/cold iron, and gain SR equal to 6 + your sorcerer level.</p>", 
+    "name": "Fearsome Survival", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Bloodlines/Accursed/Bloodline Powers/Fearsome Survival", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

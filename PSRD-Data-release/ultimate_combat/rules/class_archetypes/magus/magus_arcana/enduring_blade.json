@@ -1,0 +1,11 @@
+{
+    "body": "<p id=\"enduring-blade\">Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to increase the duration to 1 minute per magus level. The magus must be at least 6th level before selecting this arcana.</p>", 
+    "name": "Enduring Blade", 
+    "source": "Ultimate Combat", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Arcana/Enduring Blade", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "subtype": "magus_arcana", 
+    "type": "ability"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"spellstrike\">A soul forger may use this ability only when wielding his bonded weapon.</p>", 
+    "name": "Spellstrike", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Soul Forger/Spellstrike", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p>A place to store grain and food.</p>", 
+    "resource_create": "30 Goods, 30 Labor (1,200 gp)", 
+    "name": "Granary", 
+    "source": "Ultimate Campaign", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Downtime/Buildings And Organizations/Buildings and Organizations/Buildings/Granary", 
+    "subtype": "building", 
+    "rooms": "10 Storages", 
+    "type": "resource"
+}

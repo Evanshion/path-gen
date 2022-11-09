@@ -1,0 +1,7 @@
+{
+    "body": "<p id=\"price\">This amount is the cost, in gold pieces, to purchase the item, if it is available for sale. Generally speaking, magic items can be sold by PCs for half this value.</p>", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Magic Items/Magic Items/Magic Item Descriptions/Price", 
+    "type": "section", 
+    "name": "Price", 
+    "source": "Advanced Player's Guide"
+}

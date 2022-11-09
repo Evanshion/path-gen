@@ -1,0 +1,24 @@
+{
+    "name": "Deepsight, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Deepsight/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Deepsight."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">The range of your darkvision increases by 10 feet per tier.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your sharp eyes can penetrate deeper into the darkness, revealing more to you."
+}

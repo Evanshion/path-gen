@@ -1,0 +1,24 @@
+{
+    "body": "<p>The presence of other hobgoblins bolsters your resolve.</p>", 
+    "name": "Hobgoblin Discipline", 
+    "url": "pfsrd://Advanced Race Guide/Races/Hobgoblins/New Racial Rules/Hobgoblin Feats/Hobgoblin Discipline", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Base attack bonus +1, hobgoblin.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">While you are within 30 feet of at least two other hobgoblins, you gain a +1 morale bonus on saving throws.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

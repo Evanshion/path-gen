@@ -1,0 +1,10 @@
+{
+    "body": "When an analyst AI takes 10 on an Intelligence- or Wisdom-based skill check, it rolls a d20 as well. If the die exceeds 10, it uses that instead.", 
+    "name": "Multi-Core Processor", 
+    "url": "pfsrd://Technology Guide/Rules/Hazards and Artifacts/Artifical Intelligence/Artificial Intelligences/Sample AIs/Analyst AI/Special Abilities/Multi-Core Processor", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Technology Guide", 
+    "type": "ability"
+}

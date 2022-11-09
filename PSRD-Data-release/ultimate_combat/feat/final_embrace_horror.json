@@ -1,0 +1,24 @@
+{
+    "name": "Final Embrace Horror", 
+    "url": "pfsrd://Ultimate Combat/Feats/Final Embrace Horror", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Str 15, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; base attack bonus +6."
+        }, 
+        {
+            "body": "<p>A creature that takes damage from your constrict attack is also shaken until the start of your next turn.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "Your constricting attack has become stronger and more lethal."
+}

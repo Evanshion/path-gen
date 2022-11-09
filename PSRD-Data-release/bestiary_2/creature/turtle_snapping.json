@@ -1,0 +1,92 @@
+{
+    "dexterity": "8", 
+    "ac": "12, touch 11, flat-footed 12 (-1 Dex, +1 natural, +2 size)", 
+    "intelligence": "1", 
+    "melee": "bite +1 (1d3-3)", 
+    "cr": "1/3", 
+    "xp": "135", 
+    "speed": "10 ft., swim 20 ft.", 
+    "alignment": "N", 
+    "size": "Tiny", 
+    "strength": "4", 
+    "constitution": "13", 
+    "space": "2-1/2 ft.", 
+    "treasure": "none", 
+    "init": "-1", 
+    "environment": "temperate or warm water or shore", 
+    "source": "Bestiary 2", 
+    "charisma": "6", 
+    "fortitude": "+3", 
+    "type": "creature", 
+    "feats": "Weapon Finesse", 
+    "senses": "low-light vision, scent; Perception +5", 
+    "description": "A thick shell encases this reptile's body, from which only its tail, its feet, and a head fitted with powerful jaws emerge. ", 
+    "sections": [
+        {
+            "name": "Special Abilities", 
+            "source": "Bestiary 2", 
+            "url": "pfsrd://Bestiary 2/Monsters/Turtle/Snapping/Special Abilities", 
+            "type": "section", 
+            "subtype": "special_abilities", 
+            "sections": [
+                {
+                    "body": "As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.", 
+                    "name": "Shell", 
+                    "url": "pfsrd://Bestiary 2/Monsters/Turtle/Snapping/Special Abilities/Shell", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Bestiary 2", 
+                    "type": "ability"
+                }
+            ]
+        }, 
+        {
+            "body": "<p>Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on all Fortitude saves.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section"
+        }, 
+        {
+            "ac": "+10 natural", 
+            "name": "Giant Snapping Turtle", 
+            "source": "Bestiary 2", 
+            "url": "pfsrd://Bestiary 2/Monsters/Turtle/Snapping/Giant Snapping Turtle", 
+            "speed": "20 ft., swim 20 ft.", 
+            "subtype": "base", 
+            "attack": "bite (1d6)", 
+            "type": "animal_companion", 
+            "ability_scores": "Str 8, Dex 10, Con 9, Int 1, Wis 13, Cha 6", 
+            "sections": [
+                {
+                    "ac": "+2 natural", 
+                    "special_attacks": "grab.", 
+                    "name": "7th-Level Advancement", 
+                    "level": "7th", 
+                    "url": "pfsrd://Bestiary 2/Monsters/Turtle/Snapping/Giant Snapping Turtle/7th-Level Advancement", 
+                    "subtype": "advancement", 
+                    "attack": "bite (1d8)", 
+                    "source": "Bestiary 2", 
+                    "ability_scores": "Str +8, Dex -2, Con +4", 
+                    "type": "animal_companion", 
+                    "size": "Large"
+                }
+            ], 
+            "special_qualities": "low-light vision, hold breath, scent.", 
+            "size": "Medium"
+        }
+    ], 
+    "hp": "5 (1d8+1)", 
+    "reach": "0 ft.", 
+    "wisdom": "13", 
+    "creature_type": "Animal", 
+    "special_qualities": "hold breath, shell", 
+    "name": "Turtle, Snapping", 
+    "base_attack": "+0", 
+    "skills": "Perception +5, Swim +5", 
+    "reflex": "+1", 
+    "cmd": "4 (8 vs. trip)", 
+    "cmb": "-3", 
+    "will": "+1", 
+    "url": "pfsrd://Bestiary 2/Monsters/Turtle/Snapping", 
+    "organization": "solitary or band (2-5)"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"hold-breath\" class=\"stat-block-2\">A rogue with this talent increases the number of rounds she can hold her breath by 2. She can take this talent multiple times. </p>", 
+    "name": "Hold Breath", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Rogue/Rogue Talents/Hold Breath", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"mirror-move\">At 9th level, a weapon master gains his weapon training bonus as an insight bonus to AC when attacked by his chosen weapon. This ability replaces weapon training 2.</p>", 
+    "name": "Mirror Move", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Weapon Master/Mirror Move", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

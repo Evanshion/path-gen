@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"ground-breaker,-greater\" class=\"stat-block-2\">When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack. A barbarian must have the ground breaker rage power and be at least 8th level before selecting this rage power. </p>", 
+    "name": "Ground Breaker, Greater", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Barbarian/Rage Powers/Ground Breaker/Greater", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

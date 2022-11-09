@@ -1,0 +1,24 @@
+{
+    "body": "<p>Fear passes quickly while you are raging.</p>", 
+    "name": "Resolute Rager", 
+    "url": "pfsrd://Advanced Race Guide/Races/Orcs/New Racial Rules/Orc Feats/Resolute Rager", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Orc, rage class feature.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">While raging, when under the effect of a fear effect that allows a saving throw, you can make a new saving throw against that fear effect at the start of each of your turns before acting. If you make the new save, the fear effect ends. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

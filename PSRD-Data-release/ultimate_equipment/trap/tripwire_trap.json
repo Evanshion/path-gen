@@ -1,0 +1,13 @@
+{
+    "reset": "automatic", 
+    "perception": "DC 15", 
+    "name": "Tripwire Trap", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Gear/Adventuring Gear/Tripwire Trap", 
+    "trigger": "location", 
+    "effect": "trip combat maneuver +5 (+10 if the target is running)", 
+    "trap_type": "mechanical", 
+    "source": "Ultimate Equipment", 
+    "disable_device": "DC 10", 
+    "cr": "1/3", 
+    "type": "trap"
+}

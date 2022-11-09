@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"weapon-mastery\">A crossbowman must choose a type of crossbow. </p>", 
+    "name": "Weapon Mastery", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Crossbowman/Weapon Mastery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

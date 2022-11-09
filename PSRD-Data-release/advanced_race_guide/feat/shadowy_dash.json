@@ -1,0 +1,30 @@
+{
+    "body": "<p>In dim light, you resemble little more than a shadow.</p>", 
+    "name": "Shadowy Dash", 
+    "url": "pfsrd://Advanced Race Guide/Races/Wayangs/New Racial Rules/Wayang Feats/Shadowy Dash", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Wayang.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Whenever you are in an area of dim light or darkness, you can move at full speed using Stealth without taking the normal &ndash;5 penalty for doing so.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p id=\"normal\">When moving at more than half your speed and up to your normal speed, you take a &ndash;5 penalty on Stealth checks.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ]
+}

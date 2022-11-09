@@ -1,0 +1,24 @@
+{
+    "name": "Improved Familiar, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Improved Familiar/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Improved Familiar."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">For every 3 tiers you possess, your familiar gains a +2 bonus to an ability score of your choice. These bonuses stack. Your familiar adds your tier to its natural armor bonus and to its spell resistance (if it has spell resistance).</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your familiar gains some of your incredible resiliency and insight."
+}

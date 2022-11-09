@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"fast-rider\">The speed of any mount the barbarian rides is increased by 10 feet. This ability replaces fast movement.</p>", 
+    "name": "Fast Rider", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Barbarian/Barbarian Archetypes/Mounted Fury/Fast Rider", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

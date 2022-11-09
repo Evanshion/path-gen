@@ -1,0 +1,128 @@
+{
+    "body": "<p>A legendary item's nature or purpose determines the rolls its legendary surge ability modifies. The following are rolls that legendary surge ability typically modifies based on item type, but these are merely guidelines. A GM who creates a legendary item can alter this ability based on the item's history or nature.</p>", 
+    "name": "Legendary Surge", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge", 
+    "type": "section", 
+    "source": "Mythic Adventures", 
+    "sections": [
+        {
+            "body": "<p>Saving throws</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Armor", 
+            "type": "section", 
+            "name": "Armor", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Strength- and Dexterity-based skill checks, and Constitution checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Belt", 
+            "type": "section", 
+            "name": "Belt", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Strength- and Dexterity-based skill checks, and Constitution checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Body", 
+            "type": "section", 
+            "name": "Body", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Strength- and Dexterity-based skill checks and Constitution checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Chest", 
+            "type": "section", 
+            "name": "Chest", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Intelligence-, Wisdom-, and Charisma-based skill checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Eyes", 
+            "type": "section", 
+            "name": "Eyes", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Dexterity-based skill checks, initiative checks, and Reflex saving throws</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Feet", 
+            "type": "section", 
+            "name": "Feet", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Attack rolls and combat maneuvers checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Hands", 
+            "type": "section", 
+            "name": "Hands", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Intelligence-, Wisdom-, and Charisma-based skill checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Head", 
+            "type": "section", 
+            "name": "Head", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Intelligence-, Wisdom-, and Charisma-based skill checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Headband", 
+            "type": "section", 
+            "name": "Headband", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Saving throws</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Neck", 
+            "type": "section", 
+            "name": "Neck", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Either saving throws or both concentration checks and caster level checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Ring", 
+            "type": "section", 
+            "name": "Ring", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Concentration checks and caster level checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Rod", 
+            "type": "section", 
+            "name": "Rod", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Saving throws</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Shield", 
+            "type": "section", 
+            "name": "Shield", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Saving throws</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Shoulders", 
+            "type": "section", 
+            "name": "Shoulders", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Concentration checks and caster level checks</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Staff", 
+            "type": "section", 
+            "name": "Staff", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Attack rolls and combat maneuver checks made while using the weapon</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Weapons", 
+            "type": "section", 
+            "name": "Weapons", 
+            "source": "Mythic Adventures"
+        }, 
+        {
+            "body": "<p>Saving throws or ranged attack rolls</p>", 
+            "url": "pfsrd://Mythic Adventures/Rules/Mythic Items/Legendary Items/Legendary Surge/Wrists", 
+            "type": "section", 
+            "name": "Wrists", 
+            "source": "Mythic Adventures"
+        }
+    ]
+}

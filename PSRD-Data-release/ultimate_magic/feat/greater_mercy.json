@@ -1,0 +1,24 @@
+{
+    "name": "Greater Mercy", 
+    "url": "pfsrd://Ultimate Magic/Feats/Greater Mercy", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Cha 13, lay on hands class feature, mercy class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> When you use your lay on hands ability and the target of that ability does not have any conditions your mercies can remove, it instead heals an additional +1d6 points of damage.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your mercy has incredible recuperative properties."
+}

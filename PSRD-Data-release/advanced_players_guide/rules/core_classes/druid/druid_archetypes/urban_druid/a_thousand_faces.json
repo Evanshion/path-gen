@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"a-thousand-faces\">An urban druid gains this ability at 6th level. </p>", 
+    "name": "A Thousand Faces", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Druid/Druid Archetypes/Urban Druid/A Thousand Faces", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

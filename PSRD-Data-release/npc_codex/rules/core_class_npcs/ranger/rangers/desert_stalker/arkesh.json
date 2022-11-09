@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Ranger/Rangers/Desert Stalker/Arkesh", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Arkesh loves the desert, its people, and their traditions, and hates those who would change or exploit any of these. He might let a water caravan run by foreigners pass, but would kill a similar group bringing exotic goods to tempt desert people into strange new ways.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Arkesh attacks the PCs for a perceived affront to his territory or traditions.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> If PCs respect the desert, Arkesh might rescue them during a sandstorm, guide them past a dangerous monster, or explain in detail the hazards of the wilds.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Arkesh", 
+    "source": "NPC Codex"
+}

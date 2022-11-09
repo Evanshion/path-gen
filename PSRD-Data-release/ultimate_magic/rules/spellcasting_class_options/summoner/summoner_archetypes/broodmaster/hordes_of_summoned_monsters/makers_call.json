@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"maker's-call\">The broodmaster can only call one eidolon in the brood to his side with each use of this ability.</p>", 
+    "name": "Maker's Call", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Summoner/Summoner Archetypes/Broodmaster/Hordes of Summoned Monsters/Makers Call", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

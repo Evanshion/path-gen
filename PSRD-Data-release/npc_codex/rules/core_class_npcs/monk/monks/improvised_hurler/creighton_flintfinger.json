@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Monk/Monks/Improvised Hurler/Creighton Flintfinger", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>As a child, Creighton hurled his cup at an older boy and knocked him out cold. From that point on, the world was his weapon. Each foe the dwarf faces is a puzzle&mdash;how can he win using only what is provided by nature and luck? He has been on this path for 20 years now, and is considered by many to be a living saint.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Creighton is friendly with many adventuring parties and city governments. He often travels as a group member, friend of a dignitary, or emissary, and comes to the aid of those who seem worthy.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Creighton is not like other dwarves. Tranquil in conversation, he is a riot of emotion in battle, as he tries to fuse with the world's primal nature.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Creighton Flintfinger", 
+    "source": "NPC Codex"
+}

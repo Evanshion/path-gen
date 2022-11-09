@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"trip-(ex)-\">A creature with the trip special attack can attempt to trip its opponent as a free action without provoking an attack of opportunity if it hits with the specified attack. If the attempt fails, the creature is not tripped in return.</p>", 
+    "name": "Trip", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Trip", 
+    "sections": [
+        {
+            "body": "<p>trip; <i>Location</i>: individual attacks.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary", 
+    "type": "ability"
+}

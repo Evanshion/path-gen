@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"verdant-sentinel\">At 13th level, a jungle druid can cast<i> tree shape</i> at will. This ability replaces a thousand faces. </p>", 
+    "name": "Verdant Sentinel", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Druid/Druid Archetypes/Jungle Druid/Verdant Sentinel", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

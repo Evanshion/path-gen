@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"spell-combat\">A soul forger may use this ability only when wielding his bonded weapon.</p>", 
+    "name": "Spell Combat", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Soul Forger/Spell Combat", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Great Fortitude, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Great Fortitude/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Great Fortitude."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your fortitude is unmatched."
+}

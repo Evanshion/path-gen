@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"tongues\">You can understand and speak any language, as the <i>tongues</i> spell. If this ability is dispelled, you can resume it as a free action.</p>", 
+    "name": "Tongues", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Mythic Heroes/Universal Path Abilities/6th-Tier Universal Path Abilities/Tongues", 
+    "ability_types": {
+        "ability_type": "Spell-Like"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

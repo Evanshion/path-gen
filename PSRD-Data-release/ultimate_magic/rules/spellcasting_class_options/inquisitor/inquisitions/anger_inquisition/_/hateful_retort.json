@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"hateful-retort\">Once per day, as an immediate action after you have been hit with a melee attack, you can make a melee attack against the creature that hit you. This melee attack is at your highest attack bonus, even if you've already attacked in the round.</p>", 
+    "name": "Hateful Retort", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Anger Inquisition/Granted Powers/Hateful Retort", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

@@ -1,0 +1,7 @@
+{
+    "body": "<p>The aggregate modifies initiative with the base AI Intelligence modifier instead of the base robot's Dexterity. This stacks with any other modifiers the base robot possesses.</p>", 
+    "url": "pfsrd://Technology Guide/Rules/Hazards and Artifacts/Artifical Intelligence/Artificial Intelligences/Aggregate Template/Initiative", 
+    "type": "section", 
+    "name": "Initiative", 
+    "source": "Technology Guide"
+}

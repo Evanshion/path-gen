@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"critical-specialist\">At 17th level, the save DCs of any effects caused by a critical hit with a weapon master's chosen weapon increase by +4. This ability replaces weapon training 4.</p>", 
+    "name": "Critical Specialist", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Weapon Master/Critical Specialist", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"skilled-thrower\">The hurler is skilled at throwing objects in combat. Increase the range increment of any thrown weapon or object by 10 feet. This ability replaces fast movement.</p>", 
+    "name": "Skilled Thrower", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Barbarian/Barbarian Archetypes/Hurler/Skilled Thrower", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

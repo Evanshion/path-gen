@@ -1,0 +1,24 @@
+{
+    "name": "Pinpoint Targeting, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Pinpoint Targeting/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Pinpoint Targeting."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your attacks can home in on your opponent's weak spot and ignore many defenses."
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fungus Leshy", 
+    "cl": "8th", 
+    "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Fungus Leshy/Fungus Leshy", 
+    "sections": [
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>Knowledge (nature) 5 ranks, obscuring mist, plant growth, summon nature's ally II</p><p class='stat-block-1'><b>Skill </b>Knowledge (dungeoneering or nature) DC 14</p><p class='stat-block-1'><b>Cost </b>1,250 gp</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Fungus Leshy/Fungus Leshy/Ritual", 
+            "type": "section", 
+            "name": "Ritual", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "price": "2,500 gp", 
+    "source": "Bestiary 3", 
+    "type": "item"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"daring\">At 3rd level, a swashbuckler gains a +1 morale bonus on Acrobatics checks and saving throws against fear. This bonus increases by +1 for every 3 levels beyond 3rd. This ability replaces trap sense.</p>", 
+    "name": "Daring", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Rogue/Rogue Archetypes/Swashbuckler/Daring", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

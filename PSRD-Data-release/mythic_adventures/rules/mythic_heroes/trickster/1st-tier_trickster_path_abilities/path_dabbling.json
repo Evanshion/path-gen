@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"path-dabbling\">Select one path ability from another mythic path. You must meet any other requirements that path ability has, including a minimum tier restriction.</p>", 
+    "name": "Path Dabbling", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Trickster/1st-Tier Trickster Path Abilities/Path Dabbling", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

@@ -1,0 +1,42 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Bard/Bards/Tunnel Drummer/Takina Berzan", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Takina's drum and bold voice echo through tunnels to frighten and demoralize opposing forces, and push his companions to fight with greater strength. As the battle rages, he wades into the fray with his mace named Rupture.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "body": "<p>Takina strums his lyre of building to protect fortresses against magic or build new defenses for his clan.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Takina provides inspiration and healing to dwarven warbands and adventuring parties.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Takina is cheerful among dwarves, but stern to those he doesn't yet trust.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Takina Berzan", 
+    "source": "NPC Codex"
+}

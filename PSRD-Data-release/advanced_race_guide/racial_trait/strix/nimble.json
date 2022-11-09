@@ -1,0 +1,8 @@
+{
+    "body": "<p id=\"nimble\">The strix receives a +1 racial bonus on Reflex saves. This replaces the suspicious racial trait.</p>", 
+    "name": "Nimble", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Nimble", 
+    "subtype": "strix", 
+    "type": "racial_trait"
+}

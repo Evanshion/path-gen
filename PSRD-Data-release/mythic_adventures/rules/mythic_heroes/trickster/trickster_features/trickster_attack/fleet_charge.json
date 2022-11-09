@@ -1,0 +1,10 @@
+{
+    "body": "<p>As a swift action, you can expend one use of mythic power to move up to your speed. At any point during this movement, you can make a single melee or ranged attack at your highest attack bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. Damage from this attack bypasses all damage reduction.</p>", 
+    "name": "Fleet Charge", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Trickster/Trickster Features/Trickster Attack/Fleet Charge", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

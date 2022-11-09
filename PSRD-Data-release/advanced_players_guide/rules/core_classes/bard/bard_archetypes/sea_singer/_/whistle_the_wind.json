@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"whistle-the-wind\">A sea singer of 6th level or higher can use performance to create a <i>gust of wind</i>. This wind lasts for as long as he continues his performance. He can extend this duration to 1 minute by playing for 5 consecutive rounds. This performance replaces suggestion. </p>", 
+    "name": "Whistle the Wind", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Bard/Bard Archetypes/Sea Singer/Bardic Performance/Whistle the Wind", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

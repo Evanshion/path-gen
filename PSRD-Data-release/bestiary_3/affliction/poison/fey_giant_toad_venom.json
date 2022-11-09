@@ -1,0 +1,12 @@
+{
+    "name": "Fey Giant Toad Venom", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Fey Creature/Special Abilities/Poison Skin/Fey Giant Toad Venom", 
+    "contracted": "contact", 
+    "effect": "1d2 Wisdom damage", 
+    "subtype": "poison", 
+    "cure": "1 save", 
+    "frequency": "1/round for 4 rounds", 
+    "save": "Fortitude DC 14", 
+    "type": "affliction"
+}

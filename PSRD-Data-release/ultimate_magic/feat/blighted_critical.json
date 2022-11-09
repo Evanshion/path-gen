@@ -1,0 +1,30 @@
+{
+    "name": "Blighted Critical", 
+    "url": "pfsrd://Ultimate Magic/Feats/Blighted Critical", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Caster level 5th."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random minor spellblight (see page 95).</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "Critical"
+    }, 
+    "type": "feat", 
+    "description": "With a critical hit from a spell or spell-like ability, you give the target a minor spellblight."
+}

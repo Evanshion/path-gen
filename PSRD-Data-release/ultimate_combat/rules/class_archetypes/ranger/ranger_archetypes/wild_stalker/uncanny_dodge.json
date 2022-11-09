@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"uncanny-dodge\">At 2nd level, a wild stalker gains uncanny dodge as the barbarian's class feature. This ability replaces the ranger's 2nd-level combat style feat. </p>", 
+    "name": "Uncanny Dodge", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Ranger/Ranger Archetypes/Wild stalker/Uncanny Dodge", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

@@ -1,0 +1,60 @@
+{
+    "body": "<p>Oreads are defined by class levels&mdash;they do not possess racial Hit Dice. Oreads have the following racial traits.</p>", 
+    "name": "Oread", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Oread/Oread", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p id=\"+2-strength,-+2-wisdom,--2-charisma\">Oreads are strong, solid, stable, and stoic.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "+2 Strength, +2 Wisdom, -2 Charisma"
+        }, 
+        {
+            "body": "<p id=\"darkvision\">Oreads can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p id=\"spell-like-ability\"><i>Magic stone</i> 1/day (caster level equals the oread's total Hit Dice).</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Oread/Oread/Spell-Like Ability", 
+            "type": "section", 
+            "name": "Spell-Like Ability", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"elemental-resistance\">Oreads have acid resistance 5. </p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Oread/Oread/Energy Resistance", 
+            "type": "section", 
+            "name": "Energy Resistance", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "See Oread/Special Abilities/Elemental Affinity", 
+            "source": "Bestiary 2", 
+            "type": "link", 
+            "name": "Earth Affinity"
+        }, 
+        {
+            "body": "<p id=\"languages\">Oreads begin play speaking Common and Terran. Oreads with high Intelligence scores can choose any of the following bonus languages: Aquan, Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Undercommon.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Oread Monster Entry", 
+                    "source": "Bestiary 2", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 2"
+        }
+    ]
+}

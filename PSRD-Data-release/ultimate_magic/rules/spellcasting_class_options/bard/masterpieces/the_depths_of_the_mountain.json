@@ -1,0 +1,92 @@
+{
+    "body": "<p>Your drumming skills can break solid rock.</p>", 
+    "name": "The Depths of the Mountain", 
+    "source": "Ultimate Magic", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain", 
+    "type": "section", 
+    "subtype": "bard_masterpiece", 
+    "abbrev": "Percussion, Wind", 
+    "sections": [
+        {
+            "body": "<p>Perform (percussion) 15 ranks or Perform (wind) 15 ranks.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisite"
+        }, 
+        {
+            "body": "<p id=\"cost\">Feat or 5th-level bard spell known.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Cost"
+        }, 
+        {
+            "body": "<p id=\"effect\">Like a singer shattering a wine glass with a perfect note, your music cracks stone, shivering solid rock until it snaps. When you complete the performance, you create a tremor identical to an <i>earthquake</i> spell.</p><p>For each round you continue to expend bardic performance rounds, the area experiences a round-long aftershock, which has the following effects.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"caves,-caverns,-or-tunnels\">Smaller collapses cause 4d6 points of damage (Reflex DC 5 half) and pin any creatures caught inside.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Caves/Caverns/or Tunnels", 
+                    "type": "section", 
+                    "name": "Caves, Caverns, or Tunnels", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"cliffs\">More cliffs crumble, creating a landslide that travels half as far horizontally as it falls vertically. Any creature in the path takes 4d6 points of bludgeoning damage (Reflex DC 5 half) and is pinned beneath the rubble.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Cliffs", 
+                    "type": "section", 
+                    "name": "Cliffs", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"open-ground\">Each creature standing in the area must make a DC 5 Reflex save or fall down. Fissures open in the earth, and every creature on the ground has a 25% chance of falling into one (Reflex DC 10 to avoid a fissure). The fissures are 20 feet deep, and these fissures remain open at the end of the quake.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Open Ground", 
+                    "type": "section", 
+                    "name": "Open Ground", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"pinned-beneath-rubble\">Any creature pinned by the effects of the aftershock takes 1d3 points of nonlethal damage per minute while pinned. If a pinned character falls unconscious, she must make a DC 5 Constitution check or take 1d3 points of lethal damage each minute thereafter until freed or dead.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Pinned Beneath Rubble", 
+                    "type": "section", 
+                    "name": "Pinned Beneath Rubble", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"rivers,-lakes,-or-marshes\">The area drained away by the earthquake remains drained for the duration of the aftershock.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Rivers/Lakes/or Marshes", 
+                    "type": "section", 
+                    "name": "Rivers, Lakes, or Marshes", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"spellcasting\">The concentration DC to cast during an aftershock is 15 + the spell's level.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Spellcasting", 
+                    "type": "section", 
+                    "name": "Spellcasting", 
+                    "source": "Ultimate Magic"
+                }, 
+                {
+                    "body": "<p id=\"structure\">Any structure standing on open ground takes 50 points of damage. A collapsing structure deals 4d6 points of bludgeoning damage to creatures inside it (Reflex DC 5 half), and the creatures inside are pinned beneath the rubble.</p>", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Bard/Masterpieces/The Depths of the Mountain/Effect/Structure", 
+                    "type": "section", 
+                    "name": "Structure", 
+                    "source": "Ultimate Magic"
+                }
+            ], 
+            "name": "Effect", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"use\">10 rounds of bardic performance, +1 round for each round of aftershocks.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Use"
+        }, 
+        {
+            "body": "<p id=\"action\">10 full rounds.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Action"
+        }
+    ]
+}

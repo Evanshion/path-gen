@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"dragon-cantrips\">If the mythic dragon is able to cast arcane spells, it automatically knows all cantrips for its equivalent spellcasting class and can cast them at will.<i>Format</i>: dragon cantrips; <i>Location</i>: SQ.</p>", 
+    "name": "Dragon Cantrips", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Monsters/Mythic Monster Advancement/New Universal Monster Rules/Dragon Cantrips", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

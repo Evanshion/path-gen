@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"sandwalker\">At 3rd level, a desert druid suffers no penalty to speed or on Acrobatics or Stealth checks when moving through sandy or desert terrain. This ability replaces trackless step.</p>", 
+    "name": "Sandwalker", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Druid/Druid Archetypes/Desert Druid/Sandwalker", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Ranger/Rangers/Town Watcher/Colin Fletcher", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Colin vigilantly guards his town, and is quick to respond if any visitors start fights or cause trouble with locals.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Colin fires a warning shot from a rooftop to distract unruly adventurers in town, or uses a tanglefoot bag on a PC who's obviously drunk, raging, or out of control.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Colin is the eyes and ears for his town, and is a source of valuable information about the comings and goings of strangers.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Colin Fletcher", 
+    "source": "NPC Codex"
+}

@@ -1,0 +1,24 @@
+{
+    "body": "<p>With further modification, your eyes see clearly in not only normal darkness, but in magical darkness as well.</p>", 
+    "name": "Improved Dark Sight", 
+    "url": "pfsrd://Advanced Race Guide/Races/Fetchlings/New Racial Rules/Fetchling Feats/Improved Dark Sight", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Dark Sight, Gloom Sight, fetchling.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You gain the see in darkness ability  and lose the light sensitivity weakness, but gain the light blindness weakness. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

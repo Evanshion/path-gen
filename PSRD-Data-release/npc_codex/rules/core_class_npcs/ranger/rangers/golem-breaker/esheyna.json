@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Ranger/Rangers/Golem-Breaker/Esheyna", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Esheyna has always had a knack for spotting the weak points in structures, a talent she has long put to use to sabotage enemy siege engines. Now a legendary mercenary, she enjoys bashing apart teams of iron golems just to see how they're supposed to fit together.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Esheyna might battle the PCs for control of an ancient juggernaut just so she has bragging rights about destroying it.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Esheyna offers advice and assistance to the PCs about ancient war machines or clockwork invaders from another plane.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Esheyna", 
+    "source": "NPC Codex"
+}

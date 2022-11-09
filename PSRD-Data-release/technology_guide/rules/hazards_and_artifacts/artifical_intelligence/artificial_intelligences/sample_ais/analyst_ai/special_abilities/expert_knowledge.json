@@ -1,0 +1,10 @@
+{
+    "body": "An analyst AI treats all Knowledge skills as class skills and can make all Knowledge skill checks untrained.", 
+    "name": "Expert Knowledge", 
+    "url": "pfsrd://Technology Guide/Rules/Hazards and Artifacts/Artifical Intelligence/Artificial Intelligences/Sample AIs/Analyst AI/Special Abilities/Expert Knowledge", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Technology Guide", 
+    "type": "ability"
+}

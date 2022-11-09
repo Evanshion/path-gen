@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"perfect-style\">At 20th level, a master of many styles can have the stances of five style feats active at once, and can change those stances as a free action. This ability replaces perfect self. </p>", 
+    "name": "Perfect Style", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Monk/Monk Archetypes/Master of Many Styles/Perfect Style", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

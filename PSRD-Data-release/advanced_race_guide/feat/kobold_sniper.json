@@ -1,0 +1,30 @@
+{
+    "body": "<p>You snipe quickly, making it harder for others to find the location of your attack. </p>", 
+    "name": "Kobold Sniper", 
+    "url": "pfsrd://Advanced Race Guide/Races/Kobolds/New Racial Rules/Kobold Feats/Kobold Sniper", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Stealth 1 rank, kobold. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When you are sniping, you only take a &ndash;10 penalty on your Stealth checks to stay hidden. </p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You take a &ndash;20 penalty on your Stealth check to maintain your obscured location while sniping.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ]
+}

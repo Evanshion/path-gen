@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"see-in-darkness\">An eidolon can see perfectly in darkness of any kind, including that created by <i>deeper darkness</i>. The summoner must be at least 9th level before selecting this evolution.</p>", 
+    "name": "See in Darkness", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Summoner/Evolutions/3-Point Evolutions/See in Darkness", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

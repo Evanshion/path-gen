@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Druid/Druids/Mud Shaman/Kiro", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Kiro, the mud shaman of a remote tribe, sees outsiders as a threat to his culture and people. He acquired a green dragonhide breastplate years ago from a trader, but keeps it hidden under cloaks and wraps, ashamed that he had to buy it rather than earn it through combat.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Kiro uses mud pits as traps to entangle his enemies.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> A stubborn xenophobe, Kiro does not like speaking with those who are not of his tribe.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Kiro", 
+    "source": "NPC Codex"
+}

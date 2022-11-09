@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"heat\"> The creature generates so much heat that its mere touch deals additional fire damage. The creature's metallic melee weapons also conduct this heat.</p>", 
+    "name": "Heat", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Heat", 
+    "sections": [
+        {
+            "body": "<p>heat (1d6 fire); <i>Location</i>: Special Attacks.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary 2", 
+    "type": "ability"
+}

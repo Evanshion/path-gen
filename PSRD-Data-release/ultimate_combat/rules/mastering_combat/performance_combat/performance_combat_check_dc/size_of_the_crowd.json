@@ -1,0 +1,37 @@
+{
+    "body": "<p id=\"size-of-the-crowd\">Larger crowds are harder to sway to one side or the other. It takes great shows of daring or a progression of numerous displays of crowd-pleasing actions to get them to change their attitude. Presented here are the general crowd sizes and their effects on the DC to improve crowd attitudes and gain victory points.</p>", 
+    "name": "Size of the Crowd", 
+    "url": "pfsrd://Ultimate Combat/Rules/Mastering Combat/Performance Combat/Performance Combat Check DC/Size of the Crowd", 
+    "type": "section", 
+    "source": "Ultimate Combat", 
+    "sections": [
+        {
+            "body": "<p id=\"small-crowd\" class=\"stat-block-2\">A small crowd contains no fewer than two and no more than 25 creatures. It does not increase the base DC of all performance combat checks.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Mastering Combat/Performance Combat/Performance Combat Check DC/Size of the Crowd/Small Crowd", 
+            "type": "section", 
+            "name": "Small Crowd", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"medium-crowd\" class=\"stat-block-2\">A medium crowd contains no fewer than 26 and no more than 100 creatures. A medium crowd increases the DC of all performance combat checks by +2. </p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Mastering Combat/Performance Combat/Performance Combat Check DC/Size of the Crowd/Medium Crowd", 
+            "type": "section", 
+            "name": "Medium Crowd", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"large-crowd\" class=\"stat-block-2\">A large crowd contains no fewer than 101 and no more than 300 creatures. A large crowd increases the DC of all performance combat checks by +3.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Mastering Combat/Performance Combat/Performance Combat Check DC/Size of the Crowd/Large Crowd", 
+            "type": "section", 
+            "name": "Large Crowd", 
+            "source": "Ultimate Combat"
+        }, 
+        {
+            "body": "<p id=\"massive-mob\" class=\"stat-block-2\">A massive mob is made up of no fewer than 301 creatures, and its numbers can expand into the thousands. A massive mob increases the DC of all performance combat checks by +4.</p>", 
+            "url": "pfsrd://Ultimate Combat/Rules/Mastering Combat/Performance Combat/Performance Combat Check DC/Size of the Crowd/Massive Mob", 
+            "type": "section", 
+            "name": "Massive Mob", 
+            "source": "Ultimate Combat"
+        }
+    ]
+}

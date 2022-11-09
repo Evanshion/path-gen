@@ -1,0 +1,40 @@
+{
+    "name": "Shovel", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Gear/Adventuring Gear/Shovel", 
+    "sections": [
+        {
+            "body": "<table><thead><tr><th>Type</th><th>Price</th><th>Weight</th></tr></thead><tr class=\"odd\"><td>Common</td><td>2 gp</td><td>8 lbs.</td></tr><tr class=\"even\"><td>Folding</td><td>12 gp</td><td>12 lbs.</td></tr></table>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Adventuring Gear/Shovel/Type", 
+            "type": "table", 
+            "name": "Type", 
+            "source": "Ultimate Equipment"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">This tool lets you dig a pit at a rate of 2 cubic feet per minute. If a shovel is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a club of its size.</p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">A folding shovel is a full-sized shovel with a sturdy sectional handle that folds into pieces no longer than the shovel blade, allowing it to fit in a smaller space such as a backpack. Converting the shovel from its folded state to usable (or vice versa) is 2 full-round actions.</p>", 
+            "url": "pfsrd://Ultimate Equipment/Rules/Gear/Adventuring Gear/Shovel/Folding Shovel", 
+            "type": "section", 
+            "name": "Folding Shovel", 
+            "source": "Ultimate Equipment"
+        }
+    ], 
+    "misc": {
+        "null": {
+            "Gear Type": "Item"
+        }, 
+        "Folding": {
+            "Price": "10 gp", 
+            "Weight": "12 lbs."
+        }, 
+        "Common": {
+            "Price": "2 gp", 
+            "Weight": "8 lbs."
+        }
+    }, 
+    "source": "Ultimate Equipment", 
+    "type": "item"
+}

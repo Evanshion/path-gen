@@ -1,0 +1,24 @@
+{
+    "name": "Critical Focus, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Critical Focus/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Critical Focus."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You automatically confirm critical threats against non-mythic opponents. In addition, when you threaten a critical hit against a creature wearing armor with the <i>fortification</i> special ability or similar effect, that creature must roll twice and take the worse result when determining critical hit negation.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your blows unerringly find your target's vital spots."
+}

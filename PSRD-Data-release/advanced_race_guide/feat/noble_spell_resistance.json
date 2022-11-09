@@ -1,0 +1,30 @@
+{
+    "body": "<p>Your ascension is complete; you have the spell resistance approaching that of a demon.</p>", 
+    "name": "Noble Spell Resistance", 
+    "url": "pfsrd://Advanced Race Guide/Races/Drow/New Racial Rules/Drow Feats/Noble Spell Resistance", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Cha 13, Wis 13, Greater Drow Nobility, character level 13th, drow.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Your spell resistance is equal to 11 + your character level.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You receive a +1 circumstance bonus on Diplomacy and Intimidate checks made against any drow.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ]
+}

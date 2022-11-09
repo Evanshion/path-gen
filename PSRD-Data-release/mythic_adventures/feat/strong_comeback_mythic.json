@@ -1,0 +1,24 @@
+{
+    "name": "Strong Comeback, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Strong Comeback/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Strong Comeback."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Whenever you're allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from Strong Comeback.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You never make the same mistake twice."
+}

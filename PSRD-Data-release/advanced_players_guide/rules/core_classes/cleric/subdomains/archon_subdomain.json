@@ -1,0 +1,40 @@
+{
+    "name": "Archon Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Archon Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Good, Law.</p>", 
+            "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Archon Subdomain/Associated Domains", 
+            "type": "section", 
+            "name": "Associated Domains", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the holy lance power of the Good domain or the staff of order power of the Law domain. Archons are a race of lawful good outsiders.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"aura-of-menace\">At 8th level, you can emit a 30-foot aura of menace as a standard action. Enemies in this aura take a &ndash;2 penalty to AC and on attacks and saves as long as they remain inside the aura. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.</p>", 
+                    "name": "Aura of Menace", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Archon Subdomain/Replacement Power/Aura of Menace", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>1st&mdash;<i>divine favor</i>, 3rd&mdash;<i>prayer</i>, 6th&mdash;<i>planar ally</i> (archon only).</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

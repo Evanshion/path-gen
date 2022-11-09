@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"venom-immunity\">At 6th level, you gain immunity to poisons from snakes, reptiles, and creatures with the reptilian subtype. At 12th level, you gain immunity to all poisons. This replaces venom immunity.</p>", 
+    "name": "Venom Immunity", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Druid/Animal and Terrain Domains/Serpent Domain/Venom Immunity", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

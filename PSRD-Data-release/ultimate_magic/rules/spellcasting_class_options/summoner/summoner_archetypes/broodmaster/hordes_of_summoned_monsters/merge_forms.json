@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"merge-forms\">The broodmaster can only merge with one eidolon in the brood at a time. This ability otherwise works like and replaces merge forms.</p>", 
+    "name": "Merge Forms", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Summoner/Summoner Archetypes/Broodmaster/Hordes of Summoned Monsters/Merge Forms", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

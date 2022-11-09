@@ -1,0 +1,55 @@
+{
+    "danger": "-10", 
+    "minor_items": "1d4", 
+    "medium_items": "-", 
+    "society": "1", 
+    "alignment": "NG", 
+    "base_value": "55 gp", 
+    "crime": "-4", 
+    "source": "Game Mastery Guide", 
+    "lore": "-5", 
+    "purchase_limit": "500 gp", 
+    "sections": [
+        {
+            "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/SLEEPY CROSSROADS THORP/Notable NPCs", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"landlord-and-innkeeper-jaycen-halls-\">(NG female human bard 4)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/SLEEPY CROSSROADS THORP/Notable NPCs/Landlord and Innkeeper Jaycen Halls", 
+                    "type": "section", 
+                    "name": "Landlord and Innkeeper Jaycen Halls", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"smith-erlan-urnst-\"> (LN male dwarf expert 4/warrior 1)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/SLEEPY CROSSROADS THORP/Notable NPCs/Smith Erlan Urnst", 
+                    "type": "section", 
+                    "name": "Smith Erlan Urnst", 
+                    "source": "Game Mastery Guide"
+                }, 
+                {
+                    "body": "<p id=\"trading-post-owner-mr.-harlen-gnoat-\">(NE male human expert 2)</p>", 
+                    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/SLEEPY CROSSROADS THORP/Notable NPCs/Trading Post Owner Mr. Harlen Gnoat", 
+                    "type": "section", 
+                    "name": "Trading Post Owner Mr. Harlen Gnoat", 
+                    "source": "Game Mastery Guide"
+                }
+            ], 
+            "name": "Notable NPCs", 
+            "source": "Game Mastery Guide"
+        }
+    ], 
+    "corruption": "-4", 
+    "economy": "-4", 
+    "government": "council", 
+    "settlement_type": "thorp", 
+    "law": "-6", 
+    "population": "16 (13 humans, 2 halflings, 1 dwarf)", 
+    "spellcasting": "1st", 
+    "name": "SLEEPY CROSSROADS THORP", 
+    "url": "pfsrd://Game Mastery Guide/Rules/Settlements/Settlements in Play/Sample Settlements/SLEEPY CROSSROADS THORP", 
+    "type": "settlement", 
+    "major_items": "&mdash", 
+    "qualities": "strategic location"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Keen Scent", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Keen Scent", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Wis 13, half-orc or orc."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You gain the scent special ability.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your nose is as sensitive as that of a wild predator."
+}

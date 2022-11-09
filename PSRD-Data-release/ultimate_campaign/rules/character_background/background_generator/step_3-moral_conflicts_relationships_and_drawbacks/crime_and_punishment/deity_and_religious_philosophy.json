@@ -1,0 +1,163 @@
+{
+    "body": "<p>Once you have determined your alignment, choose a deity or religious philosophy. Association with a specific deity gives you access to a related religion trait. Even if you are not interested in your character being associated with a deity, you can choose \"No Deity\" or \"Undecided\" granting you access to abilities outside the realm of faith.</p>", 
+    "name": "Deity and Religious Philosophy", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>Eyes and Ears</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Abadar", 
+            "type": "section", 
+            "name": "Abadar", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Asmodean Demon Hunter</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Asmodeus", 
+            "type": "section", 
+            "name": "Asmodeus", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Fortified Drinker</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Cayden Cailean", 
+            "type": "section", 
+            "name": "Cayden Cailean", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Calistrian Courtesan</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Calistria", 
+            "type": "section", 
+            "name": "Calistria", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Starchild</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Desna", 
+            "type": "section", 
+            "name": "Desna", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Patient Optimist</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Erastil", 
+            "type": "section", 
+            "name": "Erastil", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Veteran of Battle</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Gorum", 
+            "type": "section", 
+            "name": "Gorum", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Child of Nature</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Gozreh", 
+            "type": "section", 
+            "name": "Gozreh", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Divine Warrior</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Iomedae", 
+            "type": "section", 
+            "name": "Iomedae", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Wisdom in the Flesh</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Irori", 
+            "type": "section", 
+            "name": "Irori", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Voice of Monsters</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Lamashtu", 
+            "type": "section", 
+            "name": "Lamashtu", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Magic Is Life</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Nethys", 
+            "type": "section", 
+            "name": "Nethys", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Shadow Whispers</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Norgorber", 
+            "type": "section", 
+            "name": "Norgorber", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Undead Slayer</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Pharasma", 
+            "type": "section", 
+            "name": "Pharasma", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Wrecking Wrath</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Rovagug", 
+            "type": "section", 
+            "name": "Rovagug", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Flame of the Dawnflower</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Sarenrae", 
+            "type": "section", 
+            "name": "Sarenrae", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Ear for Music</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Shelyn", 
+            "type": "section", 
+            "name": "Shelyn", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Guardian of the Forge</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Torag", 
+            "type": "section", 
+            "name": "Torag", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Corpse Cannibal</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Urgathoa", 
+            "type": "section", 
+            "name": "Urgathoa", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Pain Is Pleasure</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Zon-Kuthon", 
+            "type": "section", 
+            "name": "Zon-Kuthon", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Even in a world filled with the powers of the divine, you have decided to follow reason, put your faith in the potential of mortals, or otherwise invest in the ways of the material world instead of embracing the teachings of deities. You gain access to the Tireless Logic social trait.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/No Deity", 
+            "type": "section", 
+            "name": "No Deity", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>You have remained undecided when it comes to your faith, but are accepting of others' faiths and are at least somewhat open to the idea of joining an organized faith should you find one that strikes your fancy. You gain access to the Ease of Faith faith trait.</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Character Background/Background Generator/Step 3-Moral Conflicts/Relationships/and Drawbacks/Crime and Punishment/Deity and Religious Philosophy/Undecided", 
+            "type": "section", 
+            "name": "Undecided", 
+            "source": "Ultimate Campaign"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"skirmisher\">At 8th level, whenever a scout moves more than 10 feet in a round and makes an attack action, the attack deals sneak attack damage as if the target was flat-footed. If the scout makes more than one attack this turn, this ability only applies to the first attack. Foes with uncanny dodge are immune to this ability. This ability replaces improved uncanny dodge.</p>", 
+    "name": "Skirmisher", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Rogue/Rogue Archetypes/Scout/Skirmisher", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

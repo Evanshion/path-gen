@@ -1,0 +1,7 @@
+{
+    "body": "<p>Your employees have become sick, and any earnings from this building today are halved. Attempt a DC 15 Heal check at the end of each day&mdash;on a success, your employees get well enough to work. If you fail, the sickness persists to the next day. Each day sickness persists, you have a 20% chance of losing 1d2 points of Labor.</p>", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Downtime/Downtime Events/Generic Building Events/Sickness", 
+    "type": "section", 
+    "name": "Sickness", 
+    "source": "Ultimate Campaign"
+}

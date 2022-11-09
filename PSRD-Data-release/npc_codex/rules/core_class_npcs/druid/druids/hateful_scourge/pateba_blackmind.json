@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Druid/Druids/Hateful Scourge/Pateba Blackmind", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>As feral as a wild cat, Pateba defends her forest without pity or remorse. Those who intrude are things to hunt and destroy.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }
+    ], 
+    "name": "Pateba Blackmind", 
+    "source": "NPC Codex"
+}

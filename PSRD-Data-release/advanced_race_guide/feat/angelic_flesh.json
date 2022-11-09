@@ -1,0 +1,54 @@
+{
+    "body": "<p>Your skin shines like burnished metal.</p>", 
+    "name": "Angelic Flesh", 
+    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Angelic Flesh", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Angelic Blood, aasimar.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You take a &ndash;2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p class=\"stat-block-1\">You gain fire resistance 5 and a +2 bonus on saves against fire effects.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Angelic Flesh/Benefit/Brazen", 
+                    "type": "section", 
+                    "name": "Brazen", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p class=\"stat-block-1\">You gain a +2 bonus on saves against blindness, dazzling, patterns, and effects with the light descriptor. When you cast spells or use spell-like abilities that are from the illusion (pattern) subschool or have the light descriptor, you do so at +1 caster level.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Angelic Flesh/Benefit/Golden", 
+                    "type": "section", 
+                    "name": "Golden", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p class=\"stat-block-1\">You gain a +2 bonus on saves against paralysis, petrification, and poison, and your unarmed strikes or natural weapons count as silver for the purpose of overcoming damage reduction. </p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Angelic Flesh/Benefit/Silver", 
+                    "type": "section", 
+                    "name": "Silver", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p class=\"stat-block-1\">You gain a +1 natural armor bonus to AC, and your unarmed strikes or natural weapons count as cold iron for the purpose of overcoming damage reduction.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Aasimars/New Racial Rules/Aasimar Feats/Angelic Flesh/Benefit/Steel", 
+                    "type": "section", 
+                    "name": "Steel", 
+                    "source": "Advanced Race Guide"
+                }
+            ], 
+            "name": "Benefit", 
+            "source": "Advanced Race Guide"
+        }
+    ]
+}

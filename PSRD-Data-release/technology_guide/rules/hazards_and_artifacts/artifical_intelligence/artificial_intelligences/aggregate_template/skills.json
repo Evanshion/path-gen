@@ -1,0 +1,7 @@
+{
+    "body": "<p>An aggregate retains all the base robot's skills (recalculated as appropriate for its new Intelligence, Wisdom, and Charisma scores), and gains all of the base AI's skill ranks as bonus skill ranks. These bonus skill ranks do not stack with skill ranks the base robot already has; use the higher of the two for each skill.</p>", 
+    "url": "pfsrd://Technology Guide/Rules/Hazards and Artifacts/Artifical Intelligence/Artificial Intelligences/Aggregate Template/Skills", 
+    "type": "section", 
+    "name": "Skills", 
+    "source": "Technology Guide"
+}

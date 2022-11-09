@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"multiweapon-mastery\"> The creature never takes penalties on its attack rolls when fighting with multiple weapons.</p>", 
+    "name": "Multiweapon Mastery", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Multiweapon Mastery", 
+    "sections": [
+        {
+            "body": "<p>multiweapon mastery; <i>Location</i>: Special Attacks.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary 2", 
+    "type": "ability"
+}

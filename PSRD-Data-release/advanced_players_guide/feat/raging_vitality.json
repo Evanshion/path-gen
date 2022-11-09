@@ -1,0 +1,24 @@
+{
+    "name": "Raging Vitality", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Raging Vitality", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Con 15, rage class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Whenever you are raging, the morale bonus to your Constitution increases by +2. Your rage does not end if you become unconscious. While unconscious you must still expend rounds of rage per day each round.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "While raging, you are full of vigor and health."
+}

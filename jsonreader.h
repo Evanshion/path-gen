@@ -16,10 +16,13 @@
 #include <QFile>
 #include <QPushButton>
 #include <iostream>
+#include <QDir>
 
 QJsonDocument readJson(QString path);
 QJsonObject readField(QJsonDocument d);
 QJsonDocument parser(QString f, QString classname);
+QJsonArray bab(QString q);
+void classparser(QString path, QString pathdestination);
 
 //file
 void writeFile(QString path, QJsonDocument data);

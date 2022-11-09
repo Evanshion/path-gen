@@ -1,0 +1,55 @@
+{
+    "body": "<p class=\"stat-description-2\">With a powerful prayer, you call upon the servants of your god to whisk a friend out of a grapple. The target loses the grappled and pinned conditions and is teleported 10 feet.</p>", 
+    "school": "conjuration", 
+    "saving_throw": "no", 
+    "description": "Teleports a friend out of a grapple.", 
+    "source": "Ultimate Combat", 
+    "url": "pfsrd://Ultimate Combat/Spells/Litany Of Escape", 
+    "spell_resistance": "yes", 
+    "casting_time": "1 swift action", 
+    "level_text": "Antipaladin: 3; Inquisitor: 4; Paladin: 3", 
+    "descriptor": [
+        "language-dependent"
+    ], 
+    "range": "close (25 ft. + 5 ft./2 levels)", 
+    "levels": [
+        {
+            "class": "Antipaladin", 
+            "level": 3
+        }, 
+        {
+            "class": "Inquisitor", 
+            "level": 4
+        }, 
+        {
+            "class": "Paladin", 
+            "level": 3
+        }
+    ], 
+    "descriptor_text": "language-dependent", 
+    "effects": [
+        {
+            "text": "one willing creature that is grappled", 
+            "name": "Target"
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }, 
+        {
+            "type": "DF"
+        }
+    ], 
+    "duration": "instantaneous", 
+    "subschool_text": "teleportation", 
+    "subschool": [
+        "teleportation"
+    ], 
+    "type": "spell", 
+    "component_text": "V, S, DF", 
+    "name": "Litany Of Escape"
+}

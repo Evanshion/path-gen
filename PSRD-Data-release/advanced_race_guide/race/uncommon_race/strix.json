@@ -1,0 +1,412 @@
+{
+    "body": "<p>Human neighbors tell horrific tales of slaughter woven with frightened suspicion when speaking of strix. Strix, however, tell a tale of encroachment and a struggle for land and resources. For ages, humans invaded strix lands fighting bloody battles against the fierce, black-skinned creatures they thought to be winged devils. Over time, strix have developed a hatred for humankind and now fiercely protect their dwindling numbers.</p>", 
+    "name": "Strix", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Strix", 
+    "type": "race", 
+    "subtype": "uncommon_race", 
+    "sections": [
+        {
+            "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"+2-dexterity,--2-charisma\">Strix are swift and elusive, but tend to be stubborn and swift to anger.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits/+2 Dexterity/-2 Charisma", 
+                    "type": "section", 
+                    "name": "+2 Dexterity, -2 Charisma", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p id=\"strix\">Strix are humanoids with the strix subtype.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits/Strix", 
+                    "type": "section", 
+                    "name": "Strix", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p id=\"medium\">Strix are Medium creatures and have no bonuses or penalties due to their size.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Medium"
+                }, 
+                {
+                    "body": "<p id=\"normal-speed\">Strix have a base speed of 30 feet on land. They also have a fly speed of 60 feet (average).</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Normal Speed"
+                }, 
+                {
+                    "body": "<p id=\"low-light-vision\">Strix can see twice as far as humans in conditions of dim light.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Low-Light Vision"
+                }, 
+                {
+                    "body": "<p id=\"darkvision\">Strix can see in the dark up to 60 feet.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Darkvision"
+                }, 
+                {
+                    "body": "<p id=\"hatred\">Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits/Hatred", 
+                    "type": "section", 
+                    "name": "Hatred", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p id=\"nocturnal\">Strix gain a +2 racial bonus on Perception and Stealth checks in dim light or darkness.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits/Nocturnal", 
+                    "type": "section", 
+                    "name": "Nocturnal", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p id=\"suspicious\">Strix receive a +2 racial bonus on saving throws against illusion spells and effects.</p>", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Strix Racial Traits/Suspicious", 
+                    "type": "section", 
+                    "name": "Suspicious", 
+                    "source": "Advanced Race Guide"
+                }, 
+                {
+                    "body": "<p id=\"languages\">Strix begin play speaking Strix. Those with high Intelligence scores can choose from the following: Auran, Common, Draconic, Giant, Gnome, Goblin, Infernal.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Languages"
+                }
+            ], 
+            "name": "Strix Racial Traits", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following racial traits may be selected instead of existing strix racial traits. Consult your GM before selecting any of these new options.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"dayguard\">Familiar with watching over its tribe during the day, the strix gains a +2 racial bonus on Perception checks and treats Perception as a class skill. This racial trait replaces nocturnal.</p>", 
+                    "name": "Dayguard", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Dayguard", 
+                    "subtype": "strix", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p id=\"frightening\">The strix looks particularly menacing and use this to its advantage, gaining a +2 racial bonus on Intimidate checks. This racial trait replaces nocturnal.</p>", 
+                    "name": "Frightening", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Frightening", 
+                    "subtype": "strix", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p id=\"nimble\">The strix receives a +1 racial bonus on Reflex saves. This replaces the suspicious racial trait.</p>", 
+                    "name": "Nimble", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Nimble", 
+                    "subtype": "strix", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p id=\"tough\">The strix receives a +1 racial bonus on Fortitude saves. This racial trait replaces suspicious.</p>", 
+                    "name": "Tough", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Tough", 
+                    "subtype": "strix", 
+                    "type": "racial_trait"
+                }, 
+                {
+                    "body": "<p id=\"wing-clipped\">The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor) instead of the normal fly speed, and they must make a DC 30 Fly check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on Bluff, Climb, and Diplomacy checks.</p>", 
+                    "name": "Wing-Clipped", 
+                    "source": "Advanced Race Guide", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Alternate Racial Traits/Wing-Clipped", 
+                    "subtype": "strix", 
+                    "type": "racial_trait"
+                }
+            ], 
+            "name": "Alternate Racial Traits", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following options are available to all strix who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"barbarian\">Add +1 to the barbarian's total number of rage rounds per day.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Barbarian"
+                }, 
+                {
+                    "body": "<p id=\"fighter\">Add +1/4 to the attack roll bonus from the strix's hatred racial trait.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Fighter"
+                }, 
+                {
+                    "body": "<p id=\"monk\">Add +1/4 point to the monk's <i>ki</i> pool.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Monk"
+                }, 
+                {
+                    "body": "<p id=\"ranger\">Add +1/2 round to the duration of the bonus granted to the companions of the ranger using his hunter's bond ability.</p>", 
+                    "source": "Advanced Race Guide", 
+                    "type": "section", 
+                    "name": "Ranger"
+                }
+            ], 
+            "name": "Favored Class Options", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following racial archetype is available to strix.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Driven by suspicion and hatred, strix doggedly guard their territories, making deadly use of their flight. Using swift strikes from above, strix plummet onto their foes with lethal force.</p>", 
+                    "name": "Airborne Ambusher (Fighter)", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/Racial Archetypes/Airborne Ambusher (Fighter)", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p id=\"weapon-and-armor-proficiency\">An airborne ambusher is not proficient with heavy armor or tower shields.</p>", 
+                            "source": "Advanced Race Guide", 
+                            "type": "section", 
+                            "name": "Weapon and Armor Proficiency"
+                        }, 
+                        {
+                            "body": "<p id=\"class-skills\">An airborne ambusher adds Fly to his list of class skills and removes Climb from his list of class skills.</p>", 
+                            "source": "Advanced Race Guide", 
+                            "type": "section", 
+                            "name": "Class Skills"
+                        }, 
+                        {
+                            "body": "<p id=\"combat-flyer\">At 2nd level, an airborne ambusher may use his fighter bonus feats to select Flyby Attack and Hover. This replaces bravery.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/Racial Archetypes/Airborne Ambusher (Fighter)/Combat Flyer (Ex)", 
+                            "type": "section", 
+                            "name": "Combat Flyer (Ex)", 
+                            "source": "Advanced Race Guide"
+                        }, 
+                        {
+                            "body": "<p id=\"aerobatics\">At 5th level, an airborne ambusher may make a Fly check instead of an Acrobatics check to move through a threatened area or an enemy's space. This replaces weapon training 1.</p><p> <b>Flying Dodger (Ex)</b>At 9th level, when an airborne ambusher flies at least half its fly speed on its turn, it gains a +1 dodge bonus to AC for 1 round. This bonus increases to +2 at 11th level and +4 at 17th level. This ability replaces weapon training 2.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/Racial Archetypes/Airborne Ambusher (Fighter)/Aerobatics (Ex)", 
+                            "type": "section", 
+                            "name": "Aerobatics (Ex)", 
+                            "source": "Advanced Race Guide"
+                        }, 
+                        {
+                            "body": "<p id=\"plummeting-charge\">At 13th level, if an airborne ambusher flies at least half its fly speed as part of a charge, it gains a +2 racial bonus on the attack roll (in addition to the normal charge bonus) and a +4 bonus on its critical confirmation roll. These bonuses improve to +4 and +6 at 17th level. This replaces weapon training 3 and 4.</p>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/Racial Archetypes/Airborne Ambusher (Fighter)/Plummeting Charge (Ex)", 
+                            "type": "section", 
+                            "name": "Plummeting Charge (Ex)", 
+                            "source": "Advanced Race Guide"
+                        }
+                    ]
+                }
+            ], 
+            "name": "Racial Archetypes", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>The following options are available to strix. At the GM's discretion, other appropriate races may also make use of some of these.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>Strix have access to the following equipment.</p>", 
+                    "name": "Strix Equipment", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Equipment", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p id=\"snag-net\">This short, wide net is covered in barbed loops and slipknots. It works like a typical net exotic weapon, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a trip combat maneuver check against that opponent; if you succeed, you may trip the opponent or deal 1 point of piercing damage to the opponent. The concentration DC  to cast while entangled in a snag net is 17 + the spell's level. The Escape Artist DC to escape a snag net is 22.</p>", 
+                            "name": "Snag Net", 
+                            "weight": "10 lbs.", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Equipment/Snag Net", 
+                            "price": "30 gp", 
+                            "misc": {
+                                "Weapon": {
+                                    "Weapon Class": null, 
+                                    "Special": "Trip, see text", 
+                                    "Dmg (S)": "see text", 
+                                    "Proficiency": "Exotic Weapons", 
+                                    "Range": "10 ft.", 
+                                    "Dmg (M)": "see text", 
+                                    "Dmg (L)": "see text", 
+                                    "Type": "P", 
+                                    "Dmg (T)": "see text"
+                                }
+                            }, 
+                            "source": "Advanced Race Guide", 
+                            "type": "item"
+                        }, 
+                        {
+                            "body": "<table><caption>Strix Weapon</caption><thead><tr><th>Exotic Weapons</th><th>Cost</th><th>Dmg (S)</th><th>Dmg (M)</th><th>Critical</th><th>Range</th><th>Weight</th><th>Type</th><th>Special</th></tr></thead><tr class=\"odd\"><td>Net, snag</td><td>30 gp</td><td>see text</td><td>see text</td><td>&mdash;</td><td>10 ft.</td><td>10 lbs.</td><td>P</td><td>Trip, see text</td></tr></table>", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Equipment/Strix Weapon", 
+                            "type": "table", 
+                            "name": "Strix Weapon", 
+                            "source": "Advanced Race Guide"
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p>Strix have access to the following feat.</p>", 
+                    "name": "Strix Feats", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Feats", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p>You strengthen your crippled wings.</p>", 
+                            "name": "Stretched Wings", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Feats/Stretched Wings", 
+                            "type": "feat", 
+                            "source": "Advanced Race Guide", 
+                            "feat_types": {
+                                "feat_type": "General"
+                            }, 
+                            "sections": [
+                                {
+                                    "body": "<p id=\"prerequisites\">Str 13, Skill Focus (Fly), strix, wing-clipped racial trait.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Prerequisites"
+                                }, 
+                                {
+                                    "body": "<p class=\"stat-block-1\">Your strix racial fly speed increases to 60 feet (average). You ignore the wing-clipped trait's Fly check requirement to fly upward.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Benefit"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p>Strix have a fondness for magic items like this one.</p>", 
+                    "name": "Strix Magic Items", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Magic Items", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "slot": "shoulders", 
+                            "name": "Stonemist Cloak", 
+                            "weight": "1 lb.", 
+                            "cl": "3rd", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Magic Items/Stonemist Cloak", 
+                            "type": "item", 
+                            "price": "3,500 gp", 
+                            "misc": {
+                                "Construction": {
+                                    "Cost": "1,750 gp", 
+                                    "Requirements": "Craft Wondrous Item, invisibility, obscuring mist"
+                                }
+                            }, 
+                            "source": "Advanced Race Guide", 
+                            "aura": "faint conjuration (creation) and illusion", 
+                            "subtype": "shoulders", 
+                            "sections": [
+                                {
+                                    "body": "<p>In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on Stealth checks. Once per day, the wearer can create an area of fog equivalent to <i>obscuring mist</i>.</p>", 
+                                    "source": "Advanced Race Guide", 
+                                    "type": "section", 
+                                    "name": "Description"
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "body": "<p>Strix have access to the following spell.</p>", 
+                    "name": "Strix Spells", 
+                    "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Spells", 
+                    "type": "section", 
+                    "source": "Advanced Race Guide", 
+                    "sections": [
+                        {
+                            "body": "<p>The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). This increase counts as an enhancement bonus. This spell has no effect on wingless creatures or winged creatures that cannot fly.</p>", 
+                            "school": "transmutation", 
+                            "saving_throw": "Fortitude negates (harmless)", 
+                            "description": "The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good).", 
+                            "url": "pfsrd://Advanced Race Guide/Races/Strix/New Racial Rules/Strix Spells/Strong Wings", 
+                            "spell_resistance": "yes (harmless)", 
+                            "casting_time": "1 standard action", 
+                            "level_text": "Arcanist: 1; Bloodrager: 1; Druid: 1; Hunter: 1; Hunter: 1; Hunter: 1; Hunter: 1; Ranger: 1; Sorcerer: 1; Witch: 1; Wizard: 1", 
+                            "source": "Advanced Race Guide", 
+                            "range": "touch", 
+                            "levels": [
+                                {
+                                    "class": "Arcanist", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Bloodrager", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Druid", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Hunter", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Hunter", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Hunter", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Hunter", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Ranger", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Sorcerer", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Witch", 
+                                    "level": 1
+                                }, 
+                                {
+                                    "class": "Wizard", 
+                                    "level": 1
+                                }
+                            ], 
+                            "effects": [
+                                {
+                                    "text": "creature touched", 
+                                    "name": "Target"
+                                }
+                            ], 
+                            "components": [
+                                {
+                                    "type": "V"
+                                }, 
+                                {
+                                    "type": "S"
+                                }
+                            ], 
+                            "duration": "1 minute/level", 
+                            "type": "spell", 
+                            "component_text": "V, S", 
+                            "name": "Strong Wings"
+                        }
+                    ]
+                }
+            ], 
+            "name": "New Racial Rules", 
+            "source": "Advanced Race Guide"
+        }
+    ]
+}

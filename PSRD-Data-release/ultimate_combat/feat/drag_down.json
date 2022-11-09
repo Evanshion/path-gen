@@ -1,0 +1,24 @@
+{
+    "name": "Drag Down", 
+    "url": "pfsrd://Ultimate Combat/Feats/Drag Down", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Int 13, Combat Expertise, Improved Trip."
+        }, 
+        {
+            "body": "<p>Whenever an opponent successfully trips you, you can attempt to trip that opponent as an immediate action.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "When you are knocked prone, you are skilled at bringing your opponent down with you."
+}

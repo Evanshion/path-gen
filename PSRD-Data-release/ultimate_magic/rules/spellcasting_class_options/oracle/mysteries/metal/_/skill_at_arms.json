@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"skill-at-arms\">You gain proficiency in all martial weapons and heavy armor.</p>", 
+    "name": "Skill at Arms", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Oracle/Mysteries/Metal/Revelations/Skill at Arms", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

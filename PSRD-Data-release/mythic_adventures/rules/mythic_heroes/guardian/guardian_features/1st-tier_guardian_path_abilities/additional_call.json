@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"additional-call\">You learn an additional guardian's call ability. You can select this ability twice.</p>", 
+    "name": "Additional Call", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Guardian/Guardian Features/1st-Tier Guardian Path Abilities/Additional Call", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

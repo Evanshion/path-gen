@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"rage-of-the-wild\">At 4th level, a wild stalker gains the rage ability as the barbarian class feature, but its barbarian level is considered to be his ranger level &ndash;3. This ability replaces hunter's bond. </p>", 
+    "name": "Rage of the Wild", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Ranger/Ranger Archetypes/Wild stalker/Rage of the Wild", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

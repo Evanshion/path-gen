@@ -1,0 +1,36 @@
+{
+    "name": "Parting Shot", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Parting Shot", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Dex 13, Dodge, Mobility, Point Blank Shot, Shot on the Run, base attack bonus +6. "
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Once per encounter, when using the withdraw action, you can make a single ranged attack at any point during your movement.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You cannot attack when using the withdraw action.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Starting at 6th level, a ranger with the archery combat style may select Parting Shot as a combat style feat.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Special"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You are an expert skirmisher, able to rain missiles upon your enemies whether advancing or retreating."
+}

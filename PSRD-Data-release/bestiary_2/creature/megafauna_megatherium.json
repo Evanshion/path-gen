@@ -1,0 +1,73 @@
+{
+    "dexterity": "10", 
+    "ac": "18, touch 8, flat-footed 18 (+10 natural, -2 size)", 
+    "special_attacks": "rend (2 claws, 1d8+10)", 
+    "intelligence": "2", 
+    "melee": "2 claws +10 (1d8+7 plus trip)", 
+    "cr": "5", 
+    "xp": "1,600", 
+    "speed": "30 ft., climb 10 ft.", 
+    "alignment": "N", 
+    "size": "Huge", 
+    "strength": "25", 
+    "constitution": "19", 
+    "space": "15 ft.", 
+    "treasure": "none", 
+    "init": "+0", 
+    "environment": "temperate or warm forest", 
+    "source": "Bestiary 2", 
+    "charisma": "6", 
+    "fortitude": "+9", 
+    "type": "creature", 
+    "feats": "Awesome Blow, Improved Bull Rush, Power Attack, Skill Focus (Perception)", 
+    "senses": "low-light vision, scent; Perception +14", 
+    "description": "The great sloth, standing on its hind legs, can reach the treetops with its agile tongue to grab at foliage.", 
+    "sections": [
+        {
+            "body": "<p>The megatherium is a massive sloth weighing 10,000 pounds. It can balance on its hind legs and tail, allowing it to reach up to 20 feet high.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section"
+        }, 
+        {
+            "ac": "+5 natural armor", 
+            "name": "Megatherium", 
+            "source": "Bestiary 2", 
+            "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Megatherium/Megatherium", 
+            "speed": "40 ft., climb 10 ft.", 
+            "subtype": "base", 
+            "attack": "2 claws (1d4)", 
+            "type": "animal_companion", 
+            "ability_scores": "Str 9, Dex 14, Con 11, Int 2, Wis 13, Cha 6", 
+            "sections": [
+                {
+                    "ac": "+2 natural armor", 
+                    "name": "7th-Level Advancement", 
+                    "level": "7th", 
+                    "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Megatherium/Megatherium/7th-Level Advancement", 
+                    "subtype": "advancement", 
+                    "attack": "2 claws (1d6)", 
+                    "source": "Bestiary 2", 
+                    "ability_scores": "Str +8, Dex -2, Con +4", 
+                    "type": "animal_companion", 
+                    "special_qualities": "rend (2 claws, 1d8).", 
+                    "size": "Large"
+                }
+            ], 
+            "special_qualities": "low-light vision, scent.", 
+            "size": "Medium"
+        }
+    ], 
+    "hp": "59 (7d8+28)", 
+    "reach": "10 ft.", 
+    "wisdom": "13", 
+    "creature_type": "Animal", 
+    "name": "Megafauna, Megatherium", 
+    "base_attack": "+5", 
+    "skills": "Climb +15, Perception +14", 
+    "reflex": "+5", 
+    "cmd": "24 (28 vs. trip)", 
+    "cmb": "+14", 
+    "will": "+3", 
+    "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Megatherium", 
+    "organization": "solitary or pair"
+}

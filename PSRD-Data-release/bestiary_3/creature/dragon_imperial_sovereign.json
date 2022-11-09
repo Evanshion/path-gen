@@ -1,0 +1,90 @@
+{
+    "breath_weapon": "cone, 2d6 sonic", 
+    "dexterity": "14", 
+    "strength": "17", 
+    "name": "Dragon, Imperial, Sovereign", 
+    "sections": [
+        {
+            "name": "Special Abilities", 
+            "source": "Bestiary 3", 
+            "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities", 
+            "type": "section", 
+            "subtype": "special_abilities", 
+            "sections": [
+                {
+                    "body": "A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.", 
+                    "name": "Change Shape", 
+                    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities/Change Shape", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Bestiary 3", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "Good or evil creatures take a &ndash;2 penalty when making saving throws against a sovereign dragon's spells, spell-like abilities, breath weapon, and aura.", 
+                    "name": "Dogmatic Discordance", 
+                    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities/Dogmatic Discordance", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Bestiary 3", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "Once per day as a standard action, an old or older sovereign dragon can cover its form in golden armor, granting it a +4 armor bonus to AC and energy resistance 15 to one energy type, chosen at the time the armor is summoned. This armor lasts for a number of rounds equal to the dragon's age category. The sovereign dragon can dismiss the armor as a free action.", 
+                    "name": "Golden Armor", 
+                    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities/Golden Armor", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Bestiary 3", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "A great wyrm sovereign dragon can counterspell once per round as an immediate action. It need not know the spell it is countering, but can instead expend any spell that is one level higher to automatically counter the spell.", 
+                    "name": "Master Counterspelling", 
+                    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities/Master Counterspelling", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Bestiary 3", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.", 
+                    "name": "Violent Retort", 
+                    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Special Abilities/Violent Retort", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Bestiary 3", 
+                    "type": "ability"
+                }
+            ]
+        }, 
+        {
+            "body": "<table><thead><tr><th>Age Category</th><th>Special Abilities</th><th>Caster Level</th></tr></thead><tbody><tr class=\"odd\"><td>Wyrmling</td><td>Dogmatic discordance</td><td>&mdash;</td></tr><tr class=\"even\"><td>Very young</td><td><i>Detect evil/good</i></td><td>&mdash;</td></tr><tr class=\"odd\"><td>Young</td><td>Change shape, violent retort</td><td>1st</td></tr><tr class=\"even\"><td>Juvenile</td><td><i>Calm emotions</i>, frightful presence</td><td>3rd</td></tr><tr class=\"odd\"><td>Young adult</td><td>DR 5/magic, spell resistance</td><td>5th</td></tr><tr class=\"even\"><td>Adult</td><td><i>Tongues</i></td><td>7th</td></tr><tr class=\"odd\"><td>Mature adult</td><td>DR 10/magic</td><td>9th</td></tr><tr class=\"even\"><td>Old</td><td>Golden armor, <i>sympathetic vibration</i></td><td>11th</td></tr><tr class=\"odd\"><td>Very old</td><td>DR 15/magic</td><td>13th</td></tr><tr class=\"even\"><td>Ancient</td><td><i>Prismatic spray</i></td><td>15th</td></tr><tr class=\"odd\"><td>Wyrm</td><td>DR 20/magic</td><td>17th</td></tr><tr class=\"even\"><td>Great wyrm</td><td>Master counterspelling, <i>moment of prescience</i></td><td>19th</td></tr></tbody></table>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign/Age Category", 
+            "type": "table", 
+            "name": "Age Category", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "url": "pfsrd://Bestiary 3/Monsters/Dragon/Imperial/Sovereign/Dragon/Imperial/Sovereign", 
+    "type": "creature", 
+    "constitution": "15", 
+    "treasure": "triple", 
+    "natural_armor": "+7", 
+    "wisdom": "15", 
+    "environment": "any mountains", 
+    "source": "Bestiary 3", 
+    "charisma": "14", 
+    "organization": "solitary", 
+    "super_race": "n dragon", 
+    "intelligence": "14", 
+    "cr": "7", 
+    "hit_dice": "8d12", 
+    "speed": "50 ft.", 
+    "size": "Small"
+}

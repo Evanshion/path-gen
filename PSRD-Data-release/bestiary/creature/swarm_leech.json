@@ -1,0 +1,91 @@
+{
+    "dexterity": "18", 
+    "ac": "18, touch 18, flat-footed 14 (+4 Dex, +4 size)", 
+    "special_attacks": "blood drain, distraction (DC 15)", 
+    "intelligence": "-", 
+    "racial_modifiers": "+8 Stealth in swamps, uses Dexterity to modify Swim checks", 
+    "melee": "swarm (2d6 plus poison)", 
+    "cr": "4", 
+    "xp": "1,200", 
+    "speed": "5 ft., swim 30 ft.", 
+    "alignment": "N", 
+    "size": "Diminutive", 
+    "strength": "1", 
+    "constitution": "15", 
+    "space": "10 ft.", 
+    "treasure": "none", 
+    "init": "+4", 
+    "environment": "temperate or warm marshes", 
+    "source": "Bestiary", 
+    "charisma": "2", 
+    "immune": "mind-affecting effects, swarm traits, weapon damage", 
+    "fortitude": "+7", 
+    "type": "creature", 
+    "senses": "blindsight 30 ft.; Perception +0", 
+    "description": "A mass of wriggling black creatures each the size of a man's finger stirs the stagnant water before enveloping its victim.", 
+    "sections": [
+        {
+            "name": "Special Abilities", 
+            "source": "Bestiary", 
+            "url": "pfsrd://Bestiary/Monsters/Swarm/Leech/Special Abilities", 
+            "type": "section", 
+            "subtype": "special_abilities", 
+            "sections": [
+                {
+                    "body": "Any living creature that begins its turn with a leech swarm in its space is drained of its blood and takes 1d3 points of Str and Con damage.", 
+                    "name": "Blood Drain", 
+                    "url": "pfsrd://Bestiary/Monsters/Swarm/Leech/Special Abilities/Blood Drain", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Bestiary", 
+                    "type": "ability"
+                }, 
+                {
+                    "body": "Swarm:", 
+                    "name": "Poison", 
+                    "url": "pfsrd://Bestiary/Monsters/Swarm/Leech/Special Abilities/Poison", 
+                    "sections": [
+                        {
+                            "name": "Leech Swarm Venom", 
+                            "source": "Bestiary", 
+                            "url": "pfsrd://Bestiary/Monsters/Swarm/Leech/Special Abilities/Poison/Leech Swarm Venom", 
+                            "contracted": "injury", 
+                            "effect": "1d4 Dexterity drain", 
+                            "subtype": "poison", 
+                            "cure": "1 save", 
+                            "frequency": "1/round for 2 rounds", 
+                            "save": "Fortitude DC 15", 
+                            "type": "affliction"
+                        }
+                    ], 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Bestiary", 
+                    "type": "ability"
+                }
+            ]
+        }, 
+        {
+            "body": "<p>This horrifying cloud of ravenous, blood-draining parasites eschews the stealth of a lone leech's methods in favor of swift and merciless feeding.</p>", 
+            "source": "Bestiary", 
+            "type": "section"
+        }
+    ], 
+    "hp": "39 (6d8+12)", 
+    "weaknesses": "susceptible to salt (see giant leech)", 
+    "reach": "0 ft.", 
+    "wisdom": "10", 
+    "creature_type": "Vermin", 
+    "name": "Swarm, Leech", 
+    "base_attack": "+4", 
+    "skills": "Stealth +16 (+24 in swamps), Swim +12", 
+    "reflex": "+6", 
+    "cmd": "&mdash", 
+    "cmb": "-", 
+    "will": "+2", 
+    "url": "pfsrd://Bestiary/Monsters/Swarm/Leech", 
+    "organization": "solitary, pair, or infestation (3-6 swarms)", 
+    "creature_subtype": "aquatic, swarm"
+}

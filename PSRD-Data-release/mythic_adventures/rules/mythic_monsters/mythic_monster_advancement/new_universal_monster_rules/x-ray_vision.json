@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"x-ray-vision\">The monster can see through solid matter as if wearing a <i>ring of x-ray vision</i>. This is as exhausting as if the monster were actually using the ring.<i>Format</i>: x-ray vision; <i>Location</i>: Senses.</p>", 
+    "name": "X-Ray Vision", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Monsters/Mythic Monster Advancement/New Universal Monster Rules/X-Ray Vision", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

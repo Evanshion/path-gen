@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"extreme-endurance\">At 5th level, a martial artist gains immunity to fatigue. At 10th level, he also gains immunity to exhaustion. At 15th level, he gains immunity to stunning. At 20th level, he gains immunity to death effects and energy drain. This ability replaces purity of body, diamond body, and perfect self. </p>", 
+    "name": "Extreme Endurance", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Monk/Monk Archetypes/Martial Artist/Extreme Endurance", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

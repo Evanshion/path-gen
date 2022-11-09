@@ -1,0 +1,13 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Bard/Bards/Local Celebrity/Tremin Kaylos", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>An up-and-coming local star, Tremin is the son of a crime boss. He uses his social clout to smear rivals.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }
+    ], 
+    "name": "Tremin Kaylos", 
+    "source": "NPC Codex"
+}

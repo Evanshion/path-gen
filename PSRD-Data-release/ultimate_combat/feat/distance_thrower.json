@@ -1,0 +1,24 @@
+{
+    "name": "Distance Thrower", 
+    "url": "pfsrd://Ultimate Combat/Feats/Distance Thrower", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Str 13."
+        }, 
+        {
+            "body": "<p>With a thrown weapon, you reduce your penalty on ranged attack rolls due to range by 2.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You are accurate with thrown weapons at longer ranges than normal."
+}

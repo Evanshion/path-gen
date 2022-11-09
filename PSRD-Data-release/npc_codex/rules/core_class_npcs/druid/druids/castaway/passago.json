@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Druid/Druids/Castaway/Passago", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Passago lives on a lonely tropical island and considers himself its master. He and his daughter were teleported there years ago by a jealous wizard, and quickly came to love it. When wild shaping, he prefers to take on the forms of the animals of his island.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Passago loves both his adopted island home and his daughter. If either is threatened, he quickly comes to their defense. He would lay down his life to defend either one of them.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Stubborn and proud, Passago believes he is the master of his island, and as such does not need to explain himself or his actions to anyone.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Passago", 
+    "source": "NPC Codex"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Leaf Leshy", 
+    "cl": "5th", 
+    "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Leaf Leshy/Leaf Leshy", 
+    "sections": [
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>Knowledge (nature) 5 ranks, magic stone, plant growth, summon nature's ally I</p><p class='stat-block-1'><b>Skill </b>Knowledge (nature) DC 12</p><p class='stat-block-1'><b>Cost </b>500 gp</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Leshy/Growing a Leaf Leshy/Leaf Leshy/Ritual", 
+            "type": "section", 
+            "name": "Ritual", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "price": "1,000 gp", 
+    "source": "Bestiary 3", 
+    "type": "item"
+}

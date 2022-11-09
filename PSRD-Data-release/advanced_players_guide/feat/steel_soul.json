@@ -1,0 +1,30 @@
+{
+    "name": "Steel Soul", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Steel Soul", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Dwarf, hardy racial trait."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You receive a +4 racial bonus on saving throws against spells and spell-like abilities. This replaces the normal bonus from the dwarf's hardy racial trait.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Dwarves normally receive a +2 racial bonus on saving throws against spells and spell-like abilities.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You are especially resistant to magic."
+}

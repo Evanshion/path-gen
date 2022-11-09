@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Rogue/Rogues/Guild Initiate/Felix the Twig", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Felix is an accomplished burglar who always chews on a tindertwig for luck.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Felix might be part of a team of young footpads or a lookout for a larger job.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Felix is a good contact within a thieves' guild.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Felix the Twig", 
+    "source": "NPC Codex"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Basidirond Spores", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Basidirond/Special Abilities/Spores/Basidirond Spores", 
+    "contracted": "inhaled", 
+    "effect": "1d2 Constitution damage", 
+    "subtype": "disease", 
+    "cure": "1 save", 
+    "frequency": "1/round for 6 rounds", 
+    "save": "Fortitude DC 16", 
+    "type": "affliction"
+}

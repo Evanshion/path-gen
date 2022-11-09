@@ -1,0 +1,10 @@
+{
+    "body": "<p>A Stage Manager oversees an artistic organization or building devoted to the arts. He's typically a 3rd-level expert, but could instead be a bard, rogue, or member of any class with skills suiting the fine arts. A Stage Manager spends his day seeing to the operations of the theater, instructing performers, and promoting featured acts.</p>", 
+    "wage": "2 gp/day", 
+    "name": "Stage manager", 
+    "subtype": "manager", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Downtime/Managers/Example Managers/Stage manager", 
+    "source": "Ultimate Campaign", 
+    "skills": "Diplomacy, Disguise, Perform (any two)", 
+    "type": "resource"
+}

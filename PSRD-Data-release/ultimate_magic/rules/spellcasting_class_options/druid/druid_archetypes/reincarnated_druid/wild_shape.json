@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"wild-shape\">A reincarnated druid gains this ability at 6th level, and it functions at her druid level &ndash; 2.</p>", 
+    "name": "Wild Shape", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Druid/Druid Archetypes/Reincarnated Druid/Wild Shape", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Defense Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Defense Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Protection.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the resistant touch power of the Protection domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"deflection-aura\">Once each day, you can emit a 20-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense. </p>", 
+                    "name": "Deflection Aura", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Defense Subdomain/Replacement Power/Deflection Aura", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>1st&mdash;<i>shield</i>, 2nd&mdash;<i>barkskin</i>, 7th&mdash;<i>deflection</i>*.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

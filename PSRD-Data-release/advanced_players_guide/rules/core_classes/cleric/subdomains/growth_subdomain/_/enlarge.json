@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"enlarge\">As a swift action you can enlarge yourself for 1 round, as if you were the target of the <i>enlarge person</i> spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>", 
+    "name": "Enlarge", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Growth Subdomain/Replacement Power/Enlarge", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

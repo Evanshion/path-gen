@@ -1,0 +1,9 @@
+{
+    "body": "<p>Add your tier to the spell's initiative bonus and the maximum initiative bonus the spell can grant.</p>", 
+    "name": "Anticipate Peril, Mythic", 
+    "source": "Mythic Adventures", 
+    "url": "pfsrd://Mythic Adventures/Spells/Anticipate Peril/Mythic", 
+    "subtype": "mythic_spell", 
+    "spell_source": "Anticipate Peril", 
+    "type": "mythic_spell"
+}

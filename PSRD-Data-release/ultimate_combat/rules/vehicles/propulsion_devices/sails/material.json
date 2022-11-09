@@ -1,0 +1,7 @@
+{
+    "body": "<table><thead><tr><th>Material</th><th>Hit Points per Square</th><th>Hardness</th></tr></thead><tr class=\"odd\"><td>Sails</td><td>5</td><td>0</td></tr><tr class=\"even\"><td>Dirigible</td><td>5</td><td>0</td></tr><tr class=\"odd\"><td>Alchemical Engine</td><td>20</td><td>8</td></tr><tr class=\"even\"><td>Magically Treated</td><td>&times;2</td><td>&times;2</td></tr></table>", 
+    "url": "pfsrd://Ultimate Combat/Rules/Vehicles/Propulsion Devices/Sails/Material", 
+    "type": "table", 
+    "name": "Material", 
+    "source": "Ultimate Combat"
+}

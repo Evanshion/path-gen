@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"destructive\">Whenever the breaker barbarian makes a melee attack that targets an unattended object or makes a sunder combat maneuver, she adds half her barbarian level (minimum +1) on the damage roll. This ability replaces fast movement.</p>", 
+    "name": "Destructive", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Barbarian/Barbarian Archetypes/Breaker/Destructive", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

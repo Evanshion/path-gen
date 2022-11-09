@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"black-blade-strike\">As a free action, the magus can spend a point from the <i>black blade</i>'s arcane pool to grant the <i>black blade</i> a +1 bonus on damage rolls for 1 minute. For every four levels beyond 1st, this ability gives the <i>black blade</i> another +1 on damage rolls.</p>", 
+    "name": "Black Blade Strike", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Magus/Magus Archetypes/Bladebound/Black Blades/Black Blade Ability Descriptions/Black Blade Strike", 
+    "ability_types": {
+        "ability_type": "Spell-Like"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

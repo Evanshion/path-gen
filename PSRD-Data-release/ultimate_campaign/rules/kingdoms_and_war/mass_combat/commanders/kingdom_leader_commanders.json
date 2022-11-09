@@ -1,0 +1,106 @@
+{
+    "body": "<p>If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on), you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in Profession (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.</p><p>Your leadership role determines what boons you automatically know (even if you don't meet the Leadership requirements for those boons). If a role lists multiple boons, you must choose one when you become a commander. (Others may be gained in the normal manner).</p>", 
+    "name": "Kingdom Leader Commanders", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>Bloodied but Unbroken, Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Ruler", 
+            "type": "section", 
+            "name": "Ruler", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Consort", 
+            "type": "section", 
+            "name": "Consort", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Councilor", 
+            "type": "section", 
+            "name": "Councilor", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Bonus Tactic, Flexible Tactics, Merciless, Sharpshooter</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/General", 
+            "type": "section", 
+            "name": "General", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Defensive Tactics, Merciless</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Grand Diplomat", 
+            "type": "section", 
+            "name": "Grand Diplomat", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Heir", 
+            "type": "section", 
+            "name": "Heir", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Hold the Line, Live off the Land, Triage</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/High Priest", 
+            "type": "section", 
+            "name": "High Priest", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Flexible Tactics, Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Magister", 
+            "type": "section", 
+            "name": "Magister", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Live off the Land, Hit and Run, Sharpshooter, Triage</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Marshal", 
+            "type": "section", 
+            "name": "Marshal", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Bonus Tactic, Merciless, Sharpshooter</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Royal Enforcer", 
+            "type": "section", 
+            "name": "Royal Enforcer", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Hit and Run, Merciless, Sharpshooter</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Spymaster", 
+            "type": "section", 
+            "name": "Spymaster", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Treasurer", 
+            "type": "section", 
+            "name": "Treasurer", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Loyalty</p>", 
+            "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Mass Combat/Commanders/Kingdom Leader Commanders/Viceroy", 
+            "type": "section", 
+            "name": "Viceroy", 
+            "source": "Ultimate Campaign"
+        }, 
+        {
+            "body": "<p>Defensive Tactics, Hold the Line, Loyalty</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Warden"
+        }
+    ]
+}

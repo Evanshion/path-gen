@@ -1,0 +1,64 @@
+{
+    "body": "<p>Trox are defined by their class levels&mdash;they do not possess racial Hit Dice. Despite having no racial Hit Dice, trox are powerful creatures and their CR is 2 higher than a human of the same level. All trox have the following racial traits.</p>", 
+    "name": "Trox", 
+    "source": "Bestiary 4", 
+    "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Trox are very strong, but they can be dim, unreceptive, and inhospitable.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/+6 Strength/\u20132 Intelligence/\u20132 Wisdom/\u20132 Charisma", 
+            "type": "section", 
+            "name": "+6 Strength, \u20132 Intelligence, \u20132 Wisdom, \u20132 Charisma", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Trox have a base speed of 30 feet.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Normal Speed"
+        }, 
+        {
+            "body": "<p>Trox are Large and take a -1 size penalty to AC, take a -4 size penalty on Stealth checks, and gain a +1 size bonus on combat maneuver checks and to combat maneuver defense.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/Large", 
+            "type": "section", 
+            "name": "Large", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Trox can see in the dark up to 60 feet.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/Darkvision 60 ft.", 
+            "type": "section", 
+            "name": "Darkvision 60 ft.", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Trox have a burrow speed of 20 feet.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/Burrow", 
+            "type": "section", 
+            "name": "Burrow", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>See stat block above.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/Frenzy", 
+            "type": "section", 
+            "name": "Frenzy", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>See stat block above.</p>", 
+            "url": "pfsrd://Bestiary 4/Monsters/Trox/Trox/Grabbing Appendages", 
+            "type": "section", 
+            "name": "Grabbing Appendages", 
+            "source": "Bestiary 4"
+        }, 
+        {
+            "body": "<p>Terran. A Trox with a high Intelligence score can choose from the following: Common, Dwarven, Giant, Orc, and Undercommon.</p>", 
+            "source": "Bestiary 4", 
+            "type": "section", 
+            "name": "Languages"
+        }
+    ]
+}

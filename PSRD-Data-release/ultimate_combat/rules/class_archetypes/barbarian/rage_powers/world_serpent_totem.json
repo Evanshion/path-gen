@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"world-serpent-totem\" class=\"stat-block-2\">While raging, the barbarian gains a +1 insight bonus to AC against outsiders and aberrations. This bonus increases by +1 for each world serpent rage power the barbarian possesses, excluding this one.</p>", 
+    "name": "World Serpent Totem", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Barbarian/Rage Powers/World Serpent Totem", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

@@ -1,0 +1,39 @@
+{
+    "body": "<p>Your magic is more focused on  the power of air and rain than on lightning and thunder.</p>", 
+    "name": "Aerial", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Aerial", 
+    "type": "section", 
+    "source": "Ultimate Magic", 
+    "sections": [
+        {
+            "body": "<p id=\"associated-bloodline\">Stormborn.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Associated Bloodline"
+        }, 
+        {
+            "body": "<p id=\"bloodline-arcana\">Whenever outdoors during any form of precipitation, your effective caster level is increased by 2.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Bloodline Arcana"
+        }, 
+        {
+            "body": "<p id=\"bloodline-powers\">The greatest storms bring ruin through wind, not electricity.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"windcaller\">At 9th level, you can call the winds to obey your commands for 1 minute per level. This functions like <i>control winds</i>, except that you may choose to be immune to any increased wind effects you create. The ability's duration does not need to be consecutive, but it must be used in 1-minute increments. This bloodline power replaces thunderbolt.</p>", 
+                    "name": "Windcaller", 
+                    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Sorcerer Archetypes/Wildblooded/Aerial/Bloodline Powers/Windcaller", 
+                    "ability_types": {
+                        "ability_type": "Spell-Like"
+                    }, 
+                    "source": "Ultimate Magic", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Bloodline Powers", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

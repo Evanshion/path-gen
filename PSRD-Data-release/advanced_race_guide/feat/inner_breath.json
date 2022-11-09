@@ -1,0 +1,24 @@
+{
+    "body": "<p>Your body is suffused with elemental air that provides for all your respiratory needs. </p>", 
+    "name": "Inner Breath", 
+    "url": "pfsrd://Advanced Race Guide/Races/Sylphs/New Racial Rules/Sylph Feats/Inner Breath", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Character level 11th, sylph.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You no longer need to breathe. You are immune to effects that require breathing (such as inhaled poison). This does not give you immunity to cloud or gas attacks that do not require breathing, such as <i>cloudkill</i>.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

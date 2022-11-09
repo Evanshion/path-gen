@@ -1,0 +1,17 @@
+{
+    "name": "Clockwork Goliath", 
+    "cl": "18th", 
+    "url": "pfsrd://Bestiary 3/Monsters/Clockwork/Clockwork Goliath/Construction/Clockwork Goliath", 
+    "sections": [
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest, and limited wish, creator must be at least caster level 18th</p><p class='stat-block-1'><b>Skill </b>Craft (clockwork) DC 25</p><p class='stat-block-1'><b>Cost </b>160,000 gp</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Clockwork/Clockwork Goliath/Construction/Clockwork Goliath/CONSTRUCTION", 
+            "type": "section", 
+            "name": "CONSTRUCTION", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "price": "300,000 gp", 
+    "source": "Bestiary 3", 
+    "type": "item"
+}

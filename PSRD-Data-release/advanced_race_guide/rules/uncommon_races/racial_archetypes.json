@@ -1,0 +1,107 @@
+{
+    "body": "<p>This section presents a single racial archetype for each of the uncommon races. Typically, only members of the section's race can take the listed archetype. An archetype usually features a thematic link to the race, granting it class features that complement the abilities and the background of the race. Because adventurers are often societal outliers, sometimes these archetypes feature a theme that is the exception to the norm for racial tendencies. At the GM's discretion, a member of another race can take most of these archetypes either because they fit a character concept or because the character was raised or trained by a member of the race that can typically select the archetype. Such exceptions should be rare for the archetypes detailed in this chapter, however, since these races are not common in most campaigns. The following is a list of all the archetypes featured in this chapter, listed by race. The class for each archetype is listed in parentheses. </p>", 
+    "name": "Racial Archetypes", 
+    "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes", 
+    "type": "section", 
+    "source": "Advanced Race Guide", 
+    "sections": [
+        {
+            "body": "<p>Dreamweaver (witch)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Changelings", 
+            "type": "section", 
+            "name": "Changelings", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Gray disciple (monk)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Duergar", 
+            "type": "section", 
+            "name": "Duergar", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Eldritch raider (rogue)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Gillmen", 
+            "type": "section", 
+            "name": "Gillmen", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Bogborn alchemist (alchemist)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Gripplis", 
+            "type": "section", 
+            "name": "Gripplis", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Kitsune trickster (rogue)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Kitsune", 
+            "type": "section", 
+            "name": "Kitsune", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Wave warden (ranger)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Merfolk", 
+            "type": "section", 
+            "name": "Merfolk", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Naga aspirant (druid)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Nagaji", 
+            "type": "section", 
+            "name": "Nagaji", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Reincarnated oracle (oracle)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Samsarans", 
+            "type": "section", 
+            "name": "Samsarans", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Airborne ambusher (fighter)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Strix", 
+            "type": "section", 
+            "name": "Strix", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Elemental knight (magus)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Sulis", 
+            "type": "section", 
+            "name": "Sulis", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Deep bomber (alchemist)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Svirfneblin", 
+            "type": "section", 
+            "name": "Svirfneblin", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Treetop monk (monk)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Vanaras", 
+            "type": "section", 
+            "name": "Vanaras", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Deadly courtesan (rogue)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Vishkanyas", 
+            "type": "section", 
+            "name": "Vishkanyas", 
+            "source": "Advanced Race Guide"
+        }, 
+        {
+            "body": "<p>Shadow puppeteer (bard)</p>", 
+            "url": "pfsrd://Advanced Race Guide/Rules/Uncommon Races/Racial Archetypes/Wayangs", 
+            "type": "section", 
+            "name": "Wayangs", 
+            "source": "Advanced Race Guide"
+        }
+    ]
+}

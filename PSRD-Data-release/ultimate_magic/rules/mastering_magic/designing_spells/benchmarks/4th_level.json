@@ -1,0 +1,29 @@
+{
+    "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/4th Level", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p id=\"dimension-door\">This is the lowest-level spell that lets you teleport; it has a limited range and disorients you until your next turn.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/4th Level/Dimension Door", 
+            "type": "section", 
+            "name": "Dimension Door", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"enervation\">This is the lowest-level spell that gives the target negative levels.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/4th Level/Enervation", 
+            "type": "section", 
+            "name": "Enervation", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"phantasmal-killer\">This is the lowest-level spell that can directly kill a creature, but allows two saves to resist it.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Designing Spells/Benchmarks/4th Level/Phantasmal Killer", 
+            "type": "section", 
+            "name": "Phantasmal Killer", 
+            "source": "Ultimate Magic"
+        }
+    ], 
+    "name": "4th Level", 
+    "source": "Ultimate Magic"
+}

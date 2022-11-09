@@ -1,0 +1,61 @@
+{
+    "body": "<p>Goblins are defined by their class levels&mdash;they do not possess racial Hit Dice. All goblins have the following racial traits.</p>", 
+    "name": "Goblin", 
+    "source": "Bestiary", 
+    "url": "pfsrd://Bestiary/Monsters/Goblin/Goblin", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Goblins are fast, but weak and unpleasant to be around.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "-2 Strength, +4 Dexterity, -2 Charisma"
+        }, 
+        {
+            "body": "<p>Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a &ndash;1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Goblin/Goblin/Small", 
+            "type": "section", 
+            "name": "Small", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Goblins are fast for their size, and have a base speed of 30 feet.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Goblin/Goblin/Fast", 
+            "type": "section", 
+            "name": "Fast", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Goblins can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p>+4 racial bonus on Ride and Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary/Monsters/Goblin/Goblin/Skilled", 
+            "type": "section", 
+            "name": "Skilled", 
+            "source": "Bestiary"
+        }, 
+        {
+            "body": "<p>Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose any of these bonus languages: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, Orc.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Goblin Monster Entry", 
+                    "source": "Bestiary", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary"
+        }
+    ]
+}

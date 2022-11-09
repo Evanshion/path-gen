@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Fighter/Fighters/ShieldBreaker/Rogar Talgast", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>At a young age, Rogar left his clan to seek his fortune in the world. Quite tall for a dwarf, he found that in the wider world he missed the respect other dwarves gave him for his size. He befriended an alchemist who supplies him with enlarge person potions, and adapted his fighting style to match. Rogar prefers military duty when he can find it, especially if he can be in a small, elite squad. He's not picky about causes, but prefers to be well-supported by spellcasters. He offers quarter to defeated foes, insisting there's no shame in being beaten by a dwarf.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Rogar leads a group of warriors and spellcasters, attacking the enemies of his employer.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> When low on potions of enlarge person, Rogar seeks out spellcasters willing to brew such potions in great number for a reduced price.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Rogar Talgast", 
+    "source": "NPC Codex"
+}

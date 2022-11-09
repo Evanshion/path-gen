@@ -1,0 +1,27 @@
+{
+    "body": "<p>A Fishery is like a Farm, except it provides abundant fish rather than planted crops.</p>", 
+    "name": "Fishery*", 
+    "url": "pfsrd://Ultimate Campaign/Rules/Kingdoms And War/Kingdom Turn Sequence/Terrain Improvements/Fishery*", 
+    "type": "section", 
+    "source": "Ultimate Campaign", 
+    "sections": [
+        {
+            "body": "<p>Coastline, water, river, or marsh.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Terrain"
+        }, 
+        {
+            "body": "<p>Consumption decreases by 1 BP.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Effect"
+        }, 
+        {
+            "body": "<p>4 BP.</p>", 
+            "source": "Ultimate Campaign", 
+            "type": "section", 
+            "name": "Cost"
+        }
+    ]
+}

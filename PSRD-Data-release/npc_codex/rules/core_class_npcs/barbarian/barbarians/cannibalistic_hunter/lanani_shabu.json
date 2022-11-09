@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Barbarian/Barbarians/Cannibalistic Hunter/Lanani Shabu", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>When newcomers objecting to his matriarchal tribe's cannibalistic ways wiped out his kin, Lanani had no choice but to ritualistically take on new leadership&mdash;and a new gender. Now \"Mother Lanani\" hunts the jungle, punishing humans and recruiting halflings to her new tribe.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Lanani can stalk quarry for days, slowly weakening those she is not able to knock out with her poison. Other times, she heads a hunting band.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Lanani rarely interacts with the outside world, but in desperate times she ventures into civilization to lure prey closer to her tribe.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Suggestions", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Lanani Shabu", 
+    "source": "NPC Codex"
+}

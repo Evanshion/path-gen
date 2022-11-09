@@ -1,0 +1,72 @@
+{
+    "body": "<p>This spell functions as the <i>dream</i> spell, except as follows. The messenger must be yourself or a gnome touched. The message can be no longer than 20 words. If the recipient of the message is not asleep when the spell is cast, the spell automatically fails. </p>", 
+    "school": "illusion", 
+    "saving_throw": "none", 
+    "description": "This spell functions as the dream spell, except as follows.", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Gnomes/New Racial Rules/Gnome Spells/Minor Dream", 
+    "spell_resistance": "yes", 
+    "casting_time": "1 minute", 
+    "level_text": "alchemist: 2; investigator: 2; bard: 3; skald: 3; sorcerer: 3; wizard: 3; arcanist: 3; witch: 2", 
+    "descriptor": [
+        "mind-affecting"
+    ], 
+    "range": "unlimited", 
+    "levels": [
+        {
+            "class": "Alchemist", 
+            "level": 2
+        }, 
+        {
+            "class": "Arcanist", 
+            "level": 3
+        }, 
+        {
+            "class": "Bard", 
+            "level": 3
+        }, 
+        {
+            "class": "Investigator", 
+            "level": 2
+        }, 
+        {
+            "class": "Skald", 
+            "level": 3
+        }, 
+        {
+            "class": "Sorcerer", 
+            "level": 3
+        }, 
+        {
+            "class": "Witch", 
+            "level": 2
+        }, 
+        {
+            "class": "Wizard", 
+            "level": 3
+        }
+    ], 
+    "descriptor_text": "mind-affecting", 
+    "effects": [
+        {
+            "text": "you or one gnome touched", 
+            "name": "Target"
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }
+    ], 
+    "duration": "see text", 
+    "subschool_text": "figment", 
+    "subschool": [
+        "figment"
+    ], 
+    "type": "spell", 
+    "component_text": "V, S", 
+    "name": "Minor Dream"
+}

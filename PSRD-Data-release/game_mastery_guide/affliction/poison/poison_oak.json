@@ -1,0 +1,12 @@
+{
+    "name": "Poison Oak", 
+    "source": "Game Mastery Guide", 
+    "url": "pfsrd://Game Mastery Guide/Rules/Hazards/Sample Hazards/Poison Oak/Poison Oak", 
+    "contracted": "contact", 
+    "effect": "1d4 Dex damage, creature sickened until damage is healed", 
+    "onset": "1 hour", 
+    "subtype": "poison", 
+    "cure": "1 save", 
+    "save": "Fortitude DC 13", 
+    "type": "affliction"
+}

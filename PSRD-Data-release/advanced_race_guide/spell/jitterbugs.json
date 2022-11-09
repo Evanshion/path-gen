@@ -1,0 +1,60 @@
+{
+    "body": "<p>You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. This causes the target to become jittery and unable to stay still, forcing it to constantly move and twitch. The target takes a &ndash;4 penalty on all Dexterity checks and Dexterity-based skill checks, and cannot take the delay, ready, or total defense actions.</p>", 
+    "school": "illusion", 
+    "saving_throw": "Will negates", 
+    "description": "You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs.", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Gnomes/New Racial Rules/Gnome Spells/Jitterbugs", 
+    "spell_resistance": "yes", 
+    "casting_time": "1 standard action", 
+    "level_text": "bard: 1; skald: 1; sorcerer: 2; wizard: 2; arcanist: 2", 
+    "descriptor": [
+        "mind-affecting"
+    ], 
+    "range": "short (25 ft. +5 ft. 2/levels)", 
+    "levels": [
+        {
+            "class": "Arcanist", 
+            "level": 2
+        }, 
+        {
+            "class": "Bard", 
+            "level": 1
+        }, 
+        {
+            "class": "Skald", 
+            "level": 1
+        }, 
+        {
+            "class": "Sorcerer", 
+            "level": 2
+        }, 
+        {
+            "class": "Wizard", 
+            "level": 2
+        }
+    ], 
+    "descriptor_text": "mind-affecting", 
+    "effects": [
+        {
+            "text": "one creature", 
+            "name": "Target"
+        }
+    ], 
+    "components": [
+        {
+            "type": "V"
+        }, 
+        {
+            "type": "S"
+        }
+    ], 
+    "duration": "1 round/level", 
+    "subschool_text": "figment", 
+    "subschool": [
+        "figment"
+    ], 
+    "type": "spell", 
+    "component_text": "V, S", 
+    "name": "Jitterbugs"
+}

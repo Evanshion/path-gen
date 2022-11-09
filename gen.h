@@ -3,4 +3,4 @@
 #endif // GEN_H_H
 #include <jsonreader.h>
 
-void extract_value(QString classe, int level, QString var);
+QJsonValue extract_value(QString classe, int level, QString var);

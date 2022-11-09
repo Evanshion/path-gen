@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"hide-tracks\">At 1st level, a heretical inquisitor is adept at hiding her tracks. Creatures attempting to track her take a &ndash;5 penalty on rolls to find or follow her tracks.</p>", 
+    "name": "Hide Tracks", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitor Archetypes/Heretic/Hide Tracks", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

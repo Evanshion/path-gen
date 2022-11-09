@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"torturer's-presence\">You gain a +2 bonus when using the Intimidate skill. This is in addition to your bonus for Stern Gaze.</p>", 
+    "name": "Torturer's Presence", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Inquisitor/Inquisitions/Torture Inquisition/Granted Powers/Torturers Presence", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

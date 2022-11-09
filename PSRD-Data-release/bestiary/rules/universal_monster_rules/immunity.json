@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"immunity-(ex-or-su)\"> A creature with immunities takes no damage from listed sources. Immunities can also apply to afflictions, conditions, spells (based on school, level, or save type), and other effects. A creature that is immune does not suffer from these effects, or any secondary effects that are triggered due to an immune effect.</p>", 
+    "name": "Immunity", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Immunity", 
+    "sections": [
+        {
+            "body": "<p>:<b> Immune</b> acid, fire, paralysis; <i>Location</i>: Defensive Abilities.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Bestiary", 
+    "type": "ability"
+}

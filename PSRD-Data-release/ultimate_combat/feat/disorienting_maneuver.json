@@ -1,0 +1,24 @@
+{
+    "name": "Disorienting Maneuver", 
+    "url": "pfsrd://Ultimate Combat/Feats/Disorienting Maneuver", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Dodge, Acrobatics 5 ranks."
+        }, 
+        {
+            "body": "<p>If you successfully use Acrobatics to tumble through an opponent's space, you gain a +2 circumstance bonus on attack rolls against that opponent until the start of your next turn. If you choose to make a trip attempt against that opponent, you gain a +4 circumstance bonus on your combat maneuver check. This bonus on trip also lasts until the start of your next turn.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your erratic movements disorient your opponent."
+}

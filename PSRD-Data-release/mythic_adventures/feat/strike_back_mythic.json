@@ -1,0 +1,24 @@
+{
+    "name": "Strike Back, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Strike Back/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Strike Back."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When you make a melee attack as a readied action against a foe outside your melee reach, you can take a 5-foot step toward that foe. If you expend one use of mythic power, you can move your speed toward the foe instead. Neither of these counts toward the movement made during your turn.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "Your precise counterattacks degrade your foes' advantages in combat."
+}

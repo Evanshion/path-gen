@@ -1,0 +1,81 @@
+{
+    "body": "<p>Vishkanyas are defined by their class levels&mdash;they do not possess racial Hit Dice. Vishkanyas have the following racial traits.</p>", 
+    "name": "Vishkanya", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Vishkanyas are graceful and elegant, but often irrational.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Charisma, -2 Wisdom"
+        }, 
+        {
+            "body": "<p>Vishkanyas can see twice as far as humans in conditions of dim light.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya/Low-Light Vision", 
+            "type": "section", 
+            "name": "Low-Light Vision", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Vishkanyas receive a +2 racial bonus on Perception checks.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya/Keen Senses", 
+            "type": "section", 
+            "name": "Keen Senses", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Vishkanyas gain a +2 racial bonus on Escape Artist and Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya/Limber", 
+            "type": "section", 
+            "name": "Limber", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>A vishkanya has a racial bonus on saves against poison equal to its Hit Dice.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya/Poison Resistance", 
+            "type": "section", 
+            "name": "Poison Resistance", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "See Vishkanya/Special Abilities/Toxic", 
+            "source": "Bestiary 3", 
+            "type": "link", 
+            "name": "Poison Use"
+        }, 
+        {
+            "body": "See Vishkanya/Special Abilities/Toxic", 
+            "source": "Bestiary 3", 
+            "type": "link", 
+            "name": "Toxic"
+        }, 
+        {
+            "body": "<p>Vishkanyas are always proficient with blowguns, kukri, and shuriken.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vishkanya/Vishkanya/Weapon Familiarity", 
+            "type": "section", 
+            "name": "Weapon Familiarity", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Vishkanyas begin play speaking Common and Vishkanya. Vishkanyas with high Intelligence scores can choose any of the following bonus languages: Aklo, Draconic, Elven, Goblin, Sylvan, and Undercommon.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Vishkanya Monster Entry", 
+                    "source": "Bestiary 3", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 3"
+        }
+    ]
+}

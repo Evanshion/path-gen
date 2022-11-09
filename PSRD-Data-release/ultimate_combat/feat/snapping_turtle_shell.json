@@ -1,0 +1,24 @@
+{
+    "name": "Snapping Turtle Shell", 
+    "url": "pfsrd://Ultimate Combat/Feats/Snapping Turtle Shell", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Snapping Turtle Clutch, Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +5 or monk level 5th."
+        }, 
+        {
+            "body": "<p>While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC increases to +2, and your enemies take a &ndash;4 penalty on critical confirmation rolls against you.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "Your guarding hand is almost magical in its skill at deflecting incoming blows."
+}

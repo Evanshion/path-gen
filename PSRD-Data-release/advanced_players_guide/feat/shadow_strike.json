@@ -1,0 +1,24 @@
+{
+    "name": "Shadow Strike", 
+    "url": "pfsrd://Advanced Players Guide/Feats/Shadow Strike", 
+    "sections": [
+        {
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Base attack bonus +1."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> You can deal precision damage, such as sneak attack damage, against targets with concealment (but not total concealment).</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Advanced Player's Guide", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "You accurately strike even those you cannot clearly see."
+}

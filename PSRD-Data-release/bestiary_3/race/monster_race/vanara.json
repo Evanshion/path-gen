@@ -1,0 +1,61 @@
+{
+    "body": "<p>Vanaras are defined by their class levels&mdash;they do not possess racial Hit Dice. All vanaras have the following racial traits.</p>", 
+    "name": "Vanara", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Vanara/Vanara", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Vanaras are agile and insightful, but are also rather mischievous.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Wisdom, -2 Charisma"
+        }, 
+        {
+            "body": "<p>Vanaras have a climb speed of 20 feet.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vanara/Vanara/Climb Speed", 
+            "type": "section", 
+            "name": "Climb Speed", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Vanaras can see twice as far as a human in conditions of dim light.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vanara/Vanara/Low-Light Vision", 
+            "type": "section", 
+            "name": "Low-Light Vision", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Vanaras have a +2 racial bonus on Acrobatics and Stealth checks.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Vanara/Vanara/Nimble", 
+            "type": "section", 
+            "name": "Nimble", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "See Vanara/Special Abilities/Prehensile Tail", 
+            "source": "Bestiary 3", 
+            "type": "link", 
+            "name": "Prehensile Tail"
+        }, 
+        {
+            "body": "<p>A vanara begins play speaking both Common and Vanaran. Vanaras with high Int scores can choose from among the following bonus languages: Aklo, Celestial, Elven, Gnome, Goblin, and Sylvan.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Vanara Monster Entry", 
+                    "source": "Bestiary 3", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 3"
+        }
+    ]
+}

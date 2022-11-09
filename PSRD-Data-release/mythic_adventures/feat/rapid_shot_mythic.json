@@ -1,0 +1,24 @@
+{
+    "name": "Rapid Shot, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Rapid Shot/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Rapid Shot."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">When using Rapid Shot, you can either ignore the feat's &ndash;2 penalty on attack rolls or make two additional attacks instead of one.</p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You can fire many times each round with amazing precision."
+}

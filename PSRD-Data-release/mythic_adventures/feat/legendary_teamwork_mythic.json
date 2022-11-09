@@ -1,0 +1,24 @@
+{
+    "name": "Legendary Teamwork, Mythic", 
+    "url": "pfsrd://Mythic Adventures/Feats/Legendary Teamwork/Mythic", 
+    "sections": [
+        {
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Any two teamwork feats."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">Any fixed numeric bonuses you gain from teamwork feats are increased by 1. This doesn't apply to variable numeric bonuses or to effects that are not numeric bonuses, such as additional attacks of opportunity, movement, or other extra actions.<span class=\"hyperlink char-style-override-15\"></span></p>", 
+            "source": "Mythic Adventures", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Mythic Adventures", 
+    "feat_types": {
+        "feat_type": "Mythic"
+    }, 
+    "type": "feat", 
+    "description": "You and your allies fight with great coordination."
+}

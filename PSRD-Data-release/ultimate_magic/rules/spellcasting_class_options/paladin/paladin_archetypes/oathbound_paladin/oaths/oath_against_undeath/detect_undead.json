@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"detect-undead\">This ability works like the standard paladin ability to detect evil, except as <i>detect undead</i> instead of <i>detect evil</i>. This ability replaces <i>detect evil</i>.</p>", 
+    "name": "Detect Undead", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Paladin/Paladin Archetypes/Oathbound Paladin/Oaths/Oath against Undeath/Detect Undead", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

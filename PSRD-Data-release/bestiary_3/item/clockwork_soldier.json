@@ -1,0 +1,17 @@
+{
+    "name": "CLOCKWORK SOLDIER", 
+    "cl": "12th", 
+    "url": "pfsrd://Bestiary 3/Monsters/Clockwork/Clockwork Soldier/Construction/CLOCKWORK SOLDIER", 
+    "sections": [
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>Craft Construct, geas/quest and heroism, creator must be at least caster level 12th</p><p class='stat-block-1'><b>Skill </b>Craft (clockwork) DC 20</p><p class='stat-block-1'><b>Cost </b>19,000 gp</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Clockwork/Clockwork Soldier/Construction/CLOCKWORK SOLDIER/CONSTRUCTION", 
+            "type": "section", 
+            "name": "CONSTRUCTION", 
+            "source": "Bestiary 3"
+        }
+    ], 
+    "price": "37,000 gp", 
+    "source": "Bestiary 3", 
+    "type": "item"
+}

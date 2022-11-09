@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"inspire\">At 15th level, your artistic magic can inspire your allies to great accomplishments. You can use <i>greater heroism</i> as a spell-like ability. You can use this ability once per day at 15th level, twice per day at 17th level, and three times per day at 19th level.</p>", 
+    "name": "Inspire", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Sorcerer/Bloodlines/Maestro/Bloodline Powers/Inspire", 
+    "ability_types": {
+        "ability_type": "Spell-Like"
+    }, 
+    "source": "Ultimate Magic", 
+    "type": "ability"
+}

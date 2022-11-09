@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"mystic-prescience\">At 13th level, a <i>ki</i> mystic gains a +2 insight bonus to AC and CMD. At 20th level, the bonus increases to +4. This ability replaces diamond soul.</p>", 
+    "name": "Mystic Prescience", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Monk/Monk Archetypes/Ki Mystic/Mystic Prescience", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

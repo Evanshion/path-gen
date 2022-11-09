@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"weapon-mastery\">At 20th level, a kensai gains weapon mastery with his favored weapon, as the fighter class ability. This ability replaces true magus.</p>", 
+    "name": "Weapon Mastery", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Magus/Magus Archetypes/Kensai/Weapon Mastery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

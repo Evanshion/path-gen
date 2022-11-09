@@ -1,0 +1,60 @@
+{
+    "body": "<p>Sylphs are defined by class levels&mdash;they do not possess racial Hit Dice. Sylphs have the following racial traits.</p>", 
+    "name": "Sylph", 
+    "source": "Bestiary 2", 
+    "url": "pfsrd://Bestiary 2/Monsters/Sylph/Sylph", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p id=\"+2-dexterity,-+2-intelligence,--2-constitution\">Sylphs are quick and insightful, but slight and delicate.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "+2 Dexterity, +2 Intelligence, -2 Constitution"
+        }, 
+        {
+            "body": "<p id=\"darkvision\">Sylphs can see in the dark up to 60 feet.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Darkvision"
+        }, 
+        {
+            "body": "<p id=\"sylph-magic\"><i>Feather fall</i> 1/day (caster level equals the sylph's Hit Dice).</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Sylph/Sylph/Sylph Magic", 
+            "type": "section", 
+            "name": "Sylph Magic", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "<p id=\"elemental-resistance\">Sylphs have electricity resistance 5.</p>", 
+            "url": "pfsrd://Bestiary 2/Monsters/Sylph/Sylph/Energy Resistance", 
+            "type": "section", 
+            "name": "Energy Resistance", 
+            "source": "Bestiary 2"
+        }, 
+        {
+            "body": "See Sylph/Special Abilities/Air Affinity", 
+            "source": "Bestiary 2", 
+            "type": "link", 
+            "name": "Air Affinity"
+        }, 
+        {
+            "body": "<p id=\"languages\">Sylphs begin play speaking Common and Auran. Sylphs with high Intelligence scores can choose any of the following bonus languages: Aquan, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Sylph Monster Entry", 
+                    "source": "Bestiary 2", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 2"
+        }
+    ]
+}

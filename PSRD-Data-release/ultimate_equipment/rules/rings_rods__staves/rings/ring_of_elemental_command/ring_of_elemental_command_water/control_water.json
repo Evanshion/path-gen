@@ -1,0 +1,18 @@
+{
+    "url": "pfsrd://Ultimate Equipment/Rules/Rings/Rods and Staves/Rings/Ring of Elemental Command/Ring of Elemental Command (Water)/Control water", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<li> (twice per week)</li>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }, 
+        {
+            "body": "<p class=\"stat-block\">This ring appears to be a <i>ring of water walking</i> until the established condition is met. </p>", 
+            "source": "Ultimate Equipment", 
+            "type": "section"
+        }
+    ], 
+    "name": "Control water", 
+    "source": "Ultimate Equipment"
+}

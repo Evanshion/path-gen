@@ -1,0 +1,12 @@
+{
+    "name": "Girtablilu Venom", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Girtablilu/Special Abilities/Poison/Girtablilu Venom", 
+    "contracted": "injury", 
+    "effect": "1d4 Dexterity", 
+    "subtype": "poison", 
+    "cure": "2 consecutive saves", 
+    "frequency": "1/round for 6 rounds", 
+    "save": "Fortitude DC 20", 
+    "type": "affliction"
+}

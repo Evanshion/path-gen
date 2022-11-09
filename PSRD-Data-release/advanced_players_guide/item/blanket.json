@@ -1,0 +1,14 @@
+{
+    "body": "<p id=\"blanket\">This warm, woven blanket has straps so it can be rolled up and tied.</p>", 
+    "name": "Blanket", 
+    "weight": "1 lb.1", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Gear/Goods and Services/Adventuring Gear/Blanket", 
+    "price": "2 sp", 
+    "misc": {
+        "null": {
+            "Gear Type": "Adventuring Gear"
+        }
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "item"
+}

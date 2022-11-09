@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"unnatural-aura\"> Animals do not willingly approach the creature unless the animal's master makes a DC 25 Handle Animal, Ride, or wild empathy check.</p>", 
+    "name": "Unnatural Aura", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Unnatural Aura", 
+    "sections": [
+        {
+            "body": "<p>unnatural aura (30 ft.); <i>Location</i>: Aura.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Bestiary 2", 
+    "type": "ability"
+}

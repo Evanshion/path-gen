@@ -1,0 +1,24 @@
+{
+    "name": "Rune of Terror", 
+    "cl": "7th", 
+    "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Building and Modifying Constructs/Construct Modifications/Rune-Carved/Rune of Terror", 
+    "sections": [
+        {
+            "body": "<p class=\"stat-description-2\">This rune is triggered the first time a creature moves adjacent to the modified construct. The rune creates 20-foot-radius spread of necromantic energy. Creatures in the area must succeed on a DC 20 Will saving throw or become panicked for 1d4 rounds. If the Will save succeeds, the creature is shaken for 1 round.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Building and Modifying Constructs/Construct Modifications/Rune-Carved/Rune of Terror/Trigger and Effect", 
+            "type": "section", 
+            "name": "Trigger and Effect", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p class='stat-block-1'><b>Requirements </b>fear</p><p class='stat-block-1'><b>Cost </b>11,200 gp</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Mastering Magic/Building and Modifying Constructs/Construct Modifications/Rune-Carved/Rune of Terror/Modification", 
+            "type": "section", 
+            "name": "Modification", 
+            "source": "Ultimate Magic"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "aura": "moderate necromancy", 
+    "type": "item"
+}

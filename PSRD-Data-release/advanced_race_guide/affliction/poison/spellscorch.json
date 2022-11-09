@@ -1,0 +1,13 @@
+{
+    "name": "Spellscorch", 
+    "source": "Advanced Race Guide", 
+    "url": "pfsrd://Advanced Race Guide/Races/Duergar/New Racial Rules/Duergar Equipment/Spellscorch/Spellscorch", 
+    "contracted": "contact", 
+    "effect": "see text", 
+    "onset": "&mdash;", 
+    "subtype": "poison", 
+    "cure": "1 save", 
+    "frequency": "1/round for 4 rounds", 
+    "save": "Fortitude DC 14", 
+    "type": "affliction"
+}

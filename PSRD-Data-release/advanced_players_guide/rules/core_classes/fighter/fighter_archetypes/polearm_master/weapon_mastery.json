@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"weapon-mastery\">A polearm master must choose a spear or polearm.</p>", 
+    "name": "Weapon Mastery", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Fighter/Fighter Archetypes/Polearm Master/Weapon Mastery", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"tough-guy\">At 3rd level, an unarmed fighter gains DR/&mdash; equal to half his fighter level against nonlethal damage or damage taken while he is grappled. This ability replaces armor training 1. </p>", 
+    "name": "Tough Guy", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Fighter/Fighter Archetypes/Unarmed Fighter/Tough Guy", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

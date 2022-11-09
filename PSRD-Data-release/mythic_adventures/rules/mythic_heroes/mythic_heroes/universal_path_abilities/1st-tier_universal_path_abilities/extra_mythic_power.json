@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"extra-mythic-power\">You can call upon your mythic power two additional times per day. You can select this ability up to three times.</p>", 
+    "name": "Extra Mythic Power", 
+    "url": "pfsrd://Mythic Adventures/Rules/Mythic Heroes/Mythic Heroes/Universal Path Abilities/1st-Tier Universal Path Abilities/Extra Mythic Power", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Mythic Adventures", 
+    "type": "ability"
+}

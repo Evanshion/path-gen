@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"lifesense\"> The creature notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.</p>", 
+    "name": "Lifesense", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Lifesense", 
+    "sections": [
+        {
+            "body": "<p>lifesense; <i>Location</i>: Senses.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Bestiary 2", 
+    "type": "ability"
+}

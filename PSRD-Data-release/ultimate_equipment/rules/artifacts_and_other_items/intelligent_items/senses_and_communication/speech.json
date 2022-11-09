@@ -1,0 +1,10 @@
+{
+    "body": "<p>An intelligent item with this ability can speak out loud using any of the languages it knows.</p>", 
+    "name": "Speech", 
+    "url": "pfsrd://Ultimate Equipment/Rules/Artifacts and Other Items/Intelligent Items/Senses and Communication/Speech", 
+    "ability_types": {
+        "ability_type": "Supernatural"
+    }, 
+    "source": "Ultimate Equipment", 
+    "type": "ability"
+}

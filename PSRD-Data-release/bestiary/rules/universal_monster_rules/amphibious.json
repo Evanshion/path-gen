@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"amphibious-(ex)-\">Creatures with this special quality have the aquatic subtype, but they can survive indefinitely on land.</p>", 
+    "name": "Amphibious", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Amphibious", 
+    "sections": [
+        {
+            "body": "<p>amphibious; <i>Location</i>: SQ.</p>", 
+            "source": "Bestiary", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary", 
+    "type": "ability"
+}

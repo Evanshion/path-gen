@@ -1,0 +1,70 @@
+{
+    "dexterity": "14", 
+    "ac": "13, touch 12, flat-footed 11 (+2 Dex, +1 natural)", 
+    "intelligence": "1", 
+    "melee": "bite +3 (1d6+3 plus grab)", 
+    "cr": "1", 
+    "xp": "400", 
+    "speed": "swim 60 ft.", 
+    "alignment": "N", 
+    "size": "Medium", 
+    "strength": "14", 
+    "constitution": "15", 
+    "treasure": "none", 
+    "init": "+6", 
+    "environment": "temperate freshwater", 
+    "source": "Bestiary 2", 
+    "charisma": "2", 
+    "fortitude": "+5", 
+    "type": "creature", 
+    "feats": "Improved Initiative", 
+    "senses": "low-light vision; Perception +6", 
+    "description": "This long, lean fish has a muscular body and a head with long jaws filled with sharp teeth.", 
+    "sections": [
+        {
+            "body": "<p>Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the advanced creature template.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section"
+        }, 
+        {
+            "ac": "+1 natural", 
+            "name": "Gar", 
+            "source": "Bestiary 2", 
+            "url": "pfsrd://Bestiary 2/Monsters/Gar/Gar/Gar", 
+            "speed": "swim 60 ft.", 
+            "subtype": "base", 
+            "attack": "bite (1d6)", 
+            "type": "animal_companion", 
+            "ability_scores": "Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2", 
+            "special_abilities": "grab.", 
+            "sections": [
+                {
+                    "ac": "+3 natural", 
+                    "name": "7th-Level Advancement", 
+                    "level": "7th", 
+                    "url": "pfsrd://Bestiary 2/Monsters/Gar/Gar/Gar/7th-Level Advancement", 
+                    "subtype": "advancement", 
+                    "attack": "bite (1d8)", 
+                    "source": "Bestiary 2", 
+                    "ability_scores": "Str +8, Dex -2, Con +4", 
+                    "type": "animal_companion", 
+                    "size": "Large"
+                }
+            ], 
+            "size": "Medium"
+        }
+    ], 
+    "hp": "13 (2d8+4)", 
+    "wisdom": "13", 
+    "creature_type": "Animal", 
+    "name": "Gar", 
+    "base_attack": "+1", 
+    "skills": "Perception +6, Swim +10", 
+    "reflex": "+5", 
+    "cmd": "15 (can't be tripped)", 
+    "cmb": "+3 (+7 grapple)", 
+    "will": "+1", 
+    "url": "pfsrd://Bestiary 2/Monsters/Gar/Gar", 
+    "organization": "solitary, pair, or school (3-6)", 
+    "creature_subtype": "aquatic"
+}

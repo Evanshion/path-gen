@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Sorcerer/Sorcerers/Blackscale Sorcerer/Brax Swampblack", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Brax was born in an inbred human village tainted by swamp magic and a forgotten legacy of despicable acts. He is primarily driven by hunger and the urge to corrupt others, though his sloth often gets the better of him. He is equally comfortable sleeping in a bed, in a sewer, or on a pile of corpses. When his laziness overcomes his violent tendencies, he is talkative but dull, concerned more with his inflated ego than anything of consequence.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Brax is usually a loner, but he may browbeat simple creatures, such as boggards, orcs, or trolls, into serving him.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p>When Brax is feeling particularly sated, flattery could convince him to work with the PCs, especially if their goal is removing threats to his territory.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Encounters", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Brax Swampblack", 
+    "source": "NPC Codex"
+}

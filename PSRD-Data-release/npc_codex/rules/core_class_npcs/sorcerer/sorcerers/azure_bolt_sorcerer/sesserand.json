@@ -1,0 +1,37 @@
+{
+    "url": "pfsrd://NPC Codex/Rules/Core Class NPCs/Sorcerer/Sorcerers/Azure Bolt Sorcerer/Sesserand", 
+    "type": "section", 
+    "sections": [
+        {
+            "body": "<p>Sesserand has always been a small person, a lackey to others, only coming into her own when her magic awakened. Now she makes up for years of insults by preparing and memorizing cutting remarks for every possible slight, not realizing her power and inner strength are more than enough to garner respect despite her shortcomings.</p>", 
+            "source": "NPC Codex", 
+            "type": "section"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Sesserand prefers to have lackeys engage enemies so she can freely choose targets to destroy. She might serve as a lieutenant to a wittier person who can make her feel important.</p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Combat Encounters", 
+            "source": "NPC Codex"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p> Sesserand might work for a charismatic person who values her abilities, or might tell herself that she's the \"power behind the throne\" in an unequal partnership.<span class=\"char-style-override-23\"></span></p>", 
+                    "source": "NPC Codex", 
+                    "type": "section"
+                }
+            ], 
+            "name": "Roleplaying Encounters", 
+            "source": "NPC Codex"
+        }
+    ], 
+    "name": "Sesserand", 
+    "source": "NPC Codex"
+}

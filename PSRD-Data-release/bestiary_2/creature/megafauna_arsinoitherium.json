@@ -1,0 +1,73 @@
+{
+    "dexterity": "10", 
+    "ac": "20, touch 9, flat-footed 20 (+11 natural, -1 size)", 
+    "special_attacks": "powerful charge (4d8+13), trample (2d8+13, DC 23)", 
+    "intelligence": "2", 
+    "melee": "gore +14 (4d8+13)", 
+    "cr": "7", 
+    "xp": "3,200", 
+    "speed": "30 ft.", 
+    "alignment": "N", 
+    "size": "Large", 
+    "strength": "28", 
+    "constitution": "21", 
+    "space": "10 ft.", 
+    "treasure": "none", 
+    "init": "+0", 
+    "environment": "temperate plains", 
+    "source": "Bestiary 2", 
+    "charisma": "3", 
+    "fortitude": "+13", 
+    "type": "creature", 
+    "feats": "Diehard, Endurance, Great Fortitude, Improved Overrun, Power Attack", 
+    "senses": "low-light vision, scent; Perception +13", 
+    "description": "This creature is much like a rhino, some six feet tall and ten feet long, with a pair of massive, knife-like horns curving up from its nose.", 
+    "sections": [
+        {
+            "body": "<p>The arsinoitherium is a herbivore, but it displays a fierce and threatening behavior when it perceives danger: bellowing, stamping, and tossing its head. Threats that do not recede from such warnings are met with a fierce bellow and a charge.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section"
+        }, 
+        {
+            "ac": "+4 natural", 
+            "name": "Arsinoitherium", 
+            "source": "Bestiary 2", 
+            "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Arsinoitherium/Arsinoitherium", 
+            "speed": "30 ft.", 
+            "subtype": "base", 
+            "attack": "gore (1d8)", 
+            "type": "animal_companion", 
+            "ability_scores": "Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 3", 
+            "sections": [
+                {
+                    "ac": "+2 natural", 
+                    "name": "7th-Level Advancement", 
+                    "level": "7th", 
+                    "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Arsinoitherium/Arsinoitherium/7th-Level Advancement", 
+                    "subtype": "advancement", 
+                    "attack": "gore (2d8)", 
+                    "source": "Bestiary 2", 
+                    "ability_scores": "Str +8, Dex -2, Con +4", 
+                    "type": "animal_companion", 
+                    "special_qualities": "powerful charge (2d8), trample.", 
+                    "size": "Large"
+                }
+            ], 
+            "special_qualities": "low-light vision, scent.", 
+            "size": "Medium"
+        }
+    ], 
+    "hp": "85 (9d8+45)", 
+    "reach": "5 ft.", 
+    "wisdom": "13", 
+    "creature_type": "Animal", 
+    "name": "Megafauna, Arsinoitherium", 
+    "base_attack": "+6", 
+    "skills": "Perception +13", 
+    "reflex": "+6", 
+    "cmd": "26 (30 vs. trip)", 
+    "cmb": "+16", 
+    "will": "+4", 
+    "url": "pfsrd://Bestiary 2/Monsters/Megafauna/Arsinoitherium", 
+    "organization": "solitary, pair, or herd (3-12)"
+}

@@ -1,0 +1,18 @@
+{
+    "body": "<p id=\"split\"> The creature splits into two identical copies of itself if subject to certain attacks or effects. Each copy has half the original's current hit points (rounded down). A creature reduced below the listed hit points cannot be further split and can be killed normally.</p>", 
+    "name": "Split", 
+    "url": "pfsrd://Bestiary/Rules/Universal Monster Rules/Split", 
+    "sections": [
+        {
+            "body": "<p>split (piercing and slashing, 10 hp); <i>Location</i>: Defensive Abilities.</p>", 
+            "source": "Bestiary 2", 
+            "type": "section", 
+            "name": "Format"
+        }
+    ], 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Bestiary 2", 
+    "type": "ability"
+}

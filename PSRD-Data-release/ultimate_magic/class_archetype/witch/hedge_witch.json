@@ -1,0 +1,58 @@
+{
+    "body": "<p>Among witches, there are those who devote themselves to the care of others and restrict their practices to the healing arts. They often take the place of clerics in rural communities and may wander the countryside servicing the needs of several small communities. </p>", 
+    "name": "Hedge Witch", 
+    "source": "Ultimate Magic", 
+    "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch", 
+    "type": "class_archetype", 
+    "subtype": "witch", 
+    "sections": [
+        {
+            "body": "<p id=\"patron\">A hedge witch's patron is normally one with a healing theme (see page 83).</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Patron", 
+            "type": "section", 
+            "name": "Patron", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"spontaneous-healing\">A hedge witch can channel stored spell energy into healing spells that she did not prepare ahead of time. The witch can &ldquo;lose&rdquo; any prepared spell that is not an orison in order to cast any <i>cure</i> spell of the same spell level or lower, even if she doesn't know that cure spell. This replaces the witch's hex gained at 4th level.</p>", 
+            "name": "Spontaneous Healing", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Spontaneous Healing", 
+            "ability_types": {
+                "ability_type": "Supernatural"
+            }, 
+            "source": "Ultimate Magic", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p id=\"empathic-healing\">A hedge witch can minister to a diseased or poisoned target, redirecting the affliction into herself. For a poisoned target, the witch must tend to him as a standard action; he makes his next saving throw against the poison as normal, but the witch suffers the effects of the failed save instead of the poisoned creature. For a diseased target, the witch must tend to the sick person for an hour; he makes his next saving throw against the disease as normal, but the witch suffers the effects of the failed save instead of the diseased creature. The witch does not actually become poisoned or diseased (and is not contagious and does not need to be cured), but suffers the effects of the affliction as if she had been. The witch normally uses this ability to extend the life of someone near death, giving him time to recover. This ability has no effect if the witch is immune to disease or poison. This replaces the witch's hex gained at 8th level.</p>", 
+            "name": "Empathic Healing", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Empathic Healing", 
+            "ability_types": {
+                "ability_type": "Supernatural"
+            }, 
+            "source": "Ultimate Magic", 
+            "type": "ability"
+        }, 
+        {
+            "body": "<p id=\"hexes\">The following witch hexes complement the hedge witch archetype: cauldron, feral speech, healing, tongues.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Hexes", 
+            "type": "section", 
+            "name": "Hexes", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"major-hexes\">The following major hexes complement the hedge witch archetype: major healing, weather control, witch's brew.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Major Hexes", 
+            "type": "section", 
+            "name": "Major Hexes", 
+            "source": "Ultimate Magic"
+        }, 
+        {
+            "body": "<p id=\"grand-hexes\">The following grand hex complements the hedge witch archetype: life giver.</p>", 
+            "url": "pfsrd://Ultimate Magic/Rules/Spellcasting Class Options/Witch/Witch Archetypes/Hedge Witch/Grand Hexes", 
+            "type": "section", 
+            "name": "Grand Hexes", 
+            "source": "Ultimate Magic"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "body": "<p>You can pierce the veil between the Shadow Plane and the Material Plane more often, and to greater effect.</p>", 
+    "name": "Shadow Walker", 
+    "url": "pfsrd://Advanced Race Guide/Races/Fetchlings/New Racial Rules/Fetchling Feats/Shadow Walker", 
+    "type": "feat", 
+    "source": "Advanced Race Guide", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "sections": [
+        {
+            "body": "<p class=\"stat-block-1\">Fetchling, <i>shadow walk</i> spell-like ability.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Prerequisites"
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\">You can expend one use of your shadow walk spell-like ability to use <i>dimension door</i> as a spell-like ability. Your start and end locations for this ability must be in dim light or darkness.</p>", 
+            "source": "Advanced Race Guide", 
+            "type": "section", 
+            "name": "Benefit"
+        }
+    ]
+}

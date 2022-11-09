@@ -1,0 +1,24 @@
+{
+    "name": "Strangler", 
+    "url": "pfsrd://Ultimate Combat/Feats/Strangler", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Dex 13, sneak attack +1d6, Improved Grapple, Improved Unarmed Strike."
+        }, 
+        {
+            "body": "<p>Whenever you successfully maintain a grapple and choose to deal damage, you can spend a swift action to deal your sneak attack damage to the creature you are grappling.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "Combat"
+    }, 
+    "type": "feat", 
+    "description": "Throttling the life out of enemies is second nature to you."
+}

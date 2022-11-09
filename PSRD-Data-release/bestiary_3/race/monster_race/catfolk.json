@@ -1,0 +1,60 @@
+{
+    "body": "<p>Catfolk have no racial Hit Dice, gaining their capabilities from class levels. All catfolk have the following racial traits.</p>", 
+    "name": "Catfolk", 
+    "source": "Bestiary 3", 
+    "url": "pfsrd://Bestiary 3/Monsters/Catfolk/Catfolk", 
+    "type": "race", 
+    "subtype": "monster_race", 
+    "sections": [
+        {
+            "body": "<p>Catfolk are agile and amiable, but they are known for their lack of common sense and self-control.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "+2 Dexterity, -2 Wisdom, +2 Charisma"
+        }, 
+        {
+            "body": "<p>In dim light, catfolk can see twice as far as humans.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Catfolk/Catfolk/Low-Light Vision", 
+            "type": "section", 
+            "name": "Low-Light Vision", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "See Catfolk/Special Abilities/Cat's Luck", 
+            "source": "Bestiary 3", 
+            "type": "link", 
+            "name": "Cat's Luck"
+        }, 
+        {
+            "body": "See Catfolk/Special Abilities/Sprinter", 
+            "source": "Bestiary 3", 
+            "type": "link", 
+            "name": "Sprinter"
+        }, 
+        {
+            "body": "<p>Catfolk receive a +2 racial bonus on Perception, Stealth, and Survival checks.</p>", 
+            "url": "pfsrd://Bestiary 3/Monsters/Catfolk/Catfolk/Natural Hunter", 
+            "type": "section", 
+            "name": "Natural Hunter", 
+            "source": "Bestiary 3"
+        }, 
+        {
+            "body": "<p>Catfolk speak Catfolk and Common. A catfolk who has a high Intelligence score can choose from the following bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, Orc, and Sylvan.</p>", 
+            "source": "Bestiary 3", 
+            "type": "section", 
+            "name": "Languages"
+        }, 
+        {
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "Catfolk Monster Entry", 
+                    "source": "Bestiary 3", 
+                    "type": "link"
+                }
+            ], 
+            "name": "See Also", 
+            "source": "Bestiary 3"
+        }
+    ]
+}

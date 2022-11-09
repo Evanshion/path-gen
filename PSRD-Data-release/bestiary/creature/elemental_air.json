@@ -1,0 +1,31 @@
+{
+    "environment": "Plane of Air", 
+    "name": "Elemental, Air", 
+    "url": "pfsrd://Bestiary/Monsters/Elemental/Air/Elemental/Air", 
+    "sections": [
+        {
+            "name": "Special Abilities", 
+            "source": "Bestiary", 
+            "url": "pfsrd://Bestiary/Monsters/Elemental/Air/Elemental/Air/Special Abilities", 
+            "type": "section", 
+            "subtype": "special_abilities", 
+            "sections": [
+                {
+                    "body": "Airborne creatures take a &ndash;1 penalty on attack and damage rolls against an air elemental.", 
+                    "name": "Air Mastery", 
+                    "url": "pfsrd://Bestiary/Monsters/Elemental/Air/Elemental/Air/Special Abilities/Air Mastery", 
+                    "ability_types": {
+                        "ability_type": "Extraordinary"
+                    }, 
+                    "source": "Bestiary", 
+                    "type": "ability"
+                }
+            ]
+        }
+    ], 
+    "treasure": "none", 
+    "languages": "Auran", 
+    "source": "Bestiary", 
+    "organization": "solitary, pair, or gang (3-8)", 
+    "type": "creature"
+}

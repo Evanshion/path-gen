@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"ranger's-counsel\">As a swift action, the ranger can grant all allies within 30 feet that are within line of sight and can hear him a +2 bonus on skill checks with a single skill of his choice. The ranger must have at least one rank in the chosen skill. This bonus lasts for 1 round.</p>", 
+    "name": "Ranger's Counsel", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Ranger/Ranger Archetypes/Skirmisher/Hunters Tricks/Rangers Counsel", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Advanced Player's Guide", 
+    "type": "ability"
+}

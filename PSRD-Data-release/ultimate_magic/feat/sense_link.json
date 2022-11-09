@@ -1,0 +1,24 @@
+{
+    "name": "Sense Link", 
+    "url": "pfsrd://Ultimate Magic/Feats/Sense Link", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Bond senses class feature."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> When sharing the senses of your eidolon, you gain a +4 competence bonus on Perception checks for the duration of your bond senses ability.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "When you and your eidolon share senses, your combined minds grant you exceptional powers of observation."
+}

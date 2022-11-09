@@ -1,0 +1,39 @@
+{
+    "name": "Love Subdomain", 
+    "source": "Advanced Player's Guide", 
+    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Love Subdomain", 
+    "type": "section", 
+    "subtype": "cleric_subdomain", 
+    "sections": [
+        {
+            "body": "<p>Charm.</p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Associated Domain"
+        }, 
+        {
+            "body": "<p>The following granted power replaces the dazing touch power of the Charm domain.</p>", 
+            "type": "section", 
+            "sections": [
+                {
+                    "body": "<p id=\"adoration\">As an immediate action, you can attempt to thwart a melee or ranged attack that targets you. This ability functions as <i>sanctuary</i>, but only against one individual attack. You must use the ability after the attack is declared but before the roll is made. The creature attacking you receives a Will save to negate this effect. If a creature has more than one attack, this ability only affects one of the attacks. You can use the ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.</p>", 
+                    "name": "Adoration", 
+                    "url": "pfsrd://Advanced Players Guide/Rules/Core Classes/Cleric/Subdomains/Love Subdomain/Replacement Power/Adoration", 
+                    "ability_types": {
+                        "ability_type": "Supernatural"
+                    }, 
+                    "source": "Advanced Player's Guide", 
+                    "type": "ability"
+                }
+            ], 
+            "name": "Replacement Power", 
+            "source": "Advanced Player's Guide"
+        }, 
+        {
+            "body": "<p>2nd&mdash;<i>enthrall</i>, 8th&mdash;<i>euphoric tranquility</i>*. </p>", 
+            "source": "Advanced Player's Guide", 
+            "type": "section", 
+            "name": "Replacement Domain Spells"
+        }
+    ]
+}

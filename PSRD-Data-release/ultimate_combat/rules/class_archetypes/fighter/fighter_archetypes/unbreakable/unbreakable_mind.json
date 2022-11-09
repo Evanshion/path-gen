@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"unbreakable-mind\">At 20th level, an unbreakable becomes nearly impossible to sway with honeyed words or magic. He gains immunity to mind-affecting effects. This ability replaces weapon mastery.</p>", 
+    "name": "Unbreakable Mind", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Fighter/Fighter Archetypes/Unbreakable/Unbreakable Mind", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}

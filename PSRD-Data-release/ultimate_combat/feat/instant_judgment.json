@@ -1,0 +1,30 @@
+{
+    "name": "Instant Judgment", 
+    "url": "pfsrd://Ultimate Combat/Feats/Instant Judgment", 
+    "sections": [
+        {
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": "Second judgment class feature."
+        }, 
+        {
+            "body": "<p>You can spend an immediate action to pronounce a judgment or change an active judgment.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Benefits"
+        }, 
+        {
+            "body": "<p>Pronouncing or changing a judgment requires a swift action.</p>", 
+            "source": "Ultimate Combat", 
+            "type": "section", 
+            "name": "Normal"
+        }
+    ], 
+    "source": "Ultimate Combat", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "Your hastiest condemnations can have power."
+}

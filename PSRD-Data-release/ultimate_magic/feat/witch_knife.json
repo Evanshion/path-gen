@@ -1,0 +1,24 @@
+{
+    "name": "Witch Knife", 
+    "url": "pfsrd://Ultimate Magic/Feats/Witch Knife", 
+    "sections": [
+        {
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Prerequisites", 
+            "description": " Witch class."
+        }, 
+        {
+            "body": "<p class=\"stat-block-1\"> Each day, when you prepare your spells, you can select a masterwork or magical dagger, transforming it into a witch knife, which serves as an additional focus component for witch patron spells. Add +1 to the DC of all your patron spells.</p>", 
+            "source": "Ultimate Magic", 
+            "type": "section", 
+            "name": "Benefits"
+        }
+    ], 
+    "source": "Ultimate Magic", 
+    "feat_types": {
+        "feat_type": "General"
+    }, 
+    "type": "feat", 
+    "description": "You empower your witch spells by incorporating the use of a special ceremonial knife during your castings."
+}

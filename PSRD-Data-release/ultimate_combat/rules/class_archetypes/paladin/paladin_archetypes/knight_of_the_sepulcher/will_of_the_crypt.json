@@ -1,0 +1,10 @@
+{
+    "body": "<p id=\"will-of-the-crypt\">At 11th level, a knight of the sepulcher's bonus on saving throws against mind-affecting effects and death effects increases to +4. This ability replaces the aura of vengeance ability.</p>", 
+    "name": "Will of the Crypt", 
+    "url": "pfsrd://Ultimate Combat/Rules/Class Archetypes/Paladin/Paladin Archetypes/Knight of the Sepulcher/Will of the Crypt", 
+    "ability_types": {
+        "ability_type": "Extraordinary"
+    }, 
+    "source": "Ultimate Combat", 
+    "type": "ability"
+}
