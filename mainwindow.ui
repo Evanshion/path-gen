@@ -215,6 +215,45 @@
      <string>TextLabel</string>
     </property>
    </widget>
+   <widget class="QLabel" name="tsfort">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>300</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TS Fortitude</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="tsrefl">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>320</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TS Reflex</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="tswill">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>340</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TS Will</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">

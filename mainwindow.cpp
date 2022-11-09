@@ -3,6 +3,8 @@
 #include <gen.h>
 
 
+QString classname;
+int str=0, dex=0, coss=0, intt=0, wis=0, cha=0;
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -16,6 +18,9 @@ MainWindow::MainWindow(QWidget *parent)
     ui->classe->setText("scegli la classe");
     foreach(QString filename, classes){
         ui->classbox->addItem(filename.remove(".json"));
+    }
+    for(int i=1;i<21;i++){
+        ui->levelbox->addItem(QString::number(i));
     }
 }
 
@@ -37,6 +42,7 @@ void MainWindow::on_actionParsing_triggered()
 
 void MainWindow::on_classbox_currentTextChanged(const QString &arg1)
 {
+    classname=arg1;
     ui->classe->setText(arg1);
     QString filename = arg1+".json";
     QJsonDocument d = readJson("C:/Users/IENOGIUS/Documents/Progetti QT/Path-gen/PSRD-Data-release/core_rulebook/class/core/"+filename);
@@ -61,6 +67,7 @@ void MainWindow::on_str_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
+    str=n;
 
     if (n>=0){
         ui->lstr->setText("+"+QString::number(n));
@@ -79,7 +86,7 @@ void MainWindow::on_dex_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
-
+    dex=n;
     if (n>=0){
         ui->ldex->setText("+"+QString::number(n));
     }else{
@@ -98,7 +105,7 @@ void MainWindow::on_cos_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
-
+    coss=n;
     if (n>=0){
         ui->lcos->setText("+"+QString::number(n));
     }else{
@@ -116,7 +123,7 @@ void MainWindow::on_int_2_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
-
+    intt=n;
     if (n>=0){
         ui->lint->setText("+"+QString::number(n));
     }else{
@@ -134,7 +141,7 @@ void MainWindow::on_wis_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
-
+    wis=n;
     if (n>=0){
         ui->lwis->setText("+"+QString::number(n));
     }else{
@@ -152,7 +159,7 @@ void MainWindow::on_cha_returnPressed()
     }else{
         n = ((arg1.toInt() - 10)/2)+((arg1.toInt() - 10)%2);
     }
-
+    cha=n;
     if (n>=0){
         ui->lcha->setText("+"+QString::number(n));
     }else{
