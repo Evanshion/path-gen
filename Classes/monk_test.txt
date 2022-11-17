@@ -1,0 +1,39 @@
+<td>1st</td><td>+0</td><td>+2</td><td>+2</td><td>+2</td><td style=\"white-space: normal;\">Bonus feat, flurry of blows, stunning fist, unarmed strike</td><td style=\"white-space: normal;word-wrap: break-word;\">&ndash;1/<wbr>&ndash;1</wbr></td><td>1d6</td><td>+0</td><td>+0 ft.</td></tr><tr class=\"even\">
+
+<td>2nd</td><td>+1</td><td>+3</td><td>+3</td><td>+3</td><td style=\"white-space: normal;\">Bonus feat, evasion</td><td style=\"white-space: normal;word-wrap: break-word;\">+0/<wbr>+0</wbr></td><td>1d6</td><td>+0</td><td>+0 ft.</td></tr><tr class=\"odd\">
+
+<td>3rd</td><td>+2</td><td>+3</td><td>+3</td><td>+3</td><td style=\"white-space: normal;\">Fast movement, maneuver training, still mind</td><td style=\"white-space: normal;word-wrap: break-word;\">+1/<wbr>+1</wbr></td><td>1d6</td><td>+0</td><td>+10 ft.</td></tr><tr class=\"even\">
+
+<td>4th</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td style=\"white-space: normal;\"><i>Ki</i> pool (magic), slow fall 20 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+2/<wbr>+2</wbr></td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr><tr class=\"odd\">
+
+<td>5th</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td style=\"white-space: normal;\">High jump, purity of body</td><td style=\"white-space: normal;\">+3/<wbr>+3</wbr></td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr><tr class=\"even\">
+
+<td>6th</td><td>+4</td><td>+5</td><td>+5</td><td>+5</td><td style=\"white-space: normal;\">Bonus feat, slow fall 30 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+4/<wbr>+4/</wbr><wbr>&ndash;1</wbr></td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr><tr class=\"odd\">
+
+<td>7th</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td><td style=\"white-space: normal;\">Ki pool (cold iron/silver), wholeness of body</td><td style=\"white-space: normal;word-wrap: break-word;\">+5/+5/+0</td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr><tr class=\"even\">
+
+<td>8th</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td style=\"white-space: normal;\">Slow fall 40 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+6/<wbr>+6/</wbr><wbr>+1/</wbr><wbr>+1</wbr></td><td>1d10</td><td>+2</td><td>+20 ft.</td></tr><tr class=\"odd\">
+
+<td>9th</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td style=\"white-space: normal;\">Improved evasion</td><td style=\"white-space: normal;word-wrap: break-word;\">+7/<wbr>+7/</wbr><wbr>+2/</wbr><wbr>+2</wbr></td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr><tr class=\"even\">
+
+<td>10th</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+7</td><td style=\"white-space: normal;\">Bonus feat, <i>ki</i> pool (lawful), slow fall 50 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+8/<wbr>+8/</wbr><wbr>+3/</wbr><wbr>+3</wbr></td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr><tr class=\"odd\">
+
+<td>11th</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+7</td><td style=\"white-space: normal;\">Diamond body</td><td style=\"white-space: normal;word-wrap: break-word;\">+9/+9/+4/+4/&ndash;1</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr><tr class=\"even\">
+
+<td>12th</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td style=\"white-space: normal;\">Abundant step, slow fall 60 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+10/<wbr>+10/</wbr><wbr>+5/</wbr><wbr>+5/</wbr><wbr>+0</wbr></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr><tr class=\"odd\">
+
+<td>13th</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td style=\"white-space: normal;\">Diamond soul</td><td style=\"white-space: normal;word-wrap: break-word;\">+11/<wbr>+11/</wbr><wbr>+6/</wbr><wbr>+6/</wbr><wbr>+1</wbr></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr><tr class=\"even\">
+
+<td>14th</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+9</td><td style=\"white-space: normal;\">Bonus feat, slow fall 70 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+12/<wbr>+12/</wbr><wbr>+7/</wbr><wbr>+7/</wbr><wbr>+2</wbr></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr><tr class=\"odd\">
+
+<td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+9</td><td style=\"white-space: normal;\">Quivering palm</td><td style=\"white-space: normal;word-wrap: break-word;\">+13/<wbr>+13/</wbr><wbr>+8/</wbr><wbr>+8/</wbr><wbr>+3/</wbr><wbr>+3</wbr></td><td>2d6</td><td>+3</td><td>+50 ft.</td></tr><tr class=\"even\">
+
+<td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td style=\"white-space: normal;\"><i>Ki</i> pool (adamantine), slow fall 80 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+14/<wbr>+14/</wbr><wbr>+9/</wbr><wbr>+9/</wbr><wbr>+4/</wbr><wbr>+4/</wbr><wbr>&ndash;1</wbr></td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr><tr class=\"odd\">
+
+<td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td style=\"white-space: normal;\">Timeless body, tongue of the sun and moon</td><td style=\"white-space: normal;word-wrap: break-word;\">+15/<wbr>+15/</wbr><wbr>+10/</wbr><wbr>+10/</wbr><wbr>+5/</wbr><wbr>+5/</wbr><wbr>+0</wbr></td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr><tr class=\"even\">
+
+<td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+11</td><td style=\"white-space: normal;\">Bonus feat, slow fall 90 ft.</td><td style=\"white-space: normal;word-wrap: break-word;\">+16/<wbr>+16/</wbr><wbr>+11/</wbr><wbr>+11/</wbr><wbr>+6/</wbr><wbr>+6/</wbr><wbr>+1</wbr></td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr><tr class=\"odd\">
+
+<td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+11</td><td style=\"white-space: normal;\">Empty body</td><td style=\"white-space: normal;word-wrap: break-word;\">+17/<wbr>+17/</wbr><wbr>+12/</wbr><wbr>+12/</wbr><wbr>+7/</wbr><wbr>+7/</wbr><wbr>+2</wbr></td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr><tr class=\"even\">
+
+<td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+12</td><td style=\"white-space: normal;\">Perfect self, slow fall any distance</td><td style=\"white-space: normal;word-wrap: break-word;\">+18/<wbr>+18/</wbr><wbr>+13/</wbr><wbr>+13/</wbr><wbr>+8/</wbr><wbr>+8/</wbr><wbr>+3</wbr></td><td>2d10</td><td>+5</td><td>+60 ft.</td></tr></table>"

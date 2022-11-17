@@ -39,6 +39,10 @@ private slots:
 
     void on_cha_returnPressed();
 
+    void on_levelbox_currentTextChanged(const QString &arg1);
+
+    void on_monbox_currentTextChanged(const QString &arg1);
+
 private:
     Ui::MainWindow *ui;
 };

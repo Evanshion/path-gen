@@ -99,7 +99,7 @@ QJsonDocument parser(QString f, QString classname){
     QString t =match.captured(2);
 
 
-    QString re1 = "st|nd|rd|th";
+    QString re1 = "[1]st|[2]nd|[3]rd|[0-9]th|[0-9][0-9]th";
     QString l;
 
     while (i.hasNext()) {
